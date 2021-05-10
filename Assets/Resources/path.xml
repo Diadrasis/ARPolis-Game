@@ -1,0 +1,68 @@
+<chronomichani>
+	<Venetian>	
+		<path>
+			<segment>
+				<start x="-111" y="72" />
+				<finish x="-15" y="-6" />
+			</segment>
+			<segment>
+				<start x="-15" y="-6" />
+				<finish x="-0.6" y="-10" />
+			</segment>
+			<segment>
+				<start x="-0.6" y="-10" />
+				<finish x="10" y="10" />
+			</segment>
+			<segment>
+				<start x="10" y="10" />
+				<finish x="22" y="15" />
+			</segment>
+			<segment>
+				<start x="22" y="15" />
+				<finish x="23" y="23" />
+			</segment>
+			<segment>
+				<start x="23" y="23" />
+				<finish x="43" y="41" />
+			</segment>
+			<segment>
+				<start x="43" y="41" />
+				<finish x="50" y="55" />
+			</segment>
+			<segment>
+				<start x="50" y="55" />
+				<finish x="67" y="89" />
+			</segment>
+			<segment>
+				<start x="67" y="89" />
+				<finish x="78" y="128" />
+			</segment>
+			<segment>
+				<start x="78" y="128" />
+				<finish x="92" y="200" />
+			</segment>
+			<!-- second branch-->
+			<segment>
+				<start x="-0.6" y="-10" />
+				<finish x="9" y="-16" />
+			</segment>
+			<segment>
+				<start x="9" y="-16" />
+				<finish x="3" y="-32" />
+			</segment>
+			<segment>
+				<start x="3" y="-32" />
+				<finish x="-16" y="-63" />
+			</segment>
+			<segment>
+				<start x="-16" y="-63" />
+				<finish x="32" y="-77" />
+			</segment>
+			<segment>
+				<start x="32" y="-77" />
+				<finish x="252" y="-145" />
+			</segment>
+		</path>
+	</Venetian>
+</chronomichani>
+		

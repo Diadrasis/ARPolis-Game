@@ -1,0 +1,1252 @@
+<terms version="1.0">
+	<term>
+		<name>commentHelp</name>
+		<value>
+			<gr>Αφήστε σχόλιο</gr>
+			<en>Leave your comment</en>
+		</value>
+	</term>
+	<term>
+		<name>shopHelp</name>
+		<value>
+			<gr>Κατάστημα</gr>
+			<en>Shop</en>
+		</value>
+	</term>
+	<term>
+		<name>greditsHelp</name>
+		<value>
+			<gr>Συντελεστές</gr>
+			<en>Gredits</en>
+		</value>
+	</term>
+	<term>
+		<name>txtCouponOwnYes</name>
+		<value>
+			<gr>NAI</gr>
+			<en>YES</en>
+		</value>
+	</term>
+	<term>
+		<name>txtCouponOwnNo</name>
+		<value>
+			<gr>OXI</gr>
+			<en>NO</en>
+		</value>
+	</term>
+	<term>
+		<name>txtSameCoupon</name>
+		<value>
+			<gr>ΕΧΕΙ ΧΡΗΣΙΜΟΠΟΙΗΘΕΙ!</gr>
+			<en>ALREADY USED!</en>
+		</value>
+	</term>
+	<term>
+		<name>txtCorrectCoupon</name>
+		<value>
+			<gr>ΣΩΣΤΟΣ ΚΩΔΙΚΟΣ</gr>
+			<en>CORRECT CODE</en>
+		</value>
+	</term>
+	<term>
+		<name>txtWrongCoupon</name>
+		<value>
+			<gr>ΛΑΘΟΣ ΚΩΔΙΚΟΣ</gr>
+			<en>WRONG CODE</en>
+		</value>
+	</term>
+	<term>
+		<name>txtBuyCoupon</name>
+		<value>
+			<gr>ΕΧΕΤΕ ΕΚΠΤΩΤΙΚΟ ΚΟΥΠΟΝΙ;</gr>
+			<en>DO YOU HAVE A DISCOUNT COUPON?</en>
+		</value>
+	</term>
+	<term>
+		<name>txtBuyCouponInput</name>
+		<value>
+			<gr>ΕΙΣΑΓΕΤΕ ΤΟΝ ΚΩΔΙΚΟ</gr>
+			<en>ENTER THE CODE</en>
+		</value>
+	</term>
+	<term>
+		<name>txtBuyConfirmation</name>
+		<value>
+			<gr>ΕΠΙΒΕΒΑΙΩΣΗ ΑΓΟΡΑΣ
+
+Θέλετε να αγοράσετε
+την έκδοση
+Athens Time-Walk Pro;</gr>
+			<en>CONFIRM YOUR IN APP
+PURCHASE
+
+Do you want to buy
+Athens Time-Walk
+Pro Edition?</en>
+		</value>
+	</term>
+	<term>
+		<name>TextBuyFirstTime</name>
+		<value>
+			<gr>ΞΕΚΛΕΙΔΩΣΤΕ
+ΤΗΝ ΕΠΙΤΟΠΙΑ ΠΛΟΗΓΗΣΗ
+ΚΑΙ ΤΙΣ ΠΛΗΡΟΦΟΡΙΕΣ</gr>
+			<en>UNLOCK
+ON-SITE (GPS) MODE
+AND INFORMATIONS</en>
+		</value>
+	</term>
+	<term>
+		<name>txtCouponApply</name>
+		<value>
+			<gr>ΣΥΝΕΧΕΙΑ</gr>
+			<en>APPLY</en>
+		</value>
+	</term>
+	<term>
+		<name>TextButtonBuy</name>
+		<value>
+			<gr>ΑΓΟΡΑ</gr>
+			<en>BUY</en>
+		</value>
+	</term>
+	<term>
+		<name>TextButtonCancel</name>
+		<value>
+			<gr>ΑΚΥΡΩΣΗ</gr>
+			<en>CANCEL</en>
+		</value>
+	</term>
+	<term>
+		<name>TextButtonBuy</name>
+		<value>
+			<gr>ΞΕΚΛΕΙΔΩΜΑ</gr>
+			<en>UNLOCK</en>
+		</value>
+	</term>
+	<term>
+		<name>TextSendingSxolio</name>
+		<value>
+			<gr>Το σχόλιο σας απεστάλη. Ευχαριστούμε για το χρόνο σας.</gr>
+			<en>Your comment sent. Thank you for your time.</en>
+		</value>
+	</term>
+	<term>
+		<name>TextSendingSxolioError</name>
+		<value>
+			<gr>Αδυναμία αποστολής.
+Παρακαλώ συνδεθείτε στο διαδίκτυο και ξαναπροσπαθήστε.</gr>
+			<en>Please check your internet connection and try again.</en>
+		</value>
+	</term>
+	<term>
+		<name>txtSend</name>
+		<value>
+			<gr>Αποστολή</gr>
+			<en>Send</en>
+		</value>
+	</term>
+	<term>
+		<name>txtSxolio</name>
+		<value>
+			<gr>Αφήστε Σχόλια</gr>
+			<en>Leave Comments</en>
+		</value>
+	</term>
+	<term>
+		<name>PlaceholderSxolio</name>
+		<value>
+			<gr>Σχολιάστε ή πείτε την γνώμη σας...</gr>
+			<en>Comment or give us a feedback...</en>
+		</value>
+	</term>
+	<term>
+		<name>betaWarning</name>
+		<value>
+			<gr>Αυτή είναι μία δοκιμαστική (beta) έκδοση της εφαρμογής με απενεργοποιημένη τη δυνατότητα επιτόπιας περιήγησης με gps ( εκτός των Αέρηδων επι ρωμαικής εποχής) και χωρίς πολυμεσικό υλικό για τα μνημεία.
+			
+Περιηγηθείτε στους χώρους και στείλτε μας τα σχόλια και τις παρατηρήσεις σας στο info@diadrasis.gr
+
+Η πλήρης έκδοση έρχεται σύντομα!</gr>
+			<en>This is a beta testing version of the application, with the on-site gps navigation deactivated and without multimedia content on the monuments.
+			
+Walk around the ancient sites and send us comments and feedback at info@diadrasis.gr
+
+The full version is coming soon!</en>
+		</value>
+	</term>
+	<term>
+		<name>lowMemory</name>
+		<value>
+			<gr>Η συσκευή σας δεν διαθέτει τις απαιτούμενες προδιαγραφές
+και ενδέχεται να παρουσιαστεί κάποια αστάθεια στη λειτουργία της εφαρμογής. </gr>
+			<en>Your device does not have the required specifications
+and may experience some instability in the application operation.</en>
+		</value>
+	</term>
+	<term>
+		<name>msgCheckingGPSAccuracy</name>
+		<value>
+			<gr>Έλεγχος ακρίβειας GPS... </gr>
+			<en>Checking GPS accuracy...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSInaccuracy</name>
+		<value>
+			<gr>Το σήμα δεν είναι αρκετά ακριβές...</gr>
+			<en>GPS is not accurate...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgLocationNotInitilizedOnTime</name>
+		<value>
+			<gr>Ο εντοπισμός θέσης δεν έγινε έγκαιρα
+ή δεν είναι διαθέσιμος...</gr>
+			<en>Location service is not initialized
+on time or not available...</en>
+		</value>
+	</term>
+	<term>
+		<name>cameraHelp</name>
+		<value>
+			<gr>Ρυθμίσεις
+κάμερας</gr>
+			<en>Camera
+settings</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>returnHelp</name>
+		<value>
+			<gr>Επιστροφή</gr>
+			<en>Return</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>mapHelp</name>
+		<value>
+			<gr>Χάρτης</gr>
+			<en>Map</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>introText</name>
+		<value>
+			<gr>Ένα ψηφιακό ταξίδι στο χώρο και το χρόνο μέσα απο τη φορητή συσκευή σας</gr>
+			<en>A digital journey in space and time through your mobile device</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>gpsDemoVersionMessage</name>
+		<value>
+			<gr>Λυπούμαστε αλλά η επιτόπια πλοήγηση δεν λειτουργεί στην δωρεάν έκδοση της εφαρμογής.</gr>
+			<en>We are sorry but on-site navigation currently is not working in free version.</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>menuGpsOFF_FirstMessage</name>
+		<value>
+			<gr>Ο εντοπισμός θέσης της συσκευής σας είναι απενεργοποιημένος!
+Αν επιθυμείτε να πλοηγηθείτε επιτόπια
+παρακαλώ ενεργοποιήστε το GPS της συσκευή σας…</gr>
+			<en>GPS is disabled!
+In order to navigate in onsite mode
+please enable the GPS sensor of your device…</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>gpsAlert_DemoOK</name>
+		<value>
+			<gr>Εντάξει</gr>
+			<en>OK</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>menuGpsOFF_FirstMessage</name>
+		<value>
+			<gr>Ο εντοπισμός θέσης της συσκευής σας είναι απενεργοποιημένος!
+Αν επιθυμείτε να πλοηγηθείτε επιτόπια
+παρακαλώ ενεργοποιήστε το GPS της συσκευή σας…</gr>
+			<en>GPS is disabled!
+In order to navigate in onsite mode
+please enable the GPS sensor of your device…</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>msgMenuGpsOff</name>
+		<value>
+			<gr>Ο εντοπισμός θέσης της συσκευής σας είναι απενεργοποιημένος!
+Μπορείτε να πλοηγηθείτε μόνο απομακρυσμένα…</gr>
+			<en>The location service of your device is disabled!
+You can only navigate in offsite mode…</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>msgMenuGpsOnFar</name>
+		<value>
+			<gr>Η θέση σας είναι πολύ μακριά από τις ενεργές περιοχές!
+Μπορείτε να πλοηγηθείτε μόνο απομακρυσμένα…</gr>
+			<en>Your location is too far from the active areas!
+You can only navigate in offsite mode…</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>menuGpsOnNear</name>
+		<value>
+			<gr>Βρίσκεστε κοντά στις ενεργές περιοχές.
+Mετακινηθείτε σε μια από αυτές για να μπορέσετε να πλοηγηθείτε επί τόπια…
+Μέχρι τότε, μπορείτε να πλοηγηθείτε απομακρυσμένα…</gr>
+			<en>You are close to active areas.
+Please move inside to be able to navigate in onsite mode…
+Until then, you can only navigate in offsite mode…</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>menuGpsOnInside</name>
+		<value>
+			<gr>Βρίσκεστε εντός ενεργής περιοχής, μπορείτε να πλοηγηθείτε επί τόπια…</gr>
+			<en>You are inside an active area, you are able to navigate onsite ...</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>textMapFilter</name>
+		<value>
+			<gr>Χρήση περιοχών πλοήγησης από γραφιστικά φίλτρα</gr>
+			<en>Use areas for movement from map filters</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>maxInfoDistHelpText</name>
+		<value>
+			<gr>Μέγιστη απόσταση ετικέτας μνημείου</gr>
+			<en>Max label distance</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>fullMapHelp</name>
+		<value>
+			<gr>Αγγίξτε σε ένα σημείο πάνω
+στην ενεργή περιοχή για να μεταφερθείτε</gr>
+			<en>Touch on the active area
+to be transferred into the scene</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>fullMapHelpOnSite</name>
+		<value>
+			<gr>Είστε εκτος ενεργης περιοχής.
+Παρακαλώ μετακινηθείτε πιο κοντά.</gr>
+			<en>You are out of the active area.
+Please walk closer.</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>sceneHelp</name>
+		<value>
+			<gr>Επιλέξτε το όνομα της περιοχής
+στην οποία θέλετε να περιηγηθείτε.</gr>
+			<en>Select the name of the area
+in which you want to navigate.</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>periodHelp</name>
+		<value>
+			<gr>Επιλέξτε χρονική περίοδο</gr>
+			<en>Select time period</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>joyLeftHelp</name>
+		<value>
+			<gr>Αγγίξτε παρατεταμένα και κάντε κύλιση προς το σημείο
+που θέλετε να κινηθείτε</gr>
+			<en>swip at any direction to move</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>joyRightHelp</name>
+		<value>
+			<gr>Αγγίξτε παρατεταμένα και κάντε κύλιση προς το σημείο
+που θέλετε να περιστραφεί η κάμερα</gr>
+			<en>Swip at any direction to rotate camera</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>settingsHelp</name>
+		<value>
+			<gr>Ρυθμίσεις</gr>
+			<en>Settings</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<!--		<term>
+			<name>mapHelp</name>
+			<value>
+				<gr>Ρυθμίσεις κάμερας</gr>
+				<en>Camera settings</en>
+			</value>
+			<image>
+				<gr>info-hr</gr>
+				<en>info-hr</en>
+			</image>
+		</term>-->
+	<term>
+		<name>infoLabelHelp</name>
+		<value>
+			<gr>Επιλέξτε για περισσότερες
+πληροφορίες</gr>
+			<en>Tap to gain
+more info</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>AsanserDown</name>
+		<value>
+			<gr>Προσγείωση</gr>
+			<en>Landing</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>AsanserUp</name>
+		<value>
+			<gr>Απογείωση</gr>
+			<en>Take off</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>quitWarning</name>
+		<value>
+			<gr>Επιθυμείτε έξοδο απο την εφαρμογή;</gr>
+			<en>Do you really want to quit?</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>quitSceneWarning</name>
+		<value>
+			<gr>Επιστροφή στο μενού;</gr>
+			<en>Return to main menu?</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>modeWarning</name>
+		<value>
+			<gr>Θέλεις να περιηγηθείς επιτόπια
+με τη χρήση GPS;</gr>
+			<en>Do you want to use GPS navigation?</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>modeOnSiteWarning</name>
+		<value>
+			<gr>Επιθυμείτε την χρήση της κάμερας;</gr>
+			<en>Do you want to use camera?</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>userLabel</name>
+		<value>
+			<gr>Βρίσκεσαι εδώ</gr>
+			<en>You are here</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>navText</name>
+		<value>
+			<gr>χρήση GPS</gr>
+			<en>use GPS</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>textJoys</name>
+		<value>
+			<gr>Ενεργοποίηση χειριστήριων</gr>
+			<en>Enable joysticks</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>gpsAlert_Title</name>
+		<value>
+			<gr>Προσοχή: Ο εντοπισμός της θέσης σας είναι κλειστός</gr>
+			<en>Alert: GPS Settings is disabled</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>gpsAlert_Message</name>
+		<value>
+			<gr>Το GPS είναι απενεργοποιημένο, θέλετε να το ενεργοποιήσετε;</gr>
+			<en>Your GPS seems to be disabled, do you want to enable it?</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>gpsAlert_ButtonYes</name>
+		<value>
+			<gr>Ναι</gr>
+			<en>Yes</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>gpsAlert_ButtonNo</name>
+		<value>
+			<gr>Όχι</gr>
+			<en>No</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>onSiteFlyMode</name>
+		<value>
+			<gr>Επιτόπια 
+Εναέρια</gr>
+			<en>On Site 
+Fly Over</en>
+		</value>
+		<image>
+			<gr>icon_onSiteFlyMode</gr>
+			<en>icon_onSiteFlyMode</en>
+		</image>
+	</term>
+	<term>
+		<name>extraModes</name>
+		<value>
+			<gr>Επιπλέον τρόποι πλοήγησης</gr>
+			<en>Show extra mode options</en>
+		</value>
+		<image>
+			<gr>info-hr</gr>
+			<en>info-hr</en>
+		</image>
+	</term>
+	<term>
+		<name>textSpeed</name>
+		<value>
+			<gr>Ταχύτητα Κίνησης</gr>
+			<en>Walking speed</en>
+		</value>
+	</term>
+	<term>
+		<name>flyHeight</name>
+		<value>
+			<gr>Υψόμετρο</gr>
+			<en>Altitude</en>
+		</value>
+	</term>
+	<term>
+		<name>flySpeed</name>
+		<value>
+			<gr>Ταχύτητα στον Αέρα</gr>
+			<en>Fly Speed</en>
+		</value>
+	</term>
+	<term>
+		<name>gpsAccuracy</name>
+		<value>
+			<gr>Ελάχιστη απαιτούμενη ακρίβεια gps</gr>
+			<en>Minimum required gps Accuracy</en>
+		</value>
+	</term>
+	<!--lang-->
+	<term>
+		<name>textSelectLanguange</name>
+		<value>
+			<gr>Επιλογή Γλώσσας</gr>
+			<en>Select Language</en>
+		</value>
+	</term>
+	<!--fonts-->
+	<term>
+		<name>textFontSize</name>
+		<value>
+			<gr>Μέγεθος Γραμμάτων</gr>
+			<en>Font Size</en>
+		</value>
+	</term>
+	<term>
+		<name>textFontType</name>
+		<value>
+			<gr>Γραμματοσειρά</gr>
+			<en>Font</en>
+		</value>
+	</term>
+	<term>
+		<name>textFontStyle</name>
+		<value>
+			<gr>Στυλ Γραμμάτων</gr>
+			<en>Font Style</en>
+		</value>
+	</term>
+	<term>
+		<name>textLineSpacing</name>
+		<value>
+			<gr>Κενό Γραμμάτων</gr>
+			<en>Letter Spacing</en>
+		</value>
+	</term>
+	<term>
+		<name>choosePeriod</name>
+		<value>
+			<gr>
+			</gr>
+			<en>
+			</en>
+		</value>
+	</term>
+	<term>
+		<name>chooseMode</name>
+		<value>
+			<gr>Επιλέξτε Τρόπο Πλοήγησης</gr>
+			<en>Choose Navigation Mode</en>
+		</value>
+	</term>
+	<term>
+		<name>onSiteMode</name>
+		<value>
+			<gr>Επιτόπια</gr>
+			<en>On Site</en>
+		</value>
+	</term>
+	<term>
+		<name>onSiteMockMode</name>
+		<value>
+			<gr>Εικονική</gr>
+			<en>Virtual</en>
+		</value>
+	</term>
+	<term>
+		<name>offSiteMode</name>
+		<value>
+			<gr>Επίγεια</gr>
+			<en>Ground</en>
+		</value>
+	</term>
+	<term>
+		<name>flyMode</name>
+		<value>
+			<gr>Εναέρια</gr>
+			<en>Fly Over</en>
+		</value>
+	</term>
+	<!--tour	-->
+	<term>
+		<name>tourMode</name>
+		<value>
+			<gr>Ξενάγηση</gr>
+			<en>Tour</en>
+		</value>
+	</term>
+	<term>
+		<name>checkGPSMode</name>
+		<value>
+			<gr>check GPS</gr>
+			<en>check GPS</en>
+		</value>
+	</term>
+	<term>
+		<name>helpMenuText</name>
+		<value>
+			<gr>Επιλέξτε από την πρώτη σειρά κουμπιών την χρονική περίοδο και από τη δεύτερη, τον τρόπο πλοήγησης που επιθυμείτε
+Από τα κουμπιά κάτω δεξιά της οθόνης μπορείτε να επιλέξετε τη βοήθεια, τις ρυθμίσεις ή την έξοδο από την εφαρμογή</gr>
+			<en>Choose the historical period and the navigation mode</en>
+		</value>
+	</term>
+	<term>
+		<name>settingsMenuText</name>
+		<value>
+			<gr>Επιλέξτε την επιθυμητή γλώσσα και ρυθμίστε το μέγεθος της γραμματοσειράς της εφαρμογής</gr>
+			<en>Choose application interface language and set the font size</en>
+		</value>
+	</term>
+	<term>
+		<name>onSiteHelpText</name>
+		<value>
+			<gr>Πλοηγθείτε στην αναπαράσταση του κάστου περπατώντας στο χώρο και στρέφοντας γύρω σας τη φορητή συσκευή.
+Όταν εμφανιστεί το όνομα ενός μνημείου ή άλλου σημείου ενδιαφέροντος, επιλέξτε το και αποκτήστε πρόσβαση, μέσω των εικονιδίων, σε κείμενο με πληροφορίες για το μνημείο και κατά περίπτωση, φωτογραφίες και video που το αφορούν</gr>
+			<en>Navigate through the castle reconstruction by walking around and looking through your mobile device.
+When a label with the name of a monument or other point of interest appears, select it by tapping the display and get access, through the correspongind icons, to an iformative text and - if availabe - images and video concerning the point</en>
+		</value>
+	</term>
+	<term>
+		<name>offSiteHelpText</name>
+		<value>
+			<gr>Χρησιμοποιήστε τα joysticks στο κάτω αριστερά και κάτω δεξιά μέρος της οθόνης για να πλοηγηθείτε.
+Το αριστερα joysticκ ρυθμίζει τη κίνηση εμπρός-πίσω-δεξιά-αριστερά
+Το δεξιά joystich ρυθμίζει τη περιστροφή.
+Όταν εμφανιστεί το όνομα ενός μνημείου ή άλλου σημείου ενδιαφέροντος, επιλέξτε το και αποκτήστε πρόσβαση, μέσω των εικονιδίων, σε κείμενο με πληροφορίες για το μνημείο και κατά περίπτωση, φωτογραφίες και video που το αφορούν</gr>
+			<en>Use the joysticks at the lower left and lower right section of the display to navigate
+Move forward - backword - left - right using the lower left joystick
+Rotate left or right using the right joystick
+When a label with the name of a monument or other point of interest appears, select it by tapping the display and get access, through the correspongind icons, to an iformative text and - if availabe - images and video concerning the point</en>
+		</value>
+	</term>
+	<term>
+		<name>offSiteAerilaHelpText</name>
+		<value>
+			<gr>Χρησιμοποιήστε τα joysticks στο κάτω αριστερά και κάτω δεξιά μέρος της οθόνης για να πλοηγηθείτε.
+Το αριστερα joysticκ ρυθμίζει τη κίνηση εμπρός-πίσω-δεξιά-αριστερά
+Το δεξιά joystich ρυθμίζει την στροφή
+Όταν εμφανιστεί το όνομα ενός μνημείου ή άλλου σημείου ενδιαφέροντος, επιλέξτε το και αποκτήστε πρόσβαση, μέσω των εικονιδίων, σε κείμενο με πληροφορίες για το μνημείο και κατά περίπτωση, φωτογραφίες και video που το αφορούν</gr>
+			<en>Use the joysticks at the lower left and lower right section of the display to navigate
+Move forward - backword - left - right using the lower left joystick
+Rotate left or right using the right joystick
+When a label with the name of a monument or other point of interest appears, select it by tapping the display and get access, through the correspongind icons, to an iformative text and - if availabe - images and video concerning the point</en>
+		</value>
+	</term>
+	<term>
+		<name>guidedHelpText</name>
+		<value>
+			<gr>Επισκεφτείτε προκαθορισμένα σημεία ενδιαφέροντος επιλέγοντας τα κουπιά πλοήγησης, στα οποία εμφανίζεται 
+αντίστοιχα το όνομα του προηγούμενου - επόμενου σημείου
+Όταν εμφανιστεί το όνομα ενός μνημείου ή άλλου σημείου ενδιαφέροντος, επιλέξτε το και αποκτήστε πρόσβαση, μέσω των εικονιδίων, σε κείμενο με πληροφορίες για το μνημείο και κατά περίπτωση, φωτογραφίες και video που το αφορούν </gr>
+			<en>Visit the proposed points of interest by pressing the naviagtion buttons, showing respectivly the name of the previous - next point
+				When a label with the name of a monument or other point of interest appears, select it by tapping the display and get access, through the correspongind icons, to an iformative text and - if availabe - images and video concerning the point
+</en>
+		</value>
+	</term>
+	<term>
+		<name>helpOnSiteHint</name>
+		<value>
+			<gr> 
+					Κινηθείτε φυσικά στο χώρο για να τον εξερευνήσετε.
+					Όταν σε κάποιο σημείο ενδιαφέροντος εμφανιστεί η ετικέτα με το όνομα του,
+					επιλέξτε το για να αποκτήσετε πρόσβαση σε περισσότερες πληροφορίες				
+				</gr>
+			<en>Move around to navigate</en>
+		</value>
+	</term>
+	<term>
+		<name>helpOffSiteHint</name>
+		<value>
+			<gr>
+					Χρησιμοποιήστε τo joystick, στο κάτω αριστερά μέρος της οθόνης για να πλοηγηθείτε
+					Όταν σε κάποιο σημείο ενδιαφέροντος εμφανιστεί η ετικέτα με το όνομα του,
+					επιλέξτε το για να αποκτήσετε πρόσβαση σε περισσότερες πληροφορίες
+				</gr>
+			<en>Use the joysticks on the lower left of the display to navigate</en>
+		</value>
+	</term>
+	<term>
+		<name>helpTourHint</name>
+		<value>
+			<gr>Επιλέξτε τα βέλη, δεξιά και αριστερά της οθόνης, για να πλοηγηθείτε στο επόμενο ή προηγούμενο σημείο.
+					Όταν σε κάποιο σημείο ενδιαφέροντος εμφανιστεί η ετικέτα με το όνομα του,
+					επιλέξτε το για να αποκτήσετε πρόσβαση σε περισσότερες πληροφορίες</gr>
+			<en>Touch the arrow to navigate to the next point of interest</en>
+		</value>
+	</term>
+	<term>
+		<name>webHelpHint</name>
+		<value>
+			<gr>Χρησιμοποιήστε το πληκτρολόγιο και το ποντίκι για να πλοηγηθείτε</gr>
+			<en>Use your keyboard arrow keys to move in the Castle and the mouse to look around</en>
+		</value>
+	</term>
+	<term>
+		<name>WebOffSiteHint</name>
+		<value>
+			<gr>
+					Χρησιμοποιείστε το ποντίκι σας για να πλοηγηθείτε.
+					Μετακινήστε το επάνω-κάτω-δεξιά-αριστερά για να κινηθείτε στο χώρο.
+					Κάντε δεξί-κλικ και σύρεται (rigth click and drug) για να στραφείτε...
+					
+					Όταν εμφανιστεί η ετικέτα κάποιου σημείου, επιλέξτε το για περισσότερες πληροφορίες
+				</gr>
+			<en>Use your keyboard arrow keys to move in the Castle and the mouse to look around</en>
+		</value>
+	</term>
+	<term>
+		<name>WebTourHint</name>
+		<value>
+			<gr>
+					Επιλέξτε το βέλος στο κέντρο δεξιά της οθόνης για να μεταφερθείτε στο επόμενο σημείο ενδιαφέροντος.
+					Όταν εμφανιστεί η ετικέτα κάποιου σημείου, επιλέξτε το για περισσότερες πληροφορίες
+				</gr>
+			<en>Use your keyboard arrow keys to move in the Castle and the mouse to look around</en>
+		</value>
+	</term>
+	<term>
+		<name>webOffSiteHelpText</name>
+		<value>
+			<gr>Χρησιμοποιείστε από το πληκτρολόγιό σας τα πλήκτρα με τα βέλη για να κινηθείτε στο χώρο του Κάστρου καθώς και το ποντίκι για να αλλάξετε οπτική γωνία
+Χρησιμοποιείστε το πλήκτρο space bar για να ανεβείτε σκάλες ή να υπερπηδήσετε εμπόδια.
+Στα ενεργά σημεία ενδιαφέροντος κάντε κλικ στα αντίστοιχα εικονίδια (κείμενο, εικόνες, video) για να δείτε πρόσθετες πληροφορίες </gr>
+			<en>Use your keyboard arrow keys to move in the Castle and the mouse to look around.
+				Use your keyboard space bar key to climb stairs or to jump above obstacles.
+				At the active spots left-click with your mouse on the respective symbols (text, photos, videos) to get additional information</en>
+		</value>
+	</term>
+	<term>
+		<name>webOffSiteAerilaHelpText</name>
+		<value>
+			<gr>Χρησιμοποιείστε από το πληκτρολόγιό σας τα πλήκτρα με τα βέλη για να κινηθείτε στο χώρο του Κάστρου καθώς και το ποντίκι για να αλλάξετε οπτική γωνία.
+Στα ενεργά σημεία ενδιαφέροντος κάντε κλικ στα αντίστοιχα εικονίδια (κείμενο, εικόνες, video) για να δείτε πρόσθετες πληροφορίες </gr>
+			<en>Use your keyboard arrow keys to move in the Castle and the mouse to look around.				
+				At the active spots left-click with your mouse on the respective symbols (text, photos, videos) to get additional information</en>
+		</value>
+	</term>
+	<term>
+		<name>webGuidedHelpText</name>
+		<value>
+			<gr>Επισκεφτείτε προκαθορισμένα σημεία ενδιαφέροντος επιλέγοντας τα κουπιά πλοήγησης, στα οποία εμφανίζεται 
+αντίστοιχα το όνομα του προηγούμενου - επόμενου σημείου
+Όταν εμφανιστεί το όνομα ενός μνημείου ή άλλου σημείου ενδιαφέροντος, επιλέξτε το και αποκτήστε πρόσβαση, μέσω των εικονιδίων, σε κείμενο με πληροφορίες για το μνημείο και κατά περίπτωση, φωτογραφίες και video που το αφορούν </gr>
+			<en>Visit the proposed points of interest by pressing the naviagtion buttons, showing respectivly the name of the previous - next point
+				When a label with the name of a monument or other point of interest appears, select it by tapping the display and get access, through the correspongind icons, to an iformative text and - if availabe - images and video concerning the point
+</en>
+		</value>
+	</term>
+	<term>
+		<name>restrictedAreaHelpText</name>
+		<value>
+			<gr>Βρίσκεστε εκτός της ενεργής περιοχής περιήγησης. </gr>
+			<en>You are outside of the active area. </en>
+		</value>
+	</term>
+	<term>
+		<name>fieldOfViewHelpText</name>
+		<value>
+			<gr>Πεδίο θέασης</gr>
+			<en>Field of View</en>
+		</value>
+	</term>
+	<term>
+		<name>horAngleHelpText</name>
+		<value>
+			<gr>Οριζόντια Γωνία</gr>
+			<en>Horizontal Angle</en>
+		</value>
+	</term>
+	<term>
+		<name>vertAngleHelpText</name>
+		<value>
+			<gr>Κάθετη Γωνία</gr>
+			<en>Vertical Angle</en>
+		</value>
+	</term>
+	<term>
+		<name>compassTurnSpeedText</name>
+		<value>
+			<gr>Ταχύτητα περιστροφής Υ</gr>
+			<en>Rotation speed Y</en>
+		</value>
+	</term>
+	<term>
+		<name>sensitivityOffsetHelpText</name>
+		<value>
+			<gr>Ευαισθησία</gr>
+			<en>Sensitivity</en>
+		</value>
+	</term>
+	<term>
+		<name>buttonResetSensor</name>
+		<value>
+			<gr>Επαναφορά αισθητήρα</gr>
+			<en>Reset sensors</en>
+		</value>
+	</term>
+	<term>
+		<name>joyRightSensitivityHelpText</name>
+		<value>
+			<gr>Ευαισθησία χειριστήριου κάμερας</gr>
+			<en>Joystick camera sensitivity</en>
+		</value>
+	</term>
+	<term>
+		<name>msgLoading</name>
+		<value>
+			<gr>Φορτώνει...</gr>
+			<en>Loading...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgLoadingScene</name>
+		<value>
+			<gr>Η σκηνή φορτώνει...</gr>
+			<en>Loading scene...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgInitialising</name>
+		<value>
+			<gr>Προσπάθεια εντοπισμού θέσης... </gr>
+			<en>Initializing...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgInitialised</name>
+		<value>
+			<gr>Θέση Εντοπίστηκε... </gr>
+			<en>Initialized...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgOK</name>
+		<value>
+			<gr>OK... </gr>
+			<en>OK...</en>
+		</value>
+	</term>
+	<!-- checking device during loading terms -->
+	<term>
+		<name>msgChecking</name>
+		<value>
+			<gr>Έλεγχος συσκευής...</gr>
+			<en>Checking device...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGyroIsSupported</name>
+		<value>
+			<gr>Γυροσκόπιο σε λειτουργία...</gr>
+			<en>Gyroscope...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGyroNotSupported</name>
+		<value>
+			<gr>Η συσκευή δεν υποστηρίζει γυροσκόπιο και η επιτόπια πλοήγηση δεν μπορεί να λειτουργήσει...</gr>
+			<en>The device does not support gyroscope...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGyroOptionsDisabled</name>
+		<value>
+			<gr>Οι δυνατότητες της εφαρμογής που προϋποθέτουν γυροσκόπιο έχουν απενεργοποιηθεί...</gr>
+			<en>Gyro enabled options have been disabled...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgCheckingLocServices</name>
+		<value>
+			<gr>Έλεγχος δυνατότητας εντοπισμού θέσης...</gr>
+			<en>Checking location service...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSIsSupported</name>
+		<value>
+			<gr>Διαθέσιμο σύστημα εντοπισμού θέσης. ...  </gr>
+			<en>Location services are supported...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSNotSupported</name>
+		<value>
+			<gr>Η συσκευή δεν διαθέτει σύστημα εντοπισμού θέσης...  </gr>
+			<en>The device does not support location services...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSIsActivated</name>
+		<value>
+			<gr>Το σύστημα εντοπισμού θέσης είναι ενεργοποιημένο...  </gr>
+			<en>Location services have been activated ...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSNotActivated</name>
+		<value>
+			<gr>Το σύστημα εντοπισμού θέσης δεν είναι ενεργοποιημένο...  </gr>
+			<en>Location services are not activeted...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgTryingToFindLocation</name>
+		<value>
+			<gr>Προσπάθεια εντοπισμού θέσης...  </gr>
+			<en>Trying to find location...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgCheckingDistance</name>
+		<value>
+			<gr>Έλεγχος απόστασης από την ενεργή περιοχή...</gr>
+			<en>Checking distance from active area...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgDistance</name>
+		<value>
+			<gr>Απόσταση από σημείο αναφοράς: </gr>
+			<en>Distance from reference point: </en>
+		</value>
+	</term>
+	<term>
+		<name>msgMaxDistance</name>
+		<value>
+			<gr>μέγιστη αποδεκτή απόσταση:  </gr>
+			<en>maximum accepted distance: </en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSOutOfArea</name>
+		<value>
+			<gr>Η συσκευή βρίσκεται εκτός της ενεργής περιοχής... </gr>
+			<en>The device is outside the active area...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSInArea</name>
+		<value>
+			<gr>Η συσκευή βρίσκεται εντός της ενεργής περιοχής... </gr>
+			<en>The device is in the active area...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgAccuracy</name>
+		<value>
+			<gr>Ακρίβεια θέσης: </gr>
+			<en>Position accuracy: </en>
+		</value>
+	</term>
+	<term>
+		<name>msgGPSAccuracy</name>
+		<value>
+			<gr>Το σήμα είναι ακριβές... </gr>
+			<en>GPS is  accurate...</en>
+		</value>
+	</term>
+	<term>
+		<name>warningOutOfArea</name>
+		<value>
+			<gr>Για να λειτουργήσει η επιτόπια περιήγηση σε πραγματικό χρόνο, ο χρήστης πρέπει να βρίσκεται στο χώρο του Κάστρου</gr>
+			<en>In order to use the on-site navigation, the user must be in the Castle Area</en>
+		</value>
+	</term>
+	<term>
+		<name>msgLocationOptionsDisabled</name>
+		<value>
+			<gr>Οι δυνατότητες της εφαρμογής που προϋποθέτουν τον εντοπισμό θέσης έχουν απενεργοποιηθεί...</gr>
+			<en>Location enabled options have been disabled...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgFail</name>
+		<value>
+			<gr>Ο εντοπισμός θέσης απέτυχε...</gr>
+			<en>Starting location services failed...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgLocationInitilized</name>
+		<value>
+			<gr>Η θέση εντοπίστηκε......</gr>
+			<en>Location succeded...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgLocationNotInitilized</name>
+		<value>
+			<gr>Ο εντοπισμός θέσης απέτυχε...</gr>
+			<en>Starting location services failed...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgCheckingConnection</name>
+		<value>
+			<gr>Έλεγχος σύνδεσης...... </gr>
+			<en>Checking Connection...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgWait</name>
+		<value>
+			<gr>Αναμονή για εκκίνηση... </gr>
+			<en>Wait to start...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgWaitCompleted</name>
+		<value>
+			<gr>Ολοκλήρωση αναμονής... </gr>
+			<en>Waiting time completed...</en>
+		</value>
+	</term>
+	<term>
+		<name>msgShowMap</name>
+		<value>
+			<gr>Εμφάνιση xάρτη</gr>
+			<en>Show map</en>
+		</value>
+	</term>
+	<term>
+		<name>gpsTourHint</name>
+		<value>
+			<gr>Δοκιμη gps</gr>
+			<en>gps test</en>
+		</value>
+	</term>
+	<term>
+		<name>textSnapPath</name>
+		<value>
+			<gr>Κίνηση σε Μονοπάτι</gr>
+			<en>Snap to Path</en>
+		</value>
+	</term>
+	<term>
+		<name>textPathDistance</name>
+		<value>
+			<gr>Απόσταση απο Μονοπάτι</gr>
+			<en>Distance from Path</en>
+		</value>
+	</term>
+	<term>
+		<name>snapToPathDistanceGround</name>
+		<value>
+			<gr>Μεγιστη αποσταση απο Μονοπάτι </gr>
+			<en>max Distance to Path</en>
+		</value>
+	</term>
+	<term>
+		<name>textOffset_X</name>
+		<value>
+			<gr>Απόκλιση gps Χ </gr>
+			<en>Offset X gps</en>
+		</value>
+	</term>
+	<term>
+		<name>textOffset_Y</name>
+		<value>
+			<gr>Απόκλιση gps Y </gr>
+			<en>Offset Y gps</en>
+		</value>
+	</term>
+</terms>

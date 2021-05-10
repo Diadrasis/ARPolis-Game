@@ -1,0 +1,104 @@
+<credits version="1.0">
+	<persons>
+		<person>
+			<name>
+				<gr>Γιάννης Λαδάς</gr>
+				<en>Giannis Ladas</en>
+			</name>
+			<idiotita>
+				<gr>Υπεύθυνος Έργου</gr>
+				<en>Project Manager</en>
+			</idiotita>
+		</person>
+		<person>
+			<name>
+				<gr>Στάθης Γεωργίου
+Γιάννης Λαδάς
+Κυριάκος Λεσγίδης</gr>
+				<en>Stathis Georgiou
+Giannis Ladas
+Kyriakos Lesgidis</en>
+			</name>
+			<idiotita>
+				<gr>Προγραμματισμός</gr>
+				<en>Programming</en>
+			</idiotita>
+		</person>
+		<person>
+			<name>
+				<gr>Δημήτρης Τσαλκάνης
+Γαρυφαλλιά Κοτζιά</gr>
+				<en>Dimitris Tsalkanis
+Faye Kotzia</en>
+			</name>
+			<idiotita>
+				<gr>3D Αναπαραστάσεις</gr>
+				<en>3D Reconstructions</en>
+			</idiotita>
+		</person>
+		<person>
+			<name>
+				<gr>Τέρψη Κρεμαλή
+Φιλίτσα Ιωαννίδου</gr>
+				<en>Terpsi Kremali
+Filitsa Ioannidou</en>
+			</name>
+			<idiotita>
+				<gr>Γραφιστικά</gr>
+				<en>Graphic Design</en>
+			</idiotita>
+		</person>
+		<person>
+			<name>
+				<gr>Μαριέττα Παπακωνσταντίνου</gr>
+				<en>Marietta Papakonstantinou</en>
+			</name>
+			<idiotita>
+				<gr>Οργάνωση Παραγωγής</gr>
+				<en>Project Coordination</en>
+			</idiotita>
+		</person>
+		<person>
+			<name>
+				<gr>Δημήτρης Τσαλκάνης
+Μαριέττα Παπακωνσταντίνου</gr>
+				<en>Dimitrios Tsalkanis
+Marietta Papakonstantinou</en>
+			</name>
+			<idiotita>
+				<gr>Επιστημονική Επιμέλεια</gr>
+				<en>Scientific Supervision</en>
+			</idiotita>
+		</person>
+		<person>
+			<name>
+				<gr>Νίνα Τρυφωνοπούλου</gr>
+				<en>Nina Trifonopoulou</en>
+			</name>
+			<idiotita>
+				<gr>Αφήγηση</gr>
+				<en>Narration</en>
+			</idiotita>
+		</person>
+		<person>
+			<name>
+				<gr>Μαριέττα Παπακωνσταντίνου
+Γιάννης Λαδάς
+Μαρία Λεωνίδα
+Τερέζα Γιακουομάτου
+Αναστασία Δασκαλοπούλου
+Φώτης Μόσχος</gr>
+				<en>Marietta Papakonstantinou
+Giannis Ladas
+Maria Leonida
+Theressa Giakoumatou
+Anastasia Daskalopoulou
+Fotis Moschos</en>
+			</name>
+			<idiotita>
+				<gr>Επιμέλεια Πολυμεσικού Περιεχομένου</gr>
+				<en>Multimedia Content</en>
+			</idiotita>
+		</person>
+	</persons>
+</credits>

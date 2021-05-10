@@ -1,0 +1,17 @@
+1)Παρθενώνας = parthenon
+2)Τέθριππο = tethrippon1
+3)Τέθριππο = tethrippon2
+4)Βωμός Αθηνάς = vomos
+5)Ναός Ρώμης και Αυγούστου = romi
+6)Ναός Διός Πολιέως = zeus
+7)Αρρηφόριο = arrephorion
+8)Αθηνά Πρόμαχος = promaxos
+9)Χαλκοθήκη = chalkothiki
+10)Στοά Βραυρωνίας Αρτέμιδος = artemis
+11)Ναός Αρτέμιδος Βραυρωνίας = artemistemple
+12)Ιερό Πανδίονος = pandion
+13)Ερέχθειο = erechtheion
+14)Πανδρόσειον = pandroseion
+15)Προπύλαια = propylaia
+16)Πινακοθήκη = pinakothiki
+17)Ναός ΑΘηνάς Νίκης = nike

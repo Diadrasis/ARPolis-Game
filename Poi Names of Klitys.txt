@@ -1,0 +1,8 @@
+1)Ωδείο Περικλή = pericles
+2)Θέατρο Διονύσου = Theatre_of_Dionyssos
+3)Ναός Διονύσου = temple_dionysos
+4)Μνημείο Νικία = nikias
+5)Ωδείο Ηρώδου του Αττικού = Herodeion
+6)Ακρόπολη = acropolis
+7)Ολυμπιείον = olympieionlow
+8)Πύλη Αδριανού = Hadrians_Arch

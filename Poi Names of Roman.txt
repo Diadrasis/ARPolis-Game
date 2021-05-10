@@ -1,0 +1,9 @@
+1)Αέρηδες = aerides
+2)Πάνθεον = pantheon
+3)Βιβλιοθήκη Αδριανού = bibliothiki_andrianou
+4)Ρωμαϊκή Αγορά = agora_roman
+5)Αγορανομείον = agoranomeion_gate
+6)Βεσπασιανές = vespasianes
+7)Πύλη Αθηνάς Αρχηγέτιδος = gate_archigetidos
+8)Ακρόπολη = acropolis
+9)Αγορά = agora

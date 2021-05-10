@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chronomichani>
+	<Aerides>
+		<paths>
+			<!--____________________ start of Path_0 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-74" y="10" />
+					<finish name="Path_0-point_1" x="-84" y="19" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_0 ____________________-->
+			<!--____________________ start of Path_1 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-65" y="27" />
+					<finish name="Path_1-point_1" x="-67" y="12" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_1 ____________________-->
+			<!--____________________ start of Path_2 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-138" y="38" />
+					<finish name="Path_2-point_1" x="-84" y="19" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_2 ____________________-->
+			<!--____________________ start of Path_3 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-166" y="44" />
+					<finish name="Path_3-point_1" x="-144" y="40" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_3 ____________________-->
+			<!--____________________ start of Path_4 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-80" y="-16" />
+					<finish name="Path_4-point_1" x="-142" y="31" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_4 ____________________-->
+			<!--____________________ start of Path_5 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-37" y="8" />
+					<finish name="Path_5-point_1" x="-80" y="-16" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_5 ____________________-->
+			<!--____________________ start of Path_6 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-37" y="8" />
+					<finish name="Path_6-point_1" x="-49" y="-18" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_6 ____________________-->
+			<!--____________________ start of Path_7 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="43" y="19" />
+					<finish name="Path_7-point_1" x="-39" y="-27" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_7 ____________________-->
+			<!--____________________ start of Path_8 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-37" y="8" />
+					<finish name="Path_8-point_1" x="-14" y="0" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_8 ____________________-->
+			<!--____________________ start of Path_9 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-14" y="40" />
+					<finish name="Path_9-point_1" x="-37" y="8" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_9 ____________________-->
+			<!--____________________ start of Path_10 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-55" y="56" />
+					<finish name="Path_10-point_1" x="1" y="34" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_10 ____________________-->
+			<!--____________________ start of Path_11 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-46" y="92" />
+					<finish name="Path_11-point_1" x="-139" y="42" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_11 ____________________-->
+		</paths>
+	</Aerides>
+	<Roman>
+		<paths>
+			<!--____________________ start of Path_NoLimit_0 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-96" y="34" />
+					<finish name="Path_NoLimit_0-point_1" x="-115" y="41" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_NoLimit_0 ____________________-->
+			<!--____________________ start of Path_NoLimit_1 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-5" y="-14" />
+					<finish name="Path_NoLimit_1-point_1" x="-13" y="-15" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_NoLimit_1 ____________________-->
+			<!--____________________ start of Path_NoLimit_2 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-5" y="-14" />
+					<finish name="Path_NoLimit_2-point_1" x="-10" y="-9" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_NoLimit_2 ____________________-->
+			<!--____________________ start of Path_NoLimit_3 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-5" y="-14" />
+					<finish name="Path_NoLimit_3-point_1" x="-11" y="-12" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_NoLimit_3 ____________________-->
+			<!--____________________ start of Path_4 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-5" y="-14" />
+					<finish name="Path_4-point_1" x="64" y="-40" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_4 ____________________-->
+			<!--____________________ start of Path_NoLimit_5 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-20" y="-5" />
+					<finish name="Path_NoLimit_5-point_1" x="-37" y="2" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_NoLimit_5 ____________________-->
+			<!--____________________ start of Path_NoLimit_6 ____________________-->
+			<path>
+				<segment limits="on">
+					<start name="start" x="-83" y="149" />
+					<finish name="Path_NoLimit_6-point_1" x="-75" y="146" />
+				</segment>
+			</path>
+			<!--____________________ end of Path_NoLimit_6 ____________________-->
+		</paths>
+	</Roman>
+</chronomichani>

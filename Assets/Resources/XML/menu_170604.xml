@@ -1,0 +1,362 @@
+<menu version="2">
+	<sceneAreas>
+		<sceneArea>
+			<name>aerides</name>
+			<labelTitle>
+				<gr>Αέρηδες </gr>
+				<en>Aerides</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>30</x>
+				<y>15</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>65</x>
+				<y>70</y>
+				<z>-11</z>
+				<w>0</w>
+			</mapBtnSizePos>
+			<periods>
+				<period status="1">
+					<poiName>Roman</poiName>
+					<icon>period_romaiki_opt</icon>
+					<sceneName>romanMain</sceneName>
+					<loadingImage>loadRoman_opt</loadingImage>
+					<labelTitle>
+						<gr>138 μ.Χ. </gr>
+						<en>138 AD</en>
+					</labelTitle>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>0</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<loadingTexts>
+							<loadingText>
+								<gr><![CDATA[Παρακαλώ περιμένετε...  Μεταφέρεστε στους Αέρηδες κατά τη ρωμαϊκή εποχή]]></gr>
+								<en><![CDATA[Please wait... you are traveling to the Aerides during the Roman era ]]></en>
+							</loadingText>
+						</loadingTexts>
+						<introTexts>
+							<introText>
+								<gr><![CDATA[Κατά τους ρωμαϊκούς χρόνους αναπτύχθηκε η περιοχή ανατολικά της Κλασικής Αγοράς.
+Εκεί κτίστηκε αρχικά η λεγόμενη Αγορά του Καίσαρα και του Αυγούστου (Ρωμαϊκή Αγορά) όπου μεταφέρθηκαν πολλές εμπορικές λειτουργίες από την Κλασική Αγορά. 
+Ήταν χώρος καταστημάτων που εξυπηρετούσε πολύ κόσμο.
+Βόρεια από τη Ρωμαϊκή Αγορά, κτίστηκε από τον αυτοκράτορα Αδριανό μια μεγαλόπρεπη Βιβλιοθήκη με χώρους για διάφορες δραστηριότητες.]]></gr>
+								<en><![CDATA[During the Roman period, the area east of the Classical Agora was redeveloped.
+The Agora of Caesar and Augustus (the Roman Agora) was constructed and gathered most of the merchant activity of the city.
+It was a place full of shops and was frequented by many people.
+North of the Roman Agora, the emperor Hadrian built a glorious library which housed many cultural activities.]]></en>
+							</introText>
+						</introTexts>
+					</intro>
+				</period>
+				<period status="1">
+					<poiName>Aerides</poiName>
+					<icon>period_othomaniki</icon>
+					<sceneName>aeridesMain</sceneName>
+					<loadingImage>loadOttoman</loadingImage>
+					<labelTitle>
+						<gr>1833  </gr>
+						<en>1833 AD</en>
+					</labelTitle>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>0</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<loadingTexts>
+							<loadingText>
+								<gr><![CDATA[Παρακαλώ περιμένετε... Μεταφέρεστε στους Αέρηδες κατά την Οθωμανική περίοδο]]></gr>
+								<en><![CDATA[Please wait... You are travelling to Aerides during the Ottoman period]]></en>
+							</loadingText>
+						</loadingTexts>
+						<introTexts>
+							<introText>
+								<gr><![CDATA[Την οθωμανική εποχή η περιοχή των Αέρηδων εξακολουθούσε να είναι ένα από τα σημαντικά εμπορικά σημεία της Αθήνας όπως στην αρχαιότητα και ονομαζόταν Σταροπάζαρο.
+Εκεί συνυπήρχαν το οθωμανικό με το χριστιανικό στοιχείο μαζί με μνημεία της αρχαιότητας.]]></gr>
+								<en><![CDATA[During the Ottoman period, the area of Aerides, called Staropazaro (wheat bazar) in this time, was still one of the most important financial centres of the city, just like in antiquity. Here Ottoman, Christian and ancient styles and features coexisted. ]]></en>
+							</introText>
+						</introTexts>
+					</intro>
+				</period>
+			</periods>
+		</sceneArea>
+		<sceneArea status="1">
+			<name>olympeion</name>
+			<labelTitle>
+				<gr>Ολυμπιείο</gr>
+				<en>Olympieion</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>165</x>
+				<y>-105</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>69</x>
+				<y>53</y>
+				<z>133</z>
+				<w>-148</w>
+			</mapBtnSizePos>
+			<periods>
+				<period status="1">
+					<poiName>Olympeion</poiName>
+					<icon>period_olympeion</icon>
+					<sceneName>olympeionMain</sceneName>
+					<loadingImage>loadOlympeion</loadingImage>
+					<labelTitle>
+						<gr>131 μ.Χ.</gr>
+						<en>131 AD</en>
+					</labelTitle>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>0</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<loadingTexts>
+							<loadingText>
+								<gr><![CDATA[Παρακαλώ περιμένετε... Μεταφέρεστε στο Ολυμπιείο κατά τη ρωμαϊκή εποχή]]></gr>
+								<en><![CDATA[Please wait.... You are being transported to the Olympieion during the Roman period]]></en>
+							</loadingText>
+						</loadingTexts>
+						<introTexts>
+							<introText>
+								<gr><![CDATA[Το Ολυμπιείον ήταν ένα πανάρχαιο ιερό αφιερωμένο στον Ολύμπιο Δία.
+Πρώτος ο Πεισίστρατος και οι απόγονοί του το 520 π.Χ. προσπάθησαν να κατασκευάσουν έναν γιγάντιο ναό, που όμως έμεινε ημιτελής.
+Ύστερα από διάφορες απόπειρες ανά τους αιώνες, ο Ρωμαίος αυτοκράτορας Αδριανός ολοκλήρωσε το λαμπρό οικοδόμημα και το εγκαινίασε αυτοπροσώπως το 131 μ.Χ.
+Για να τιμήσουν τον αυτοκράτορα, οι Αθηναίοι ανήγειραν την ίδια περίοδο θριαμβική αψίδα, την γνωστή Πύλη του Αδριανού.]]></gr>
+								<en><![CDATA[The Temple of Oympian Zeus, or Olympieion, is an ancient sanctuary dedicated to Olympian Zeus. Initially Peisistratos and his sons (all three tyrants of ancient Athens) tried to construct the first monumental temple in 520 BC, but the project was abandoned after they were overthrown. For a great number of years, despite a number of attempts to complete the project, the temple remained unfinished. It was only in 131 AD that the temple was finished and inaugerated by Roman emperor Hadrian. In his honour, the Athenians constructed a triumphal arch at the same time, known as the ‘Arch of Hadrian’.]]></en>
+							</introText>
+						</introTexts>
+					</intro>
+				</period>
+			</periods>
+		</sceneArea>
+		<sceneArea status="1">
+			<name>klitys</name>
+			<labelTitle>
+				<gr>Νότια Κλιτύς</gr>
+				<en>South Slope</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>-100</x>
+				<y>-125</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>138</x>
+				<y>40</y>
+				<z>-9</z>
+				<w>-126</w>
+			</mapBtnSizePos>
+			<periods>
+				<period status="1">
+					<poiName>Klitys</poiName>
+					<icon>period_notiaklitys</icon>
+					<sceneName>notiaKlitysMain</sceneName>
+					<loadingImage>loadKlitys</loadingImage>
+					<labelTitle>
+						<gr>162 μ.Χ.</gr>
+						<en>161 AD</en>
+					</labelTitle>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>0</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<loadingTexts>
+							<loadingText>
+								<gr><![CDATA[Παρακαλώ περιμένετε... Μεταφέρεστε στη Νότια Κλιτύ της Ακρόπολης]]></gr>
+								<en><![CDATA[Please wait... You are being transferred to the South Slope of the Acropolis]]></en>
+							</loadingText>
+						</loadingTexts>
+						<introTexts>
+							<introText>
+								<gr><![CDATA[Η Νότια Κλιτύς (πλαγιά) της Ακρόπολης ήταν γεμάτη με σημαντικά δημόσια κτήρια και ιερά.
+Ανάμεσα σε αυτά ήταν το ιερό και το Θέατρο του Διονύσου, το ιερό του Ασκληπιού, η Στοά του Ευμένους και το Ηρώδειο, το μεγαλοπρεπές ωδείο που κατασκεύασε ο πλούσιος Αθηναίος Ηρώδης ο Αττικός.]]></gr>
+								<en><![CDATA[The southern slope of the Acropolis was full of important public buildings and sanctuaries.
+Among them was the sanctuary and the Theatre of Dionysos, the sanctuary of Asclepios, the Stoa of Eumenes and the Herodeion, the magnificent odeion built by the rich Athenian Herod the Atticus.]]></en>
+							</introText>
+						</introTexts>
+					</intro>
+				</period>
+			</periods>
+		</sceneArea>
+		<sceneArea status="1">
+			<name>agora</name>
+			<labelTitle>
+				<gr>Αρχαία Αγορά</gr>
+				<en>Ancient Agora</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>-105</x>
+				<y>66</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>86</x>
+				<y>90</y>
+				<z>-94</z>
+				<w>9</w>
+			</mapBtnSizePos>
+			<periods>
+				<period status="1">
+					<poiName>Agora</poiName>
+					<icon>period_agora</icon>
+					<sceneName>agoraMain</sceneName>
+					<loadingImage>loadAgora</loadingImage>
+					<labelTitle>
+						<gr>340 π.Χ.</gr>
+						<en>340 BC</en>
+					</labelTitle>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>0</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<loadingTexts>
+							<loadingText>
+								<gr><![CDATA[Παρακαλώ περιμένετε...  Μεταφέρεστε στην Αρχαία Αγορά Αθηνών κατά την κλασική εποχή ]]></gr>
+								<en><![CDATA[You are being transferred to the Ancient Agora of Athens during the classical period]]></en>
+							</loadingText>
+						</loadingTexts>
+						<introTexts>
+							<introText>
+								<gr><![CDATA[Η Αγορά (από το ρήμα αγείρω = συγκεντρώνω) ήταν η καρδιά της πόλης.
+Την κλασική περίοδο αναδείχθηκε ως το διοικητικό, φιλοσοφικό, εκπαιδευτικό, κοινωνικό, πολιτιστικό και κυρίως το οικονομικό κέντρο της πόλης.
+Στον χώρο αυτόν συνυπήρχαν δημόσια κτήρια μαζί με εμπορικά καταστήματα.]]></gr>
+								<en><![CDATA[The Agora (from the Greek verb “αγείρω” (“ageiro”= gather) was the heart of the city.
+During the classical period, it evolved as the administrative, philosophical, educational, cultural and, mainly, the economical centre of the city.
+In this place, public buildings co-existed with merchant shops.]]></en>
+							</introText>
+						</introTexts>
+					</intro>
+				</period>
+				<period status="1">
+					<poiName>Agora Roman</poiName>
+					<icon>period_agoraRoman</icon>
+					<sceneName>unity scene name</sceneName>
+					<loadingImage>loadAgoraRoman</loadingImage>
+					<labelTitle>
+						<gr>140 μ.Χ.</gr>
+						<en>140 AD</en>
+					</labelTitle>
+				</period>
+			</periods>
+		</sceneArea>
+		<sceneArea status="1">
+			<name>Kerameikos</name>
+			<labelTitle>
+				<gr>Κεραμεικός</gr>
+				<en>Kerameikos</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>-190</x>
+				<y>139</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>53</x>
+				<y>47</y>
+				<z>-183</z>
+				<w>98</w>
+			</mapBtnSizePos>
+			<periods>
+				<period status="1">
+					<poiName>Kerameikos</poiName>
+					<icon>period_kerameikos</icon>
+					<sceneName>kerameikosMain</sceneName>
+					<loadingImage>loadKerameikos</loadingImage>
+					<labelTitle>
+						<gr>350 π.Χ.</gr>
+						<en>350 BC</en>
+					</labelTitle>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>0</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<loadingTexts>
+							<loadingText>
+								<gr><![CDATA[Παρακαλώ περιμένετε... Μεταφέρεστε στον Κεραμεικό κατά την κλασική εποχή]]></gr>
+								<en><![CDATA[Please wait.... You are being transferred to Kerameikos during the classical period]]></en>
+							</loadingText>
+						</loadingTexts>
+						<introTexts>
+							<introText>
+								<gr><![CDATA[Ο Κεραμεικός ήταν η περιοχή εκατέρωθεν των βορειοδυτικών τειχών της πόλης.
+Στον χώρο αυτό αναπτύχθηκε σταδιακά το σημαντικότερο νεκροταφείο, σε μέρος του οποίου γίνονταν οι ταφές των επιφανέστερων Αθηναίων.
+Στο σημείο αυτό βρίσκονταν και οι δύο σημαντικότερες πύλες της Αθήνας, το επιβλητικό Δίπυλο και η Ιερή Πύλη.]]></gr>
+								<en><![CDATA[The Kerameikos was the area arount the northwestern wall of the city.
+In this place evolved the most important cemetery where the most prominent Athenians were buried.
+In this place were located the two most important gates of Athens. The monumental Dipylon and the Sacred Gate.]]></en>
+							</introText>
+						</introTexts>
+					</intro>
+				</period>
+			</periods>
+		</sceneArea>
+		<sceneArea status="1">
+			<name>Akropolis</name>
+			<labelTitle>
+				<gr>Ακρόπολη</gr>
+				<en>Acropolis</en>
+			</labelTitle>
+			<mapLabelPos>
+				<x>20</x>
+				<y>-60</y>
+			</mapLabelPos>
+			<mapBtnSizePos>
+				<x>83</x>
+				<y>36</y>
+				<z>-8</z>
+				<w>-82</w>
+			</mapBtnSizePos>
+			<periods>
+				<period status="1">
+					<poiName>Akropolis</poiName>
+					<icon>period_akropoli</icon>
+					<sceneName>akropolisMain</sceneName>
+					<loadingImage>loadAkropoli</loadingImage>
+					<labelTitle>
+						<gr>52 μ.Χ.</gr>
+						<en>52 AD</en>
+					</labelTitle>
+					<intro>
+						<introNarrations>
+							<introNarration>
+								<file>0</file>
+								<pauseTime>0</pauseTime>
+							</introNarration>
+						</introNarrations>
+						<loadingTexts>
+							<loadingText>
+								<gr><![CDATA[Παρακαλώ περιμένετε.... Μεταφέρεστε στην Ακρόπολη κατά τη ρωμαϊκή εποχή]]></gr>
+								<en><![CDATA[Please wait... You are being transferred to the Acropolis during the roman period]]></en>
+							</loadingText>
+						</loadingTexts>
+						<introTexts>
+							<introText>
+								<gr><![CDATA[O βράχος της Ακρόπολης, τόπος κατοίκησης, λατρείας, σύμβολο πολιτικής και θρησκευτικής εξουσίας, αποτελεί μέχρι και σήμερα σημείο αναφοράς για την Αθήνα και την Ελλάδα.
+Ως κέντρο λατρείας της θεάς Αθηνάς, φιλοξενεί μερικά από τα πιο γνωστά μνημεία αρχιτεκτονικής παγκοσμίως, που κατασκευάστηκαν με εντολή του Περικλή.
+Τη Ρωμαϊκή εποχή, που βλέπουμε εδώ, οι Ρωμαίοι σεβάστηκαν το ιερό χτίζοντας μόνο έναν μικρό καινούργιο ναό, τον Ναό της Ρώμης και του Αυγούστου.]]></gr>
+								<en><![CDATA[The rock of Acropolis, used as place of residence, worship, a symbol of political and religious power, is until nowadays a reference point for Athens and Greece.
+As a place of worship of the goddess Athena, it houses some of the most famous architectural monuments, built by orders of Pericles.
+During the Roman period, which we see here, the Romans respected the sanctuary and only built a small new temple dedicated to Rome and Augustus.]]></en>
+							</introText>
+						</introTexts>
+					</intro>
+				</period>
+			</periods>
+		</sceneArea>
+	</sceneAreas>
+</menu>

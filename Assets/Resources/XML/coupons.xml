@@ -1,0 +1,7 @@
+<coupons  version="1">
+	<coupon>
+		<code>WCG</code>
+		<length>4</length>
+		<customItemBuy status="1">Pro</customItemBuy>
+	</coupon>
+</coupons>

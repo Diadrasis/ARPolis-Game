@@ -1,0 +1,2594 @@
+<scenes version="2">
+    <scene id="Roman">
+      <points>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>aerides</name>
+          <title>
+            <gr>Ωρολόγιο Κυρρήστου </gr>
+            <en>Horologion of Kyrrhestes</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Ωρολόγιο κτίστηκε από τον αστρονόμο Ανδρόνικο από την Κύρρο της Μακεδονίας στο πρώτο μισό του 1ου αιώνα π.Χ. Στο πάνω μέρος κάθε πλευράς εικονίζονται ανάγλυφα οι άνεμοι με τα σύμβολά τους και τα ονόματά τους χαραγμένα. Εξωτερικά υπήρχαν ηλιακά ρολόγια, ενώ εσωτερικά λειτουργούσε υδραυλικό ρολόι. Το μνημείο αυτό θεωρείται ο αρχαιότερος μετεωρολογικός - ωρομετρικός σταθμός του κόσμου.</gr>
+              <en>The Tower of the Winds or the Horologion of Andronikos Kyrrhestes is an octagonal clocktower that functioned as a horologion or "weather station".</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ωρολόγιο Κυρρήστου </gr>
+                <en>Horologion of Kyrrhestes</en>
+              </title>
+              <desc>
+                <gr>Το κτίσμα του Ωρολογίου είναι οκταγωνικό μαρμάρινο, όπου στις μετόπες του φέρονται ανάγλυφοι οι οκτώ κύριοι άνεμοι, εξ ου και η ονομασία «Αέρηδες»: ο Βορρέας (βόρειος), ο Καικίας (βορειοανατολικός), ο Απηλιώτης (ανατολικός), ο Εύρος (νοτιοανατολικός), ο Νότος (νότιος), ο Λιψ (Λίβας, νοτιοδυτικός), ο Ζέφυρος (δυτικός), και ο Σκίρων (βορειοδυτικός). Κάτω από κάθε πρόσωπο, εγχάρακτες ακτίνες κατά διάφορους σχηματισμούς αποτελούσαν αυτούσια ηλιακό ρολόι. Στην κορφή του ένας μπρούτζινος Τρίτωνας δείχνει ποιος από τους οκτώ ανέμους φυσάει. 
+Κατά τον 15ο αιώνα το μνημείο περιγράφεται από τον περιηγητή Κυριακό Αγκωνίτη ως ναός του Αιόλου. Μετά την εκκένωση της Αθήνας από τα στρατεύματα του Φραντσέσκο Μοροζίνι και την ανακατάληψή της από τους Τούρκους, το κτίριο αυτό μετατράπηκε σε Τεκέ (τουρκικά: μουσουλμανικό μοναστήρι) από Δερβίσηδες που είχαν έλθει από διάφορα μέρη της Οθωμανικής Αυτοκρατορίας και εγκαταστάθηκαν σε αυτό.
+</gr>
+                <en>The Tower of the Winds or the Horologion of Andronikos Kyrrhestes is an octagonal clocktower that functioned as a horologion or "weather station". Unofficially, the monument is also called Aerides (Greek: Αέρηδες), which means Winds. Τhe eight wind deities are— Boreas (N), Kaikias (NE), Eurus (E), Apeliotes (SE), Notus (S), Lips (SW), Zephyrus (W), and Skiron (NW). The roof was topped by a weathervane-like Triton that indicated the wind direction.
+In its interior, there was a water clock (or clepsydra), driven by water coming down from the Acropolis. Under Ottoman rule it became a tekke and was used by whirling dervishes.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>India-Map_opt.jpg</file>
+              <caption>
+                <gr>sasas</gr>
+                <en>sasasa</en>
+              </caption>
+            </image>
+            <image>
+              <file>India-Map_opt.jpg</file>
+              <caption>
+                <gr>aaa</gr>
+                <en>aaa</en>
+              </caption>
+            </image>
+            <image>
+              <file>Chrysanthemum_opt.jpg</file>
+              <caption>
+                <gr>aaaabbbb</gr>
+                <en>aaaabbb</en>
+              </caption>
+            </image>
+            <image>
+              <file>Jellyfish_opt.jpg</file>
+              <caption>
+                <gr>aa</gr>
+                <en>aa</en>
+              </caption>
+            </image>
+            <image>
+              <file>Tulips_opt.jpg</file>
+              <caption>
+                <gr>aaa</gr>
+                <en>aaa</en>
+              </caption>
+            </image>
+            <image>
+              <file>Hydrangeas_opt.jpg</file>
+              <caption>
+                <gr>aaa</gr>
+                <en>aaa</en>
+              </caption>
+            </image>
+          </images>
+          <narrations>
+            <narration>
+              <title>
+                <gr>Αέρηδες</gr>
+                <en>Aerides</en>
+              </title>
+              <file>
+                <gr>aeridesgr.mp3</gr>
+                <en>aeridesen.mp3                                                                                                                                                                                                                                             </en>
+              </file>
+            </narration>
+          </narrations>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>pantheon</name>
+          <title>
+            <gr>Πάνθεον</gr>
+            <en>Pantheon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Πάνθεον μας είναι γνωστό από διάφορες φιλολογικές πηγές. Ήταν ναός αφιερωμένος στους θεούς και κτίστηκε από τον Αδριανό γύρω στο 130 μ.Χ. Η θέση του δεν είναι με ακρίβεια γνωστή. Παρόλα αυτά, μεγάλα οικοδομικά λείψανα ανατολικά της βιβλιοθήκης του Αδριανού είναι πολύ πιθανό να ανήκαν σε αυτό.</gr>
+              <en>The Pantheon is known through various ancient sources. It was a temple dedicated to the gods and was built by Hadrian around the year 130. The place where it stood is not known with precision. Nevertheless, the foundations of a big building which were found east of the Library of Hadrian, very likely belong to the Pantheon.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>bibliothiki_andrianou</name>
+          <title>
+            <gr>Βιβλιοθήκη Αδριανού</gr>
+            <en>Library of Hadrian</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η βιβλιοθήκη ήταν δώρο του αυτοκράτορα Ανδριανού προς την πόλη της Αθήνας. Χτίστηκε το 132-134 μ.Χ σε μία περιοχή με ιδιαίτερη οικονομική άνθιση κατά τους ρωμαϊκούς χρόνους.</gr>
+              <en>The library was donated by the Roman Emperor Hadrian to the city of Athens in AD 132-134 in an area where during the Roman period was flourishing.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Βιβλιοθήκη Ανδριανού</gr>
+                <en>Library of Hadrian</en>
+              </title>
+              <desc>
+                <gr>Πρόκειται για ένα μνημειακών διαστάσεων ορθογώνιο οικοδόμημα με εσωτερική αυλή και μία μόνο είσοδο στη δυτική πλευρά.   
+Tο κυρίως κτίριο της βιβλιοθήκης είχε δύο αίθουσες, όπου οι επισκέπτες διάβαζαν, ή παρακολουθούσαν διαλέξεις. Η αίθουσα της βιβλιοθήκης ήταν μάλλον τριώροφη, ο τρίτος όροφος όμως δεν διατηρείται. Οι τοίχοι θεωρείται πως ήταν εξοπλισμένοι με ράφια συνολικής χωρητικότητας είκοσι χιλιάδων περγαμηνών.Η εσωτερική αυλή, περιβαλλόταν από στοές με πολλούς κίονες ενώ στο κέντρο υπήρχε μία δεξαμενή. 
+Το κτήριο υπέστη φθορές και επισκευάστηκε κατά τις επιδρομές των Ερούλων το 267 μ.Χ. Οι σημαντικότερες επεμβάσεις στο μνημείο έγιναν από τους χριστιανικούς χρόνους και έπειτα μέχρι και τον 12 αι. καθώς χτίστηκαν, διαδοχικά, ναοί και εκκλησίες. 
+Ο τελευταίος ναός, αφιερωμένος στον Άγιο Ασώματο (Αρχάγγελο Μιχαήλ) καταστράφηκε το 1843. Στην πρόσοψη όμως της βιβλιοθήκης είναι ορατές οι τοιχογραφίες από το εσωτερικό του ναού.  
+</gr>
+                <en>The building  had only one entrance with a propylon of Corinthian order, a high surrounding wall with protruding niches (oikoi, exedrae) at its long sides, an inner courtyard surrounded by columns and a decorative oblong pool in the middle. The library was on the eastern side where rolls of papyrus "books" were kept. Adjoining halls were used as reading rooms, and the corners served as lecture halls.
+The Library suffered severe damages and was repaired after the Herulian invasion (AD 264). During Byzantines times, inside the building, three churches were built. The last christian temple, dedicated to Saint Asomatos (the Archangel Michael) was demolished in 1843. Remains of this temple, like frescoes, are still visible on the facade of the library.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>21.tif_opt.jpg</file>
+              <caption>
+                <gr>Άποψη της Βιβλιοθήκης του Αδριανού. Διακρίνεται το βυζαντινό εκκλησάκι Άγιος Ασώματος "στα Σκαλιά". 1843</gr>
+                <en>The Library of Hadrian with the byzantine church of "Agioi Asomatoi". 1843</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>agora_roman</name>
+          <title>
+            <gr>Ρωμαϊκή Αγορά</gr>
+            <en>Roman Agora</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Αποτελούσε την κεντρική αγορά στην αρχαία Αθήνα στους Ρωμαϊκούς χρόνους, όπου  γινόταν το εμπόριο και οι συναθροίσεις. Κτίστηκε από τον Ιούλιο Καίσαρα και τον Οκταβιανό Αύγουστο τον 1ο αι. π.Χ.   </gr>
+              <en>It was the central market in ancient Athens in Roman times, where trade and gatherings were taken place. It was built by Julius Caesar and Augustus in the 1st century. B.C.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ρωμαϊκή Αγορά </gr>
+                <en>Roman Agora</en>
+              </title>
+              <desc>
+                <gr>Οι Ρωμαίοι επέλεξαν να χτίσουν τη Ρωμαϊκή αγορά στη συγκεκριμένη τοποθεσία, επειδή βρίσκεται σε ένα στρατηγικό σημείο ανάμεσα στην Ακρόπολη, το σημαντικότερο θρησκευτικό και συμβολικό χώρο της πόλης και την αρχαία αγορά, το κέντρο της εμπορικής και πολιτικής ζωής της εποχής. Κατασκευάστηκε με τη χρηματοδότηση του Αυτοκράτορα Οκταβιανού Αυγούστου.
+Δημιουργήθηκε ως συνέχεια της αρχαίας αγοράς, με την οποία συνδέθηκε μέσα από ένα δρόμο. Η αγορά ήταν ένα μεγάλο τετράγωνο αίθριο που περιβαλλόταν από κίονες Ιωνικού ρυθμού. Από τη μία πλευρά της Αγοράς, την ανατολική, υπήρχαν διάφορα καταστήματα. 
+Η πύλη που υπάρχει ακόμα και σήμερα είναι το εξωτερικό μέρος της πύλης που ονομάζεται Πρόπυλο. Αυτή η πύλη είναι γνωστή ως πύλη της Αρχηγέτιδος Αθηνάς. Με αυτό το όνομα αναφέρεται σε διάφορες επιγραφές, επειδή ήταν αφιερωμένο στη θεά Αθηνά από το δήμο της Αθήνας. Κατά τη διάρκεια της Τουρκοκρατίας η πύλη της Αθηνάς Αρχηγέτιδος, ονομάστηκε πύλη του παζαριού, καθώς την εποχή εκείνη ο χώρος χρησιμοποιήθηκε ως παζάρι σιταριού.
+</gr>
+                <en>The Romans chose to build the Roman Agora in this location because it is located at a strategic point between the Acropolis, the most important religious and symbolic area of the city and the ancient agora, the center of commercial and political life of the time. It  was connected to the ancient agora through a road. 
+The market was a large square area surrounded by Ionic columns. On one side of the Agora, the east, there were various shops. The outside of the gate that still exists, named propylon.
+This gateway is known as gateway Archegetis Athena. This name refers to various signs, because it was dedicated to the goddess Athena from the municipality of Athens. During the Turkish occupation the gate Archegetis Athena, called the bazaar gate, and at that time the area was used as a grain bazaar.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>romagra(2)_opt.jpg</file>
+              <caption>
+                <gr>Η Ρωμαϊκή Αγορά και το Υδραυλικό Ωρολόγιο του Ανδρονίκου Κυρρήστου (Πύργος των Αέρηδων) από τα νοτιοανατολικά, 1923.</gr>
+                <en>The Roman Agora and the tower of the Winds in 1923.</en>
+              </caption>
+            </image>
+            <image>
+              <file>romagra(1)_opt.jpg</file>
+              <caption>
+                <gr>Η Πύλη της Αρχηγέτιδος Αθηνάς στη Ρωμαϊκή Αγορά της Αθήνας το1843.</gr>
+                <en>The gateway of Athena Archigetis in 1843.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>agoranomeion_gate</name>
+          <title>
+            <gr>Αγορανομείον</gr>
+            <en>Agoranomeion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Κατασκευάστηκε περίπου το 50 μ.Χ. και πρόκειται για ένα αταύτιστο μέχρι στιγμής κτήριο. Η παλαιότερη υπόθεση για ταύτιση του μνημείου με το αναφερόμενο από πηγές Αγορανομείο φαίνεται να μην ευσταθεί. </gr>
+              <en>Built in around 50 AD, this is a building of unknown use. The older hypothesis for the identification of the monument as the “Agoranomeion” appears to be invalid.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Αγρανομείον</gr>
+                <en>Agoranomeion</en>
+              </title>
+              <desc>
+                <gr>Πρόκειται για ένα αταύτιστο μέχρι στιγμής κτήριο που η σωζόμενη πρόσοψή του περιλαμβάνει τρεις αψίδες από γκρίζο μάρμαρο Υμηττού. Βρίσκεται σε μεγαλύτερο ύψος από τα υπόλοιπα κτήρια και η πρόσβαση σε αυτό γινόταν μέσω μίας μεγάλης κλίμακας.
+Η παλαιότερη υπόθεση για ταύτιση του μνημείου με το αναφερόμενο από πηγές Αγορανομείο φαίνεται να μην ευσταθεί. Πιο πιθανό είναι να ήταν αφιερωμένο στη λατρεία της αυτοκρατορικής οικογένειας (Σεβαστείο). Επίσης, σύμφωνα με νεότερες έρευνες, οι καμάρες πιθανόν να ήταν η μνημειακή είσοδος σε έναν δρόμο με στοές.
+</gr>
+                <en>This is a building of unknown use whose facade includes three arches made from grey Hymettus marble. The access to it was made via a big staircase. The older hypothesis for the identification of the monument as the “Agoranomeion” appears to be invalid. Most likely, it was dedicated to the imperial family (Sebasteion). But according to newer researches, the arches may have been the monumental entry to a street with stoas.</en>
+              </desc>
+            </description>
+          </descriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>vespasianes</name>
+          <title>
+            <gr>Βεσπασιανές</gr>
+            <en>Vespasianes</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το τετράγωνο αυτό κτήριο κατασκευάστηκε τον 1ο αι. μ.Χ. και ήταν τα δημόσια αποχωρητήρια της ρωμαϊκής αγοράς. Πήραν το όνομά τους από τον αυτοκράτορα Βεσπασιανό ο οποίος κατασκεύασε πολλά παρόμοια κτίσματα σε όλη την αυτοκρατορία. Η χρήση τους γινόταν επί πληρωμή.</gr>
+              <en>This square building was built in the 1st century AD and was used as a public toilet of the Roman Market. The building took its name after the emperor Vespasian who built many similar buildings around the Roman empire. In order to use them you had to pay a small amount.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>gate_archigetidos</name>
+          <title>
+            <gr>Πύλη Αθηνάς Αρχηγέτιδος</gr>
+            <en>Gate of Athena Archigetis</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Πύλη Αθηνάς Αρχηγέτιδος είναι η δυτική είσοδος της Ρωμαϊκής Αγοράς. Πρόκειται για μνημειακό πρόπυλο δωρικού ρυθμού κατασκευασμένο το 11/10 π.Χ.</gr>
+              <en>The Gate of Athena Archigetis is the western entrance to the Roman Agora. It is a monumental doric propylon, constructed in around 11/10 BC</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Πύλη Αθηνάς Αρχηγέτιδος</gr>
+                <en>Gate of Athena Archigetis</en>
+              </title>
+              <desc>
+                <gr>Η Πύλη Αθηνάς Αρχηγέτιδος είναι η δυτική είσοδος της Ρωμαϊκής Αγοράς. Προκειται για μνημειακό πρόπυλο δωρικού ρυθμού. Σύμφωνα με την επιγραφή που σώζεται στο επιστύλιο, η πύλη και η αγορά κατασκευάστηκε από τις δωρεές του Ιουλίου Καίσαρα και του Αυγούστου και αφιερώθηκε από τον Δήμο των Αθηναίων στην Αθηνά Αρχηγέτιδα το 11/10 π.Χ.
+Στη βόρεια παραστάδα της πύλης υπάρχει επιγραφή με διατάξεις του αυτοκράτορα Αδριανού για το εμπόριο του λαδιού. Από την επιγραφή αυτή συμπεραίνεται ότι εδώ ήταν η κύρια αγορά λαδιού της πόλης.
+</gr>
+                <en>The Gate of Athena Archigetis is the western entrance to the Roman Agora. It is a monumental doric propylon. According to the inscription on the architrave, the gate was constructed from donations made by Julius Caesar and Augustus and was dedicated by the people of Athens to Athena Archigetis in around 11/10 BC.
+On the north pillar of the gate, one can see an inscription with an imperial degree of Hadrian that defines the selling of olive oil. That inscription makes the Roman Agora the main olive oil market of Athens.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>acropolis</name>
+          <title>
+            <gr>Ακρόπολη</gr>
+            <en>Acropolis</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ακρόπολη</gr>
+              <en>Acropolis</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>agora</name>
+          <title>
+            <gr>Αγορά</gr>
+            <en>Agora</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Αγορά</gr>
+              <en>Agora</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+      </points>
+    </scene>
+    <scene id="Aerides">
+      <points>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>akropolis</name>
+          <title>
+            <gr>Akropolis</gr>
+            <en>Akropolis</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Akropolis</gr>
+              <en>Akropolis</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>aerides</name>
+          <title>
+            <gr><gr>Αέρηδες Τεκές του Μπραΐμη></gr></gr>
+            <en>Aerides</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Έτσι ονομάστηκε το Ωρολόγιο του Ανδρονίκου του Κυρρήστου όταν μετατράπηκε σε Τεκέ δηλαδή τόπο προσευχής ενός μουσουλμανικού τάγματος Δερβίσηδων.</gr>
+              <en>By that name was called the Clock of Andronikos Kyrrhestes when it was converted to Teke by the Turks. Teke was a place of prayer for the Muslim Dervish Order.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>13.jpg</file>
+              <caption>
+                <gr>Εσωτερική όψη του Ωρολογίου του Ανδρονίκου Κυρρήστου το οποίο είχε μετατραπεί σε τόπο συνάθροισης δερβίσηδων και ήταν γνωστό ως ο τεκές του Μπραΐμη. Επιχρωματισμένη χαλκογραφία του Edward Dodwell (1821).</gr>
+                <en>Aerides</en>
+              </caption>
+            </image>
+            <image>
+              <file>derwisches.jpg</file>
+              <caption>
+                <gr>Χορός των Δερβίσηδων στο Υδραυλικό Ωρολόγιο του Ανδρονίκου Κυρρήστου που λειτουργούσε ως τεκές των Δερβίσηδων, Dodwell 1819.</gr>
+                <en>Aerides</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>hamam</name>
+          <title>
+            <gr>Χαμάμ - Λουτρό του Σταροπάζαρου</gr>
+            <en>Hammam</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το λουτρό Χαμάμ Μπέη που βρισκόταν στο Σταροπάζαρο αποτελούσε τόπο θρησκευτικού εξαγνισμού αλλά κυρίως τόπο κοινωνικής συναναστροφής. Κατεδαφίστηκε το 1890.</gr>
+              <en>The Hamam Bey bath, located in the Staropazaro market, was a place of religious purification, but mainly a place of social gathering. It was demolished in 1890.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>Allom Steel Engraving.jpg</file>
+              <caption>
+                <gr>Τουρκικά Λουτρά στην Κωνσταντινούπολη. Χαλκογραφία του Thomas Allom (1836).</gr>
+                <en>Hammam</en>
+              </caption>
+            </image>
+            <image>
+              <file>Hammam.jpg</file>
+              <caption>
+                <gr>Το λουτρό Χαμάμ Μπέη τον 19ο αιώνα (επιχρωματισμένο κτήριο). Φωτογραφία του Π. Μωραΐτη.</gr>
+                <en>Hammam</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>spitikam</name>
+          <title>
+            <gr>Σπίτι με τις καμάρες</gr>
+            <en>Spiti Agoranomiou</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Οικία με ενσωματωμένα μέλη ρωμαϊκού κτηρίου (του λεγόμενου Αγορανομείου) και κρήνη.</gr>
+              <en>House with built-in parts of a Roman building (the so-called Agoromanomiou) and a fountain.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>Agoranomion.jpg</file>
+              <caption>
+                <gr>Σπιτι Αγορανομείου</gr>
+                <en>Spiti Agoranomion</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>tzami</name>
+          <title>
+            <gr>Φετιχιέ Τζαμί</gr>
+            <en>Tzami</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>To Φετιχιέ Τζαμί ή Τζαμί του Πορθητή κτίστηκε το 1669-1670 στη θέση παλαιοχριστιανικής βασιλικής, η οποία είχε μετατραπεί σε τζαμί το 1458 κατά την επίσκεψη του Σουλτάνου Μωάμεθ του Πορθητή στην Αθήνα, από τον οποίο και πήρε το όνομά του.</gr>
+              <en>The Fethiye Mosque was built in 1669-1670 in the place of an Early Christian Basilica, which was converted into a mosque in 1458 during the visit of Sultan Mohammed the Conqueror in Athens, from whom it took its name.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>FETIHIEOLD01.jpg</file>
+              <caption>
+                <gr>Φετιχιέ Τζαμί</gr>
+                <en>Tzami</en>
+              </caption>
+            </image>
+            <image>
+              <file>loadOttoman.jpg</file>
+              <caption>
+                <gr>Γενί Τζαμί ή τζαμί της Μπέινας ή τζαμί του Ροδακιού, από το όνομα της συνοικίας όπου βρισκόταν. Χτίστηκε το 17ο αιώνα και γύρω του υπήρχε εκτενές νεκροταφείο. Κατά την οθωμανική περίοδο οι ταφές γίνονταν στον περίβολο εκκλησιών και τζαμιών.  Κάπως έτ</gr>
+                <en>Tzami</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>mendreses</name>
+          <title>
+            <gr>Μεδρεσές (Ιεροδιδασκαλείο)</gr>
+            <en>Mentreses</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Μεδρεσές ήταν μουσουλμανικό ιεροδιδασκαλείο που χτίστηκε το 1721. Από τα χρόνια της βασιλείας του Όθωνα και έκτοτε, χρησιμοποιήθηκε ως φυλακή. Κατεδαφίστηκε σχεδόν στο σύνολό του το 1914.</gr>
+              <en>The Medrese was a Muslim teaching facility built in 1721. Since the reign of king Otto, it has been used as a prison. It was partially demolished in 1914.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>mendresesxaraktiko18oygray.jpg</file>
+              <caption>
+                <gr>Μεντρεσές</gr>
+                <en>mentresses</en>
+              </caption>
+            </image>
+            <image>
+              <file>mentresses.jpg</file>
+              <caption>
+                <gr>Μεντρεσές</gr>
+                <en>mentreses</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>tekesPre</name>
+          <title>
+            <gr>Τεκές</gr>
+            <en>Tekes</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Οι τεκέδες ήταν τόπος συνάθροισης μυστικιστικών ταγμάτων του σουφικού Ισλάμ. Συνήθως συγκροτήματα κτηρίων που περιελάμβαναν τζαμί, τουρμπέ (μαυσωλείο) και ένα σύνολο κελιών όπου φιλοξενούνταν οι δερβίσηδες.</gr>
+              <en>The tekes were a place of gathering of the mystical Sufi order of Islam. Typically, the building blocks include a mosque, a Türbe (mausoleum) and a set of cells where the dervishes were housed.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>tekes_opt.jpg</file>
+              <caption>
+                <gr>Ο Τεκές σε φωτογραφία του 1872 από τον Félix Bonfils. Μπροστά φαίνονται οι καμάρες του Αγορανομείου.</gr>
+                <en>The Tekke in a photo of 1872 by Félix Bonfils. On the foreground are the arches of the Agoranomeion.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+      </points>
+    </scene>
+    <scene id="Olympeion">
+      <points>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Bath_of_Olympieion</name>
+          <title>
+            <gr>Βαλανείο Ολυμπιείου</gr>
+            <en>Bath of Olympieion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Βαλανείο του Ολυμπιείου ήταν ένα κτήριο λουτρών που ανεγέρθηκε γύρω στο 130 μ.Χ.</gr>
+              <en>The Baths of Olympieion were public baths erected in around AD 130.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Βαλανείο Ολυμπιείου</gr>
+                <en>Olympieion Baths</en>
+              </title>
+              <desc>
+                <gr>Το βαλανείο (δηλαδή λουτρό) κατασκευάστηκε περίπου το 130 μ.Χ. στον χώρο δίπλα από το Ολυμπιείο. Η χρονολογία της κατασκευής του συμπίπτει με την κατασκευή του Ναού του Ολυμπίου Διός και της Πύλης του Αδριανού.
+Ήταν δημόσιο λουτρό και διέθετε χώρους με δεξαμενές κρύου και ζεστού νερού. Τα Βαλανεία, εκτός από χώρους υγιεινής ήταν και χώροι κοινωνικής συναναστροφής.
+</gr>
+                <en>The Bath was constructed in around AD 130 near the area of the Olympieion. The period of construction is the same as for the Temple of Olympian Zeus and the Arch of Hadrian.
+The baths were for public use and contained rooms with hot and cold pools. The baths, apart from hygiene spaces, also served as places for socializing. 
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>loutro_opt.jpg</file>
+              <caption>
+                <gr>Απεικόνιση λουτρού της ρωμαϊκής εποχής</gr>
+                <en>A view of a roman period bath</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Hadrians_Arch</name>
+          <title>
+            <gr>Πύλη Αδριανού</gr>
+            <en>Hadrian's Arch</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Αψίδα ιδρύθηκε από τους Αθηναίους, το 131-132 μ.Χ, προς τιμήν του αυτοκράτορα Αδριανού σε ένδειξη ευγνωμοσύνης για τις ευεργεσίες που είχε κάνει στην πόλη. </gr>
+              <en>The triumphal arch was constructed by the Athenians in A.D. 131, in honor of their benefactor emperor Adrianus.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Πύλη Αδριανού </gr>
+                <en>Arch of Hadrian</en>
+              </title>
+              <desc>
+                <gr>Η αψίδα κατασκευάστηκε πάνω σε έναν αρχαίο δρόμο που οδηγούσε προς την ανατολική συνοικία της πόλης, η οποία ευεργετήθηκε ιδιαίτερα από τον Αδριανό, μέρος της οποίας ήταν και το Oλυμπιείο.  Στίς δύο πλευρές της αψίδας υπάρχουν οι επιγραφές: "Αυτή είναι η Αθήνα, η αρχαία πόλη του Θησέα" και "Αυτή είναι η πόλη του Αδριανού και όχι του Θησέα"
+Θεωρείται πως υπήρχαν αγάλματα τοποθετημένα σε διάφορα σημεία του μνημείου. Οι Θησέας και Αδριανός είναι οι πιθανότεροι αναπαριστάμενοι σε κάποια από τα αγάλματα, σύμφωνα με τις επιγραφές.
+Το 1778 η αψίδα ενσωματώθηκε στο ανατολικό τμήμα του τούρκικου τείχους της πόλης της Αθήνας, γνωστού και ως «τείχος του Χασεκή». Τότε μετατράπηκε σε πύλη, η οποία έγινε γνωστή ως «πόρτα της βασιλοπούλας» ή «καμαρόπορτα».
+</gr>
+                <en>The triumphal arch lies on an ancient street that led from the old city of Athens to the new, Roman section, built by Hadrian. Part of this section was the temple of Zeus. Two inscriptions are carved on the architrave, one on each side: the first, on the side towards the Acropolis reads "This is Athens, the ancient city of Theseus"; the second, on the other side, facing the new city reads "This is the city of Hadrian and not of Theseus".
+Ιt has been proposed that there were statues positioned in different places on the arch; Theseus and Hadrian are the most commonly advanced candidates for these two statues, based on the inscriptions.
+In 1778 the arch was on the line of the ottoman city wall, known as "the wall of Chaseki (Χασεκή)''. At this time the arch used as a gate, called "the king's daughter's gate".
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>imageGen.ashx_opt.jpg</file>
+              <caption>
+                <gr>Η αψίδα το 1843 (Χαλκογραφία του Ιταλού σχεδιαστή και ζωγράφου Andrea Gasparini, Ρώμη, 1843.</gr>
+                <en>The arch in 1873
+</en>
+              </caption>
+            </image>
+            <image>
+              <file>Athens,_Greece_early_50's_opt.jpg</file>
+              <caption>
+                <gr>Η αψίδα την δεκαετία του 50'.</gr>
+                <en>The arch during the 50s.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>propylon_olympieion</name>
+          <title>
+            <gr>Πρόπυλο</gr>
+            <en>Propylon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Πρόπυλο ήταν η μνημειακή είσοδος στον περίβολο του Ναού του Ολυμπίου Διός. Ήταν κατασκευασμένη από μάρμαρο και αποτελούνταν από 4 κίονες. Ήταν η μόνη είσοδος στον χώρο.</gr>
+              <en>The Propylon was the monumental entrance to the grounds of the Temple of Olympian Zeus.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>notia_Klitys</name>
+          <title>
+            <gr>Νότια κλιτύς Ακρόπολης</gr>
+            <en>Acropolis' south slope</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Νότια κλιτύς Ακρόπολης</gr>
+              <en>Acropolis' south slope</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>Acropolis</name>
+          <title>
+            <gr>Ακρόπολη</gr>
+            <en>Acropolis</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ακρόπολη</gr>
+              <en>Acropolis</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>olympieion</name>
+          <title>
+            <gr>Ναός του Ολυμπίου Διός</gr>
+            <en>Temple of Olympian Zeus</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Ναός του Ολυμπίου Διός ή Ολυμπιείο ή στην καθομιλουμένη  Στύλοι του Ολυμπίου Διός, άρχισε να κατασκευάζεται τον 5ο αιώνα π.Χ.  και ολοκληρώθηκε το 2ο  αιώνα μ.Χ. από το  Ρωμαίο αυτοκράτορα Αδριανό.  Ήταν ο μεγαλύτερος  ναό της Ελλάδας κατά τους Ελληνιστικούς και Ρωμαϊκούς χρόνους.</gr>
+              <en>The Temple of Olympian Zeus, also known as the Olympieion or Columns of the Olympian Zeus, was dedicated to Zeus, king of the Olympian gods. Construction began in the 6th century BC but it was not completed until the reign of the Roman Emperor Hadrian in the 2nd century AD. During the Roman and Hellenistic periods it was renowned as the largest temple in Greece.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ναός Ολυμπίου Διός</gr>
+                <en>Temple of Olympian Zeus</en>
+              </title>
+              <desc>
+                <gr>Η κατασκευή του Ναού του Ολυμπίου Διός ξεκίνησε στα αρχαϊκά χρόνια από τον Πεισίστρατο και τους απογόνους του (520 π.Χ.). Σχεδιάστηκε με βάση τους μεγάλους ναούς της Μικράς Ασίας αλλά δεν ολοκληρώθηκε ποτέ.
+Στους Ελληνιστικούς χρόνους, ο βασιλιάς του κράτους των Σελευκιδών, Αντίοχος Δ’ ο Επιφανής, διέταξε το 174 π.Χ. την ανοικοδόμηση του ναού. Αρχιτέκτονα όρισε τον Ρωμαίο Κοσσούτιο. Ο ναός ήταν κορινθιακού ρυθμού. Στις στενές πλευρές θα είχε τρεις σειρές από 8 κίονες ενώ στις μακρές δύο σειρές από 20. Σύνολο θα είχε 104 κίονες. Όμως οι εργασίες σταμάτησαν ξανά με τον θάνατο του Αντίοχου το 164 π.Χ. 
+Τελικά όμως ο αυτοκράτορας Αδριανός κατάφερε να ολοκληρώσει το κτήριο το 131 μ.Χ. Σεβάστηκε πλήρως το αρχικό σχέδιο του Κοσσούτιου διατηρώντας ακόμα και κάποιους από τους κίονες που υπήρχαν από τότε. Οι κολώνες είχαν 17 μέτρα ύψος και διάμετρο 2μ. Γύρω από τον ναό έχτισε έναν περίβολο, περιμετρικά του οποίου στήθηκαν προτομές του, προσφορές από όλες τις πόλεις της Ελλάδας. Στο εσωτερικό του ναού τοποθετήθηκε ένα χρυσελεφάντινο άγαλμα του Δία και ένα του Αδριανού.
+Ο ναός ερημώθηκε όταν έπαθε σοβαρές ζημιές από τους Ερούλους το 267 μ.Χ. Στη συνέχεια απετέλεσε λατομείο καθώς το μάρμαρό του χρησιμοποιήθηκε για την κατασκευή ασβέστη. Στις 27 Απριλίου 1759 ο Τούρκος διοικητής της Αθήνας Τσισδαράκης ανατίναξε έναν ακόμα κίονα για να παρασκευάσει ασβέστη για το τζαμί που κατασκεύαζε. Σήμερα υπάρχουν 16 κίονες. Από αυτούς, ο ένας έπεσε κατά τη διάρκεια μίας καταιγίδας το 1852.
+</gr>
+                <en>The construction of the Temple of Zeus Olympios began in the archaic period by Peisistratos and his descendants (520 BC). It was designed to look like the huge temples of Asia Minor but was never completed.
+In the Hellenistic years, the king of the Seleykid Empire, Antiochus IV Epiphanes, ordered in 174 BCE the reconstruction of temple. The assigned architect was the Roman Cossutius who modified the initial plan of the building. The temple would now be of Corinthian order. In the narrow sides it would have three rows of 8 columns each, while in the long ones, there would be two rows of 20. It would have 104 columns in total. However, the works stopped again after the death of Antiochus, in 164 BCE. 
+Finally, the emperor Hadrian accomplished the project in 131 CE. He respected the initial plan of Cossutius even keeping some of his columns which still stood. The columns were 17 metres high and had a diameter of 2m. A wall was built around the temple along which, dozens of his portraits were placed as offerings by all the cities of Greece. In the interior of temple there was one gold and ivory statue of Zeus and one of Hadrian himself.
+The temple was deserted after suffering serious damage from their Heruli invasion in 267 CE. Afterwards it was used as a quarry, as the marble was used to manufacture lime. On 27 April 1759 the Turkish governor of Athens Tsisdarakis blew up one column in order to he prepare lime for the mosque that he was building. Today only 16 columns exist. One of them fell during a storm in 1852.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>Temple_of_Olympios_1821.jpg</file>
+              <caption>
+                <gr>Απεικόνιση των αρχών του 18ου  αιώνα από τον Ιρλανδό περιηγητή Edward Dodwell</gr>
+                <en>An eartly 18th-century depiction by the Irish traveler Edward Dodwell</en>
+              </caption>
+            </image>
+            <image>
+              <file>Temple_of_Olympian_Zeus_1915.jpg</file>
+              <caption>
+                <gr>Φωτογραφία του Joseph-Philibert Girault de Prangey των αρχών του 19ου αιώνα</gr>
+                <en>An early 19th century image of  Joseph-Philibert Girault de Prangey</en>
+              </caption>
+            </image>
+            <image>
+              <file>olym_opt.jpg</file>
+              <caption>
+                <gr>Ο ναός του Ολυμπίου Διός το 1865. Πάνω στους κίονες διακρίνεται μεσαιωνικό κτίσμα, ίσως πύργος κατόπτευσης, που παλαιότερα θεωρούνταν κελί στυλίτη μοναχού.</gr>
+                <en>The temple of Olympian Zeus in 1865. On the columns is visible a medieval construction, probably a tower, previously thought to be a house of a stylites monk.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+      </points>
+    </scene>
+    <scene id="Klitys">
+      <points>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>pericles</name>
+          <title>
+            <gr>Ωδείο Περικλή</gr>
+            <en>Odeion of Pericles</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το ωδείο αυτό κατασκευάστηκε από τον Περικλή περίπου το 447 π.Χ. Χρησιμοποιήθηκε για τους μουσικούς αγώνες της γιορτής των Παναθηναίων.</gr>
+              <en>This odeon was built by Pericles in around 447 BC and was used to house the musical contests of the Panathenaea festival.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ωδείο Περικλή</gr>
+                <en>Odeion of Pericles</en>
+              </title>
+              <desc>
+                <gr>Το ωδείο του Περικλή κατασκευάστηκε με εντολή του ίδιου περίπου το 447 π.Χ. Ήταν ένα πολύ μεγάλο τετράγωνο κτήριο η σκεπή του οποίου στηριζόταν σε ένα πλήθος από ξύλινους κίονες στο εσωτερικό. Σύμφωνα με τις αρχαίες πηγές, η στέγη είχε το σχήμα της σκηνής του Ξέρξη στη ναυμαχία της Σαλαμίνας.
+Ήταν το πρώτο ωδείο της Αθήνας και χρησιμοποιήθηκε για μουσικούς αγώνες κατά τη διάρκεια της γιορτής των Παναθηναίων.
+Καταστράφηκε από τους Αθηναίους κατά την πολιορκία της πόλης από τον Ρωμαίο Σύλλα το 86 π.Χ. ώστε να μην χρησιμοποιηθούν τα ξύλα του για την κατασκευή πολιορκητικών μηχανών κατά της Ακρόπολης. Λίγες δεκαετίες αργότερα επισκευάστηκε από τον ηγεμόνα της Καππαδοκίας Αριοβαζάρνη Β΄.
+</gr>
+                <en>The odeon of Pericles was constructed by his orders in around 447 BC. It was a very big square building, whose roof was supported in a bug number of wooden pillars. According to ancient sources, the roof was shaped after the tent of Xerxes used during the naval battle of Salamis.
+It was the first oden of Athens and was used to house the musical contests during the Panathenaea festival.
+It was destroyed by the Athenians themselves during the siege of the city by the roman Sylla, in fear of using the timber of the building to construct siege machines against the Acropolis. A few decades later, it was rebuilt by the king of Cappadocia, Ariovarzanes II.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>pericles_opt.jpg</file>
+              <caption>
+                <gr>Ο Περικλής ήταν ο πολιτικός που έχτισε τα λαμπρότερα μνημεία στην Αθήνα και τη μετέτρεψε στη μεγαλύτερη δύναμη στην Ελλάδα.</gr>
+                <en>Pericles was the politician who built the greatest monuments in Athens, and made the city the main power in Greece.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Theatre_of_Dionyssos</name>
+          <title>
+            <gr>Θέατρο Διονύσου</gr>
+            <en>Theater of Dionysos</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το θέατρο του Διονύσου είναι το πιο γνωστό θέατρο στην αρχαία πόλη της Αθήνας. Κατασκευάστηκε από τον άρχοντα της Αθήνας Λυκούργο μεταξύ 340-330 π.Χ. Πρόκειται για το πρώτο πέτρινο θέατρο στον κόσμο.  </gr>
+              <en>The ancient theatre of Dionysos is the most famous theatre in the ancient city of Athens. It is dated in 340-330 A.D during the rule of Lucurgus. It was the first stone theatre ever built. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Θέατρο του Διονύσου </gr>
+                <en>Theater of Dionisos </en>
+              </title>
+              <desc>
+                <gr>Το θέατρο ήταν αφιερωμένο στη λατρεία του θεού Διονύσου και εκεί τελούνταν οι δραματικοί αγώνες των Μεγάλων Διονυσίων, της μεγαλύτερης θεατρικής γιορτής της πόλης των Αθηνών. Είχε φιλοξενήσει έργα των μεγαλύτερων αρχαίων Ελλήνων ποιητών όπως των Αισχύλου, Σοφοκλέους, Ευρυπίδου και Αριστοφάνους. 
+Η χωρητικότητα του έφθανε τους 15.000 - 17.000 θεατές. Ακολουθεί την τυπική δομή ενός αρχαίου θεάτρου, με την ορχήστρα (κυκλικός χώρος)με το βωμό του Διονύσου στο κέντρο, τη σκηνή και το κοίλον (χώρος των θεατών). 
+Κατά την ελληνιστική εποχή αλλαγές πραγματοποιήθηκαν στη σκηνή του θεάτρου η οποία αποκτά ιδιαίτερη όψη κατά τους ρωμαϊκούς χρόνους για να εξυπηρετήσει τις ανάγκες των νέων έργων π.χ ναυμαχίες. 
+Ο λατρευτικός χαρακτήρας του θεάτρου εγκαταλείπεται σταδιακά. Πέραν των παραστάσεων έγιναν και πολλές συγκεντρώσεις της Εκκλησίας του Δήμου, κυρίως μετά την εισβολή των Ερούλων το 267 μ.Χ.
+</gr>
+                <en>The theatre was dedicated to Dionysos and could seat more than 15000 people. It hosted the City Dionysia festival. Among those who competed were Aeschylus, Sophocles, Euripides, Aristophanes 
+The early theatre was very simple with wooden seats and wooden scene. The orchestra was circular.  Lyurgus refurbished the theatre in stone in monumental form. Alterations to the stage were made in the subsequent Hellenistic and Roman period.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>theatro_dionysos_photo_1897_opt.jpg</file>
+              <caption>
+                <gr>Το Θέατρο του Διονύσου σε φωτογραφία του Γερμανικού Αρχαιολογικού Ινστιτούτου (1897)</gr>
+                <en>The theatre of Dionysos. German Archaeological Institute (1897)</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>temple_dionysos</name>
+          <title>
+            <gr>Ιερό του Διονύσου Ελευθερέως</gr>
+            <en>Sanctuary of Dionysos Eleuthereos</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο ναός Διονύσου βρίσκεται μέσα στον περίβολο του Ιερού του Διονύσου Ελευθερέως, δίπλα στο ομώνυμο θέατρο.</gr>
+              <en>The temple of Dionysos is located within the sanctuary of Dionysos Eleuthereos, near to the Theatre with the same name.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ιερό του Διονύσου Ελευθερέως</gr>
+                <en>Sanctuary of Dionysos Eleuthereos</en>
+              </title>
+              <desc>
+                <gr>Το Ιερό του Διονύσου Ελευθερέως ιδρύθηκε τον 6ο αι. π.Χ., από τον Πεισίστρατο, που εισήγαγε στην Αθήνα τη λατρεία του Διονύσου από τις Ελευθερές της Βοιωτίας. Εκεί γιόρταζαν κάθε χρόνο την άνοιξη, τα Μεγάλα ή εν Άστει Διονύσια, τη σημαντικότερη γιορτή προς τιμήν του θεού Διονύσου.
+Μέσα στον περίβολο υπήρχαν οι δύο ναοί του Διονύσου, o παλαιότερος του 6ου αιώνα π.Χ. και ο νεότερος του 4ου αιώνα π.Χ. και ο βωμός.
+Στο ιερό ανήκε και το θέατρο του Διονύσου.
+</gr>
+                <en>The Sanctuary of Dionysos Eleuthereos was founded during the 6th century BC by Peisistratus, who imported the worshipping of Dionysos from the Boeotean town of Eleutherai. At this sanctuary, they used to celebrate during the spring the “Great Dionysia”, the most important festival for the god.
+Inside the sanctuary there were the two temples of Dionysos, the older built in the 6th century BC and the newer in the 4th century BC, and the altar.
+Part of the sanctuary also was the Theatre of Dionysos.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>nikias</name>
+          <title>
+            <gr>Χορηγικό μνημείο Νικία</gr>
+            <en>Nikias choragic monument</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το χορηγικό μνημείο του Νικία κατασκευάστηκε το 320 π.Χ. για να τιμήσει τη νίκη στους θεατρικούς αγώνες, έργου που χρηματοδότησε ο πλούσιος Αθηναίος Νικίας.</gr>
+              <en>The choragic monument of Nikias was constructed in 320 BC to commemorate the victory of a theatric play that was financed by the rich Athenian Nikias.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Χορηγικό μνημείο Νικία</gr>
+                <en>Nikias choragic monument</en>
+              </title>
+              <desc>
+                <gr>Τα χορηγικά μνημεία ήταν κτίσματα που κατασκευάζονταν για ανάμνηση μιας νίκης σε δραματικούς αγώνες. Τα θεατρικά ή μουσικά έργα χρηματοδοτούνταν από πολύ πλούσιους Αθηναίους, τους «χορηγούς», τους οποίους υποχρέωνε η Αθηναϊκή πολιτεία. Σε περίπτωση που ένα έργο κέρδιζε το βραβείο, ο χορηγός λάμβανε ως έπαθλο έναν χάλκινο τρίποδα και έχτιζε ένα μνημείο για να τον τοποθετήσει στην κορυφή του.
+Ο Νικίας, γιος του Νικοδήμου, χρηματοδότησε έναν χορό νέων που κέρδισε το βραβείο. Έτσι έχτισε αυτό το ναόσχημο κτίσμα δίπλα στο θέατρο του Διονύσου όπου διεξάγωνταν οι αγώνες.
+Μετά την καταστροφή της πόλης από τους Έρουλους το 267 μ.Χ., τα μέλη του μνημείου ενσωματώθηκαν στην πύλη ενός νέου τείχους μπροστά από τα Προπύλαια, που είναι γνωστή σήμερα με την ονομασία «Πύλη Beule», από τον Γάλλο αρχαιολόγο που την ανακάλυψε.
+</gr>
+                <en>The choragic monuments were constructions built to commemorate a victory in theatrical contests. The theatrical of musical plays were financed by the “choregoi”, very wealthy Athenians who were imposed to do so by the Athenian State. In case a play won, the choregos received a bronze tripod as a prize and used to erect a monument to hold it on its roof.
+Nikias, son of Nicodemos financed a youth musical play which won the prize, and erected this temple-styled monument near the theatre of Dionysos, where the plays took place.
+After the city was destroyed by the Heruli invasion in 267 AD the monument was dismantled and its parts were incorporated into a new fortification wall in the Propylaea of Acropolis, now known as the “Beule Gate”, named after the French archaeologist who discovered it.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>nikias_opt.jpg</file>
+              <caption>
+                <gr>Τα μέλη του Μνημείου του Νικία ενσωματωμένα στην πύλη Beule στα Προπύλαια.</gr>
+                <en>The Nikias Monument parts used in the Beule Gate of the Propylaia.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>stoa_evmenous</name>
+          <title>
+            <gr>Στοά Ευμένους</gr>
+            <en>Stoa of Eumenes</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η στοά του Ευμένη χτίστηκε το 160 π.Χ. ως δώρο του βασιλιά της Περγάμου Ευμένη Β΄ στην Αθήνα. Χρησιμοποιούνταν για προφύλαξη των θεατών του θεάτρου του Διονύσου σε περίπτωση κακοκαιρίας. </gr>
+              <en>The stoa of Eumenes was built in 160 BC by the king of Pergamon Eumenes II, as a gift to Athens. It was used to shelter the spectators of the theatre of Dionysos during bad weather.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Στοά Ευμένους</gr>
+                <en>Stoa of Eumenes</en>
+              </title>
+              <desc>
+                <gr>Η στοά του Ευμένη χτίστηκε το 160 π.Χ. ως δώρο του βασιλιά της Περγάμου Ευμένη Β΄ στην Αθήνα. Ήταν μια πολύ μεγάλη διώροφη στοά με μήκος 163 μέτρα. Βρισκόταν δίπλα από το θέατρο του Διονύσου και έτσι παρείχε προφύλαξη για τους θεατές του όταν υπήρχε κακοκαιρία. Επίσης χρησίμευε ως αποθηκευτικός χώρος των σκηνικών του θεάτρου.
+Τον 2ο αιώνα μ.Χ. η δυτική της άκρη συνδέθηκε με το Ηρώδειο.
+Καταστράφηκε κατά την επιδρομή των Έρουλων το 267 μ.Χ. και ύστερα τα ερείπιά της χρησιμοποιήθηκαν ως αμυντικό τείχος.
+</gr>
+                <en>The stoa of Eumenes was built in 160 BC by the king of Pergamon Eumenes II, as a gift to Athens. It was a very large two-storeyed stoa measuring 163 metres in length. It was located next to the theatre of Dionysos and provided shelter to its spectators during bad weather. It was also used to store the backdrops and the props of the theatre.
+In the 2nd century AD the western side was incorporated to the Herodeion.
+It was destroyed during the invasion of the Heruli in 267 AD and later on, its parts were used as a defensive city wall.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>eumenes_opt.jpg</file>
+              <caption>
+                <gr>Προτομή του Ευμένη Β’ από την Έφεσο.</gr>
+                <en>Bust of Eumenes II from Ephesus.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>acropolis</name>
+          <title>
+            <gr>Ακρόπολη</gr>
+            <en>Acropolis</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ακρόπολη</gr>
+              <en>Acropolis</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>olympieionlow</name>
+          <title>
+            <gr>Ολυμπιείον</gr>
+            <en>Olympieion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ολυμπιείον</gr>
+              <en>Olympieion</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>Hadrians_Arch</name>
+          <title>
+            <gr>Πύλη Αδριανού</gr>
+            <en>Hadrian's Arch</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Πύλη Αδριανού</gr>
+              <en>Hadrian's Arch</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Herodeion</name>
+          <title>
+            <gr>Ωδείο Ηρώδου του Αττικού</gr>
+            <en>The Odeon of Herodes Atticus</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Ηρώδειο, όπως συνήθως αναφέρεται, κτίστηκε  από τον Αθηναίο μεγιστάνα και φιλότεχνο Ηρώδη τον Αττικό κατά τον 2ο αιώνα μ.Χ., προς τιμήν της συζύγου του Ασπασίας Αννίας Ρηγίλλης.</gr>
+              <en>Herodion, as is usually mentioned, is a stone theatre structure that was built in 2nd     century AD by the Athenian magnate Herodes Atticus in memory of his wife, Aspasia Annia Regilla</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ηρώδειο</gr>
+                <en>Odeon of Herodes</en>
+              </title>
+              <desc>
+                <gr>Το Ηρώδειο κατασκευάστηκε το 161 μ.Χ. από τον Ηρώδη τον Αττικό εις μνήμην της συζύγου του Ρηγίλλας. Ήταν ένα θέατρο προορισμένο για μουσικές παραστάσεις και χωρούσε 5.000 θεατές. Η οροφή του ήταν μηχανικό επίτευγμα καθώς δεν στηριζόταν σε καμία κολώνα, αλλά αποτελούνταν από μεγάλους κορμούς κέδρου. Ήταν το ψηλότερο κτήριο της Αθήνας μέχρι τη δεκαετία του 1960.
+Καταστράφηκε κατά την εισβολή των Ερούλων το 267 μ.Χ. και αργότερα ενσωματώθηκε στο νέο τείχος της πόλης.
+</gr>
+                <en>The Herodeion was erected in AD 161. Herod the Atticus built it to honour his wife Regilla. It actually was a concert hall that could accommodate up to 5.000 spectators. The roof of the Herodeion was an architectural achievement as it was not supported on any columns but was constituted by cedar trunks. It was the tallest building of Athens until the 1960s.
+It was destroyed by the Heruli invasion in 267 AD and later on was incorporated into a new city wall.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>Regilla.jpg</file>
+              <caption>
+                <gr>Το θέατρο στις αρχές του 18ου αιώνα από τον περιηγητή  Edward Daniel Clarke</gr>
+                <en>The theater at the early 18th century by the traveler Edward Daniel Clarke</en>
+              </caption>
+            </image>
+            <image>
+              <file>Bonfils1831_1885.jpg</file>
+              <caption>
+                <gr>Το θέατρο στα τέλη του 18th  αιώνα από τον Felix Bonfils</gr>
+                <en>The theater at the late 18th century by Felix Bonfils</en>
+              </caption>
+            </image>
+            <image>
+              <file>Bundesarchiv.jpg</file>
+              <caption>
+                <gr>O Herbert von Karajan διευθύνει την ορχήστρα του Ωδείου Αθηνών το 1949</gr>
+                <en>Herbert von Karajan conducts the Orchestra of the Athens Conservatory at 1949</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+      </points>
+    </scene>
+    <scene id="Agora">
+      <points>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Temple_of_Patroos_Apollo</name>
+          <title>
+            <gr>Ναός Πατρώου Απόλλωνα</gr>
+            <en>Patroos Apollo Temple</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο ναός αυτός ήταν μικρός, ιωνικού ρυθμού κατασκευάστηκε τον 4ο αιώνα π.Χ. και ήταν αφιερωμένος στον θεό Απόλλωνα. Στέγαζε διάφορα αγάλματα με σημαντικότερο αυτό του Απόλλωνα Αλεξίκακου, έργο του διάσημου γλύπτη Καλάμιδος.</gr>
+              <en>This temple was small and of ionic order. It was constructed in the 4th century BC and was dedicated to god Apollo. It housed many sculptures among which, the most important was the one of Apollo Alexikakos, work of the famous sculptor Kalamis.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>apollo_opt.jpg</file>
+              <caption>
+                <gr>Το μαρμάρινο λατρευτικό άγαλμα του Πατρώου Απόλλωνα που βρισκόταν στον ναό. Έργο του Ευφράνορος.</gr>
+                <en>The marble statue of Apollo Patroos that was inside the temple. A work by Euphranor.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Temple_of_Hephaestus</name>
+          <title>
+            <gr>Ναός Ηφαίστου</gr>
+            <en>Temple of Hephaestus</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Ναός του Ηφαίστου (γνωστός και ως Θησείο) ήταν αφιερωμένος στο Θεό Ήφαιστο, προστάτη των μεταλλουργών και στην Εργάνη Αθηνά, προστάτρια των κεραμέων και της οικοτεχνίας. Χρονολογείται μεταξύ 460-420 π.Χ. Είναι ένας από τους καλύτερα διατηρημένους αρχαίους ελληνικούς ναούς δωρικού τύπου.</gr>
+              <en>The temple was dedicated to two deities jointly worshipped: god Hephaestus, protector of all metallurgists, and goddess Athena Ergani, protecting all potters and the cottage industries. The temple was probably erected between 460 and 420 BC. It is a well preserved Greek Doric temple. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ναός του &lt;br/&gt;  Ηφαίστου </gr>
+                <en>Temple of Hephaestus  </en>
+              </title>
+              <desc>
+                <gr>Ο δωρικού τύπου, περίπτερος εξάστυλος ναός, ξεκίνησε να σχεδιάζεται πολύ νωρίτερα από την κατασκευή του Παρθενώνα, πιθανόν από το 450 π.Χ. 
+Στο εσωτερικό του ναού, υπήρχε δίτονη κιονοστοιχία σε σχήμα Π, εντός της οποίας υπηρχε ένα βάθρο πάνω στο οποίο στέκονταν τα ορειχάλκινα λατρευτικά αγάλματα του Ηφαίστου και της Αθηνάς, έργα του γλύπτη Αλκαμένη, σύμφωνα με τον Παυσανία, τα οποία πρέπει να φιλοτεχνήθηκαν ανάμεσα στα έτη 421-415 π.Χ.
+Ιδιαίτερο ενδιαφέρον παρουσιάζει ο εξωτερικός γλυπτός διάκοσμος του ναού. Στις μετόπες, τη ζωοφόρο και τα αετώματα, παριστάνονται οι άθλοι του Ηρακλή και του Θησέα, σκηνές από τη μάχη του Θησέα κατά των απαιτητών του θρόνου, η Κενταυρομαχία, η υποδοχή του Ηρακλή στον Όλυμπο ή η γέννηση της Αθηνάς.
+Κατά τους ελληνιστικούς χρόνους γύρω από το ναό φυτεύθηκαν θάμνοι ή μικρά δένδρα σε παράλληλες σειρές, μέσα σε γλάστρες, τα οποία ήρθαν στο φως με τις ανασκαφές. Τον 7ο αι. μ.Χ. ο ναός μετατράπηκε σε εκκλησία του Αγίου Γεωργίου του Ακάμα και λειτούργησε έτσι έως την απελευθέρωση της Ελλάδας από τους Τούρκους. Κατά το 18ο αιώνα, λειτούργησε ο χώρος ταφής πολλών φιλέλληνων , που πέθαναν στην Αθήνα, ενώ το 1834 πραγματοποιήθηκε εδώ η τελετή υποδοχής του βασιλιά Όθωνα.
+ Έκτοτε ο ναός λειτούργησε ως αρχαιολογικό μουσείο, έως το 1930, οπότε και ανέκτησε την παλαιά του ταυτότητα ως αρχαίο μνημείο.  
+</gr>
+                <en>It is a Doric peripteral temple, probably erected, before Parthenon, by a yet unknown architect.
+On the interior of the cella (in Greek sekos) was a two-part colonnade forming the letter Π and at the far end was a pedestal, that supported the bronze ceremonial statues of Hephaestus and Athena, created by the sculptor Alkamenis; according to the traveller and geographer Pausanias, they were probably executed between 421 and 415 BC.
+The notable sculptural decoration of the temple featured highly interesting metopes, frieze and pediments; they depicted the feats of Hercules and of Theseus,  the victorious struggle of Theseus against the claimers of the throne,  the fight of the Centaurs, the reception of Hercules on mount Olympus or the birth of goddess Athena.
+In the seventh century AD, the temple was converted into a church dedicated to St. George Akamas, and thus stayed in use until the liberation of Greece from the Turkish occupation. During the eighteenth century, many eminent Protestants, who died in Athens, were interred in the edifice, while in 1834 it hosted the ceremony of the first reception of king Otto. 
+Hence the temple was used as an archaeological museum, until 1930.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>ifaist(1)_opt.jpg</file>
+              <caption>
+                <gr>Ο ναός του Ηφαίστου (Θησείο) στον χώρο της Αρχαίας Αγοράς και η Ακρόπολη από τα βορειοδυτικά. (1890)</gr>
+                <en>The Temple of Hephaestus and the Acropole -Nord-Quest (1890) </en>
+              </caption>
+            </image>
+            <image>
+              <file>ifaist(2)_opt.jpg</file>
+              <caption>
+                <gr>Ο Ναός του Ηφαίστου (Θησείο) στην Αρχαία Αγορά της Αθήνας το 1817.</gr>
+                <en>The Temple of Hephaestus at Athens in 1817.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Basileios_Stoa</name>
+          <title>
+            <gr>Βασίλειος Στοά</gr>
+            <en>Royal Stoa</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Βασίλειος Στοά ήταν η έδρα του Άρχοντα Βασιλέα, εκλεγμένου θρησκευτικού και δικαστικού λειτουργού της Αθήνας. Εκεί, εκτός των άλλων γίνονταν και δίκες με πιο γνωστή αυτή του Σωκράτη.</gr>
+              <en>The Royal Stoa (Basileios) was the official seat of the Archon Basileus, the elected judge and religious officer of Athens. Many trials took place in this stoa, the most famous of which is the trial of the philosopher Socrates.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Βασίλειος Στοά</gr>
+                <en>Royal Stoa</en>
+              </title>
+              <desc>
+                <gr>Η Βασίλειος Στοά ήταν η έδρα του Άρχοντα Βασιλέα, εκλεγμένου θρησκευτικού και δικαστικού λειτουργού της Αθήνας. Εκεί, εκτός των άλλων γίνονταν και δίκες με πιο γνωστή αυτή του Σωκράτη.
+Κατασκευάστηκε αμέσως μετά τους Περσικούς Πολέμους (480 π.Χ.) και ήταν η αρχαιότερη στοά της Αγοράς. Ήταν δωρικού ρυθμού και χτισμένη από πωρόλιθο.
+Στα τέλη του 5ου αιώνα π.Χ. προστέθηκαν στα ανατολικά δύο μικρές πτέρυγες στις οποίες γινόταν δημόσια ανάρτηση των ψηφισμάτων και των νόμων της Αθήνας.
+Επισκευάστηκε πολλές φορές και ήταν σε χρήση για πάνω από μία χιλιετία, μέχρι και τον 6ο αιώνα μ.Χ. 
+</gr>
+                <en>The Royal Stoa (Basileios) was the official seat of the Archon Basileus, the elected judge and religious officer of Athens. Many trials took place in this stoa, the most famous of which is the trial of the philosopher Socrates.
+It was constructed immediately after the Persian Wars (480 BC) and was the most ancient stoa building of the Agora. It was of Doric order and made of poros stone.
+In the end of the 5th century BC, two wings were added to the east, publicly displaying the laws of the city of Athens.
+It was repaired numerous times and was in use for more than a millennia, up to the 6th century AD.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>Sokrates_opt.jpg</file>
+              <caption>
+                <gr>Στη Βασίλειο Στοά δικάστηκε και καταδικάστηκε σε θάνατο ο φιλόσοφος Σωκράτης το 399 π.Χ.</gr>
+                <en>The Basileios Stoa was the place where the philosopher Socrates was trialed and sentenced to death in 399 BC</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Stoa_of_Zeus</name>
+          <title>
+            <gr>Στοά Ελευθερίου Διός</gr>
+            <en>Stoa of Zeus Eleutherios</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Στοά είναι αφιερωμένη στον Ελευθέριο Δία και χτίστηκε από τους Αθηναίους εις μνήμη των νικών τους στις ένδοξες μάχες. Χρονολογείται μεταξύ του 430 - 420 π.Χ </gr>
+              <en>The Stoa is dedicated to Zeus by the Eleytherios ("pertaining to freedom"). It was built c. 425 - 410 BC. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Στοά Ελευθέριου Διός </gr>
+                <en>Stoa of Zeus</en>
+              </title>
+              <desc>
+                <gr>Η Στοά του Ελευθέριου Διός, και αρχικά είχε χτιστεί για θρησκευτικούς σκοπούς. Σύντομα όμως χρησίμευσε ως τόπος συζητήσεων και περιπάτου. Μάλιστα ο Ξενοφώντας και ο Πλάτωνας, αναφέρουν στα έργα τους πως ο φιλόσοφος  ο Σωκράτης ήταν θαμώνας στο χώρο, όπου συναντούσε τους φίλους και τους μαθητές του, ενώ επίσης η στοά φιλοξένησε πολλές φορές τον κυνικό φιλόσοφο Διογένη (ο ίδιος έλεγε ότι έχτισαν την στοά για να την έχει ως σπίτι του, και ίσως εδώ να βρισκόταν το πιθάρι μέσα στο οποίο διέτριβε)
+Ο Παυσανίας μας αναφέρει πως το εσωτερικό ήταν διακοσμημένο με ζωγραφικές παραστάσεις, περιλαμβάνοντας απεικονίσεις των δώδεκα Oλύμπιων Θεών, του Δήμου και της Δημοκρατίας, και της μάχης της Μαντινείας, έργο που φιλοτέχνησε ο Ευφράνωρ. Στο κτίριο είχαν ανατεθεί οι ασπίδες εκείνων που αγωνίστηκαν για την ελευθερία της πόλης, τις οποίες πήραν μαζί τους στην Ρώμη οι στρατιώτες του Σύλλα κατά την ρωμαϊκή επιδρομή στην Αθήνα το 86 π.Χ. 
+Επί ρωμαϊκής εποχής, προστέθηκαν στο πίσω τμήμα δύο δωμάτια τα οποία χρησίμευαν για την άσκηση λατρείας  αυτοκρατόρων συνδεδεμένων με τον Δία Ελευθέριο, όπως π.χ. ο Αύγουστος και ο Αδριανός, που έφεραν το ομώνυμο επίθετο.
+Το1891 κατά τη διάνοιξη της τάφρου του ηλεκτρικού σιδηροδρόμου καταστράφηκε το βόρειο στενό σκέλος της.
+</gr>
+                <en>The Stoa of Zeus was built for religious purposes but soon the building also served other civic purposes due to its central location. The famous philosopher Socrates and Diogenes were two of the many that taught in this place.
+According to Pausanias, the interior was decorated with frescoes illustrated mythological and battle scenes. It is also said that in this building Athenians put the shields of the city's defendants and that these shields were taken by the Roman soldiers to Rome, during the Roman envasion in Athens in 86 B.C In the late first century BC a two room annex was added, possibly for the cult of the Roman imperial family.
+
+In 1891, during the construction works for the metropolitan train, the North side of the building was totally destroyed. 
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>zeus_opt.jpg</file>
+              <caption>
+                <gr>Άγαλμα-ακροτήριο από τη στέγη της Στοάς του Ελευθερίου Διός που απεικονίζει φτερωτή νίκη.</gr>
+                <en>Akroterion statue from the roof of the Stoa of Zeus depicting flying victory (“nike”).</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>New_Bouleuterion</name>
+          <title>
+            <gr>Νέο Βουλευτήριο</gr>
+            <en>New Bouleuterion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το δημόσιο αυτό κτήριο ήταν το βουλευτήριο της Αθήνας και αντικατέστησε το γειτονικό «Παλαιό Βουλεύτήριο» το 410 π.Χ.</gr>
+              <en>This public building served as the Bouleuterion (council house) of Athens, and replaced the nearby “Old Bouleuterion” in 410 BC.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>pryt_opt.jpg</file>
+              <caption>
+                <gr>Τμήμα μαρμάρινης στήλης με ψήφισμα των πρυτάνεων που βρέθηκε στον χώρο του Βουλευτηρίου. 200-190 π.Χ.</gr>
+                <en>Part of a marble stele including a Prytany Degree found near the Bouleuterion. 200-190 BC.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Old_Bouleuterion</name>
+          <title>
+            <gr>Παλιό Βουλευτήριο</gr>
+            <en>Old Bouleuterion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Αυτό το κτήριο ήταν το πρώτο βουλευτήριο της Αθήνας. Ήταν το σημείο συγκέντρωσης της Βουλής των 500. Κατασκευάστηκε στα τέλη του 6ου ή αρχές 5ου αιώνα π.Χ,.</gr>
+              <en>This building was the first bouleuterion of Athens. The bouleuterion (council house) was the place where the 500 councils of the citizens were gathering. It was constructed in the late 6th or early 5th century BC.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Παλaιό Βουλευτήριο</gr>
+                <en>Old Bouleuterion</en>
+              </title>
+              <desc>
+                <gr>Αυτό το κτήριο ήταν το πρώτο βουλευτήριο της Αθήνας. Ήταν το σημείο συγκέντρωσης της Βουλής των 500. 
+Κατασκευάστηκε στα τέλη του 6ου ή αρχές 5ου αιώνα π.Χ,. και στέγασε την πρώτη δημοκρατικά εκλεγμένη Βουλή. Ήταν σε χρήση μέχρι το 410 π.Χ. όταν αντικαταστάθηκε από το «Νέο Βουλευτήριο» στα δυτικά.
+Έκτοτε χρησιμοποιήθηκε ως χώρος φύλαξης αρχείων (μητρώων) και κατεδαφίστηκε το 150 π.Χ. για να αντικατασταθεί από το νέο κτήριο του Μητρώου.
+</gr>
+                <en>This building was the first bouleuterion of Athens. The bouleuterion (council house) was the place where the 500 councils of the citizens were gathering.
+It was constructed in the late 6th or early 5th century BC and housed the first democratically elected council of the citizens. It was in use up until around 410 BC when it was replaced by the “New Bouleuterion” in the west.
+Since then it was used as the state archives (Metroon) and was finally demolished to be replaced by a new Metroon Building in 150 BC.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>pryt_opt.jpg</file>
+              <caption>
+                <gr>Τμήμα μαρμάρινης στήλης με ψήφισμα των πρυτάνεων που βρέθηκε στον χώρο του Βουλευτηρίου. 200-190 π.Χ.</gr>
+                <en>Part of a marble stele including a Prytany Degree found near the Bouleuterion. 200-190 BC.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Ionic_propylon</name>
+          <title>
+            <gr>Ιωνικό πρόπυλο</gr>
+            <en>Ionic propylon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Αυτό το μεγαλοπρεπές πρόπυλο ιωνικού ρυθμού ήταν η κεντρική είσοδος στους χώρους της Θόλου και του Βουλευτηρίου.</gr>
+              <en>This monumental ionic Propylon was the main entrance to the grounds of Tholos and the Bouleuterion.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Tholos</name>
+          <title>
+            <gr>Θόλος</gr>
+            <en>Tholos</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Θόλος ήταν δημόσιο κτήριο που στέγαζε τους 50 πρυτάνεις. Διέθετε κουζίνα για τα γεύματά τους ενώ πολλοί από αυτούς διέμεναν συχνά στο εσωτερικό του κτηρίου.</gr>
+              <en>The Tholos was a public building housing the 50 prytaneis (chairmen)of the state. It had a kitchen to prepare their meals and many of them used to sleep in the building.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>tholos_opt.jpg</file>
+              <caption>
+                <gr>Θραύσμα από αγγείο που χρησίμευε ως επίσημο μέτρο χωρητικότητας. Διακρίνεται μέρος της επιγραφής «[δη]μό[σιον]».</gr>
+                <en>Fragment of a vessel used as an official measure standard. It was inscribed “[de]mo[sion]”= public.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Monument_of_Eponymous_Heroes</name>
+          <title>
+            <gr>Μνημείο Επωνύμων Ηρώων</gr>
+            <en>Monument of Eponymous Heroes</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το μνημείο αυτό αποτελούνταν από ένα βάθρο με τα 10 αγάλματα των Επωνύμων Ηρώων, των ηρώων δηλαδή κάθε Αθηναϊκής φυλής με τις οποίες ήταν χωρισμένος διοικητικά ο πληθυσμός.</gr>
+              <en>This monument was constituted by a pedestal on which stood the 10 statues of the Eponymous Heroes, i.e. the heroes of every one of the 10 Athenian tribes in which the population was jurisdictionally divided.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>epon_opt.jpg</file>
+              <caption>
+                <gr>Αναπαράσταση του μνημείου των Επωνύμων Ηρώων.</gr>
+                <en>Representation of the Monument of the Eponymous Heroes.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Square_Peristyle</name>
+          <title>
+            <gr>Τετράγωνο Περιστύλιο</gr>
+            <en>Square Peristyle</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το τετράγωνο περιστύλιο στα βορειοανατολικά της αγοράς ξεκίνησε να χτίζεται γύρω στα 300 π.Χ. αλλά έμεινε ημιτελές. Παρόλα αυτά, όσο μέρος ήταν έτοιμο χρησιμοποιούνταν πιθανότατα ως δικαστήριο. Κατεδαφίστηκε στα 150 π.Χ. για να χτιστεί στη θέση του η Στοά του Αττάλου. Το υλικό του χρησιμοποιήθηκε για την κατασκευή της Νότιας Στοάς ΙI. </gr>
+              <en>The Square Peristyle on the northeast of the Agora was constructed in around 300 BCE but was never completed. The part that was completed was used as a courthouse. It was demolished in 150 BCE to build the Stoa of Attalos in the same place. Its parts were used to construct the South Stoa II. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>ballots_opt.jpg</file>
+              <caption>
+                <gr>Στα δικαστήρια η ψηφοφορία για την ενοχή ή μη κάποιου γινόταν με μικρούς χάλκινους δίσκους. Ο διάτρητος δίσκος ήταν καταδικαστική ψήφος, ενώ ο συμπαγής, αθωωτική.
+Στην εικόνα: δικαστικοί δίσκη από την Αγορά των Αθηνών.
+</gr>
+                <en>In the Law Courts the jurors’ vote was cast by using small metal discs. The one with the hole was pro sentence and the plain one against the sentence
+Image: Jurors ballots from the Agora of Athens.
+</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Stoa_Poikile</name>
+          <title>
+            <gr>Ποικίλη Στοά</gr>
+            <en>Stoa Poikile</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Ποικίλη Στοά (460 π.Χ.) είναι από τις πιο φημισμένες στοές της Αθήνας για δύο λόγους. αφενός ήταν στολισμένη με ζωγραφικούς πίνακες των σημαντικότερων Ελλήνων ζωγράφων και αφετέρου ήταν το μέρος όπου ο φιλόσοφος Ζήνων ο Κιτιεύς δίδασκε γύρω στο 300 π.Χ. δημιουργώντας την στωική φιλοσοφία. Η στοά ήταν επίσης γνωστή ως «Πεισιανάκτειος». </gr>
+              <en>The Stoa Poikile (460 BCE) is perhaps the most famous stoa of Athens foe two reasons. First of all, it was decorated with paintings by the best Greek painters (poikile = painted). Secondly, it was the place where the philosopher Zenon Kitieus used to teach, creating the stoic philosophical movement around 300 BCE. The stoa was also known as Peisianakteios. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>poikile_opt.jpg</file>
+              <caption>
+                <gr>Ανάμεσα στους πίνακες της Ποικίλης Στοάς υπήρχε και η απεικόνιση της Μάχης του Μαραθώνα ζωγραφισμένη από τον Πολύγνωτο. Στην εικόνα: φανταστική αναπαράσταση του πίνακα με βάση τις περιγραφές των αρχαίων.</gr>
+                <en>Among the paintings in Poikile Stoa, there was the depiction of the Battle of Marathon, made by Polygnotos. In the image: Hypothetical representation of the painting according to ancient descriptions.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>aiakeion</name>
+          <title>
+            <gr>Αιάκειον</gr>
+            <en>Aiakeion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Αιάκειον ήταν ένα υπαίθριο ιερό αφιερωμένο στον ήρωα Αιακό. Ήταν ένας τετράγωνος περίβολος που κατασκευάστηκε μάλλον στα τέλη του 6ου αιώνα π.Χ.</gr>
+              <en>The Aiakeion was an open-air sanctuary dedicated to the hero Aiakos. It was a square constructed in the end of the 6th century BC.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Αιάκειον</gr>
+                <en>Aiakeion</en>
+              </title>
+              <desc>
+                <gr>Το Αιάκειον ήταν ένα υπαίθριο ιερό αφιερωμένο στον ήρωα Αιακό. Ήταν ένας τετράγωνος περίβολος που κατασκευάστηκε μάλλον στα τέλη του 6ου αιώνα π.Χ.
+Κατά την ελληνιστική περίοδο ο χώρος στεγάστηκε και χρησιμοποιήθηκε ως σιταποθήκη.
+Καταστράφηκε κατά την επιδρομή του Ρωμαίου στρατηγού Σύλλα το 86 π.Χ.
+</gr>
+                <en>The Aiakeion was an open-air sanctuary dedicated to the hero Aiakos. It was a square constructed in the end of the 6th century BC.
+During the Hellenistic period it was rebuilt and covered and used to store grain.
+It was destroyed during the invasion of the Roman general Sylla in 86 BC.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>aiakos_opt.jpg</file>
+              <caption>
+                <gr>Ο Αιακός ήταν γιος του Δία και της Αίγινας. Ήταν μυθικός βασιλιάς του νησιού της Αίγινας, πατέρας του Πηλέα, του Τελαμώνα και του Φώκου και παππούς του Αχιλλέα και του Αίαντα.
+Μετά τον θάνατό του έγινε κριτής του κάτω κόσμου μαζί με τον Ραδάμανθυ και τον Μίνωα.
+Στην εικόνα ο Αιακός με τους άλλους δύο κριτές στον Άδη σε αγγείο του 4ου αιώνα π.Χ.
+</gr>
+                <en>Aeacus was son of Zeus and Aegina. He was the mythical king of Aegina island, father of Peleus, Telamon and Phocus, and grandfather of Achilles and Ajax.
+After his death he became one of the three judges of the underworld along with Rhadamanthys and Minos.
+In the image: Aeacus as a underworld judge in pottery circa 4th BC.
+</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Southwest_fountain_house</name>
+          <title>
+            <gr>Νοτιοδυτική κρήνη</gr>
+            <en>Southwest fountain house</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η κρήνη αυτή κατασκευάστηκε τον 4ο αιώνα π.Χ. ύστερα από μια περίοδο έντονης ξηρασίας. Ήταν μεγάλη και εξυπηρετούσε εκτός από την Αγορά, και τα σπίτια της περιοχής.</gr>
+              <en>This fountain house was constructed in the 4th century BC after a period of intense draught. It was big and, apart from the Agora, it served the nearby houses.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>swfou_opt.jpg</file>
+              <caption>
+                <gr>Αναπαράσταση της χρήσης της νοτιοδυτικής κρήνης.</gr>
+                <en>Representation of the southwest fountain house use.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>South_Stoa</name>
+          <title>
+            <gr>Νότια Στοά Ι</gr>
+            <en>South Stoa I</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η στοά αυτή βρισκόταν στο νότιο μέρος της Αγοράς και είχε μήκος περίπου 80 μέτρα. Κατασκευάστηκε μεταξύ 430-420 π.Χ. και διέθετε 15 μεγάλα δωμάτια στο νότιο τοίχο της. Τα δωμάτια αυτά προορίζονταν για συμπόσια δημοσίων προσώπων αλλά στη συνέχεια μετατράπηκαν σε εμπορικά καταστήματα. </gr>
+              <en>This stoa was located in the southern part of the Agora and measured 80 metres in length. It was built between 430-420 BC and had 15 big rooms in the southern side. These rooms were built to accommodate official symposiums and dinners, but were later used as commercial stores.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>southstoa_opt.jpg</file>
+              <caption>
+                <gr>Αναπαράσταση της χρήσης των δωματίων της Νότιας Στοάς Ι ως χώροι συμποσίων.
+(σχέδιο John Travlos και Piet de Jong)</gr>
+                <en>Representation of the rooms of South Stoa I as symposium rooms.
+(σχέδιο John Travlos και Piet de Jong)
+
+</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Archaic_fountain_house</name>
+          <title>
+            <gr>Νοτιοανατολική κρήνη</gr>
+            <en>Southeast fountain house</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η κρήνη αυτή που βρισκόταν νοτιοανατολικά της Αγοράς κατασκευάστηκε περίπου το 520 π.Χ. και ήταν την εποχή της η βασικότερη πηγή ύδρευσης της Αγοράς.</gr>
+              <en>This fountain house was located in the southeastern part of the Agora and was constructed in around 520 BC. It was the main water resource of the Agora.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Νοτιοανατολική κρήνη</gr>
+                <en>Southeast fountain house</en>
+              </title>
+              <desc>
+                <gr>Η κρήνη αυτή που βρισκόταν νοτιοανατολικά της Αγοράς κατασκευάστηκε περίπου το 520 π.Χ. και ήταν την εποχή της η βασικότερη πηγή ύδρευσης της Αγοράς.
+Το νερό διοχετευόταν με αγωγούς σε δύο δεξαμενές δεξιά και αριστερά με μεγάλη χωρητικότητα.
+</gr>
+                <en>This fountain house was located in the southeastern part of the Agora and was constructed in around 520 BC. It was the main water resource of the Agora.
+The water was channeled through pipes into two big basins on both sides of the building.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>pipe_opt.jpg</file>
+              <caption>
+                <gr>Κομμάτι του αγωγού που μετέφερε το νερό στη νοτιοανατολική κρήνη.</gr>
+                <en>Part of the pipes which transferred the water to the southeast fountain house</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>The_Mint</name>
+          <title>
+            <gr>Νομισματοκοπείο</gr>
+            <en>The Mint</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το κτήριο αυτό ήταν το νομισματοκοπείο της Αθήνας και λειτούργησε από το 410 π.Χ. περίπου μέχρι τον 1ο αιώνα π.Χ. Στις ανασκαφές βρέθηκαν πολλά νομίσματα, μεταλλικοί δίσκοι και ίχνη από κλίβανους μετάλλων.</gr>
+              <en>This building was the mint of Athens and was in operation from around 410 BC up until approximately the 1st century BC. During the excavations, there were found many coins, iron discs and traces of iron furnaces.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>coin_opt.jpg</file>
+              <caption>
+                <gr>Αθηναϊκό τετράδραχμο 5ος αιώνας π.Χ.
+Τα Αθηναϊκά νομίσματα απέκτησαν μεγάλη ισχύ, ιδιαίτερα μετά την ανακάλυψη των μεταλλείων αργύρου στο Λαύριο. Ήταν ένα πολύ ισχυρό νόμισμα που χρησιμοποιήθηκε σε όλη την Ελλάδα και τη Μεσόγειο. Λόγω της απεικόνισης κουκουβάγιας, ονομάζονταν «γλαύκες».
+</gr>
+                <en>Athenian tetradrachm, 5th century BC
+The Athenian coins became very powerful after the discovery of the silver mints of Laurion. It was a powerful currency used throughout Greece and the Mediterranean. Because of the depiction of an owl, they were called “glaukes”.
+</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>12Gods</name>
+          <title>
+            <gr>Βωμός 12 Θεών</gr>
+            <en>Altar of the 12 Gods</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Βωμός 12 Θεών ήταν ένας βωμός περιτριγυρισμένος από τετράγωνο πέτρινο περίβολο. Κατασκευάστηκε από τον Πεισίστρατο τον νεότερο το 522 π.Χ. </gr>
+              <en>The Altar of the 12 Gods was an altar sourrounded by a square stone wall. It was constructed by Pesisistratus the younger in 522 BC.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Βωμός 12 Θεών</gr>
+                <en>Altar of the 12 Gods</en>
+              </title>
+              <desc>
+                <gr>Ο Βωμός 12 Θεών ήταν ένας βωμός περιτριγυρισμένος από τετράγωνο πέτρινο περίβολο. Κατασκευάστηκε από τον Πεισίστρατο τον νεότερο το 522 π.Χ. 
+Ήταν αφιερωμένος στους 12 θεούς και ήταν ιδιαίτερα ιερό σημείο καθώς εκεί κατέφευγαν οι κατατρεγμένοι για άσυλο.
+Αυτό ήταν το σημείο μηδέν για τη μέτρηση όλων των αποστάσεων από την Αθήνα.
+</gr>
+                <en>The Altar of the 12 Gods was an altar sourrounded by a square stone wall. It was constructed by Pesisistratus the younger in 522 BC.
+It was dedicated to all 12 Gods and was very sacred as it was the place for people to ask for asylum.
+This was the zero point to measure all distances from Athens.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>12_opt.jpg</file>
+              <caption>
+                <gr>Ο βωμός των 12 θεών σήμερα</gr>
+                <en>The altar of the 12 Gods today</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Eschara</name>
+          <title>
+            <gr>Εσχάρα</gr>
+            <en>Eschara</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Εσχάρα ήταν μικρό ιερό ή βωμός δίπλα στον βωμό των 12 Θεών. Κατασκευάστηκε την ίδια περίπου εποχή με αυτόν (520 π.Χ.) και είναι άγνωστο σε ποιον ήταν αφιερωμένη.</gr>
+              <en>The Eschara was a small sanctuary or altar next to the altar of the 12 Gods. It was constructed at the same time as the altar (around 520 BC) and it is unknown to whom it was dedicated.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>0</showInfo>
+          <name>acropolis</name>
+          <title>
+            <gr>Ακρόπολη</gr>
+            <en>Acropolis</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ακρόπολη</gr>
+              <en>Acropolis</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+      </points>
+    </scene>
+    <scene id="Kerameikos">
+      <points>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Pompeion</name>
+          <title>
+            <gr>Πομπείον</gr>
+            <en>Pompeion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Πομπείον (αρχές 4ου αιώνα π.Χ.) ήταν το κτήριο στο οποίο γινόταν η προετοιμασία της πομπής των Παναθηναίων.</gr>
+              <en>The Pompeion (early 4th century BC) was the building in which the preparations for the Panathenaic procession took place.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Πομπείον</gr>
+                <en>Pompeion</en>
+              </title>
+              <desc>
+                <gr>Το Πομπείον ήταν ένα ορθογώνιο δημόσιο κτήριο με περίστυλη αυλή και μνημειακή είσοδο. Κατασκευάστηκε στις αρχές του 4ου αιώνα π.Χ. και χρησιμοποιούνταν για την προετοιμασία της μεγάλης πομπής των Παναθηναίων. Γύρω από την κεντρική αυλή υπήρχαν δωμάτια που χρησίμευαν για εορταστικά γεύματα κατά τα Παναθήναια.
+Τον υπόλοιπο χρόνο χρησίμευε ως γυμνάσιο και ως χώρος συγκεντρώσεων. Ήταν πλούσια διακοσμημένο με αγάλματα και τοιχογραφίες.
+Καταστράφηκε το 86 π.Χ. με την εισβολή του Ρωμαίου Σύλλα. Ανοικοδομήθηκε τον 2ο αιώνα μ.Χ. με διαφορετική μορφή και χρησίμευσε ως αποθήκη. Το δεύτερο αυτό κτίσμα καταστράφηκε από τους Έρουλους το 267 μ.Χ. και αντικαταστάθηκε αργότερα από δύο στοές καταστημάτων.
+</gr>
+                <en>The Pompeion was a rectangular public building with an interior courtyard with columns. It was built during the early 4th century BC and was used to prepare the Panathenaic procession. Many dining rooms were around the courtyard and were used for feasting during the festivities.
+The rest of the year was used as a gymnasium and gathering place. It was richly decorated with statues and frescoes.
+It was destroyed during the invasion of the roman general Sylla (86 BC) and was rebuilt in the 2nd century AD and used as a storehouse. The second building was also destroyed by the Heruli and its place was occupied later by two commercial stoas.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>pomp_opt.jpg</file>
+              <caption>
+                <gr>Η ζωφόρος του Παρθενώνα απεικονίζει την πομπή των Παναθηναίων που ξεκινούσε από το Πομπείο.</gr>
+                <en>The Parthenon frieze depicts the Panathenaea procession which started  from the Pompeion.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>loutro</name>
+          <title>
+            <gr>Λουτρό</gr>
+            <en>Bath</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Τα Λουτρά του Κεραμεικού ήταν δημόσια και εξυπηρετούσαν τους κατοίκους και τους ταξιδιώτες.</gr>
+              <en>The Baths of Kerameikos were public property and served the residents and the travelers.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>dipylon</name>
+          <title>
+            <gr>Δίπυλον</gr>
+            <en>Dipylon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>To Δίπυλο, γνωστό και ως "Θριάσιαι πύλαι" αποτελούσε την κύρια πύλη της αρχαίας Αθήνας από τη βόρειο δυτική πλευρά από όπου περνούσε ο δρόμος που οδηγούσε στην Ακαδημία Πλάτωνος και κατέληγε στο Θριάσιο πεδίο. Χρονολογείται στα τέλη του 5ου αι. π.Χ</gr>
+              <en>The Dipylon Gate, also known as "Thriassiai Pylai, was one of the ancient city's main entrances. The double - arched gate,  run through by the Dromos, a wide road that led to the Platonic Academy and ended to the Thriasio Plain, is dated at the end of 5th B.C</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Δίπυλο</gr>
+                <en>Dipylon Gate</en>
+              </title>
+              <desc>
+                <gr>Η πύλη, αποτελούσε την πιο επιβλητική είσοδο για την πόλη της αρχαίας Αθήνας. Περιελάμβανε μία μεγάλη αυλή, μεταξύ της εσωτερικής και της εξωτερικής εισόδου, στις τέσσερεις γωνίες της οποίας υπήρχαν τετράγωνοι πύργοι. Στην εσωτερική πλευρά της αυλής η είσοδος προς την πόλη είχε δύο θύρες (ίσως από εδώ οφείλεται η ονομασία Δίπυλο). Από αυτή εισερχόταν στην πόλη η πομπή των Παναθηναίων για να συνεχίσει την πορεία της στην οδό των Παναθηναίων πριν καταλήξει στον Ιερό βράχο.
+Είχε κατασκευασθεί με τέτοιο τρόπο ώστε να είναι επιβλητική και ταυτόχρονα το σημείο να είναι απρόσβλητο και αρκετά επικίνδυνο για τον εχθρό. Ο νότιος πύργος έχει προβάλλει προς τα έξω, σε σχέση με τον βόρειο, ώστε η μία πλευρά του εχθρού να είναι εκτιθέμενη.  Χαρακτηριστική είναι η περίπτωση του βασιλιά της Μακεδονίας Φιλίππου Ε' , ο οποίος προσπάθησε να εισβάλει στην πόλη παραβιάζοντας το τείχος στο σημείο αυτό αλλά όχι μόνο αποδεκατίστηκε ο στρατός του αλλά κινδύνεψε και ο ίδιος.
+Τα σημερινά κατάλοιπα προέρχονται από την τελευταία ανακαίνιση και ενίσχυση του μνημείου προκειμένου να αντιμετωπιστούν οι επιδρομές των Μακεδόνων (τέλη 4ου αι. π.Χ - αρχές 3ου αι. π.Χ). 
+</gr>
+                <en>The Dipylon Gate was the most impressive entrance for the ancient city of Athens. The gate was contructed in order to protect the city from envasions. Before the visitor enter the city through the double-arched gate he had to pass through a large yard and four massive rectagular towers and a yard. The famous Panathenaic prossesion started here and through the Panathenaic way ended to the Sacred Rock.
+The gate was constructed in order to protect the city form envasions. The four towers were contructed in these points in order to make the enemy more vulnerable.  Reconstructions and enforcements were made due to Macedonian theat (4thcentury B.C - 3th century B.C). It is said that Filippos V'  King of Macedonia, when he tried to envade the city from this point, his army was completely destroyed.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>dip1_opt.jpg</file>
+              <caption>
+                <gr>Δρόμος στο αρχαίο νεκροταφείο του Κεραμεικού, από το Δίπυλο προς την Ελευσίνα.</gr>
+                <en>The ancient road to Elefsis throygh the Dipylon Gate and the ancient cemetery of Kerameikos</en>
+              </caption>
+            </image>
+            <image>
+              <file>dip2_opt.jpg</file>
+              <caption>
+                <gr>Το αρχαίο νεκροταφείο του Κεραμεικού, μπροστά από το Δίπυλο. Διακρίνεται η επιτύμβια στήλη του Δεξίλεω. 1923</gr>
+                <en>The ancient cemetery of Kerameikos, in front of Dipylon gate. The funerary stele of Dexileos. 1923</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>ierapyli</name>
+          <title>
+            <gr>Ιερά Πύλη</gr>
+            <en>Sacred Gate</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Ιερά Πύλη, ήταν η δεύτερη είσοδος στην πόλη της Αθήνας, στη βορειοδυτική πλευρά του τείχους. Από την πύλη αυτή ξεκινούσε η Ιερά Οδός η οποία κατέληγε στον ιερό της Ελευσίνας. Το δρόμο αυτό ακολουθούσε και η Ελευσίνια πομπή κατά την ημέρα της εορτής των Ελευσινίων. Χρονολογείται στον 5ο αι. π.Χ</gr>
+              <en>The Sacred Gate was another entrance to the ancient city of Athens, next the Dipylon Gate. The Sacred road that lead to Eleusis and to the shrine of Godess Dimiter started here. It is dated at 5th cent. B.C</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ιερά Πύλη</gr>
+                <en>Sacred Gate</en>
+              </title>
+              <desc>
+                <gr>Η Ιερά Πύλη παρουσιάζει παρόμοια κατασκευή με αυτή της πύλης του Διπύλου και αποτελεί μέρος του τείχους της πόλης. Τετράγωνοι επιβλητικοί πύργοι πλαισιώνουν μία αυλή, ενώ η είσοδος στην πόλη γίνεται μέσα από μία πύλη. Δίπλα από την είσοδο,  και συγκεκριμένα από μία μικρή τοξωτή κατασκευή στο τείχος, προβάλλει και ο Ηριδανός ποταμός, ο οποίος αποτελούσε μία από τις βασικές πηγές ύδρευσης της πόλης της Αθήνας.
+Η ονομασία της πύλης, όπως και της αντίστοιχης οδού που διέρχεται από αυτή, πιθανόν, προέρχεται από την σύνδεσή της με το Ιερό της Ελευσίνας. Στην πύλη αυτή συγκεντρώνονταν οι πιστοί, την ημέρα της εορτής των Ελευσινίων Μυστηρίων, για να ξεκινήσει η πομπή προς το ιερό της Δήμητρας στην Ελευσίνα ακολουθώντας μία πορεία 22 χλμ.
+</gr>
+                <en>The Sacred Gate was another entrance to the ancient city of Athens. It had almost the same design as the Dipylon Gate but in a smaller scale. The differences were that there was one gate and nearby there was an arched opening for the Iridanos River, one of the rivers in the Athenian city. 
+In this gate during the day of Eleusinian Mysteries began the procession where the people walked to Eleusis, along what was called the "Sacred Way".
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>iera_opt.jpg</file>
+              <caption>
+                <gr>Ιερά Πύλη και Ιερά Οδός.</gr>
+                <en>Sacred Gate and the Sacred Road</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>teixos</name>
+          <title>
+            <gr>Τείχη</gr>
+            <en>City Wall</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το τείχος της Αθήνας ήταν το βασικότερο σημείο της άμυνας της πόλης. Ανατασκευάστηκε και επισκευάστηκε πολλές φορές κατά την αρχαιότητα.</gr>
+              <en>The city wall was the main defence of Athens in case of war. It was reconstructed and repaired many times throughout the antiquity.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Τείχος</gr>
+                <en>City Wall</en>
+              </title>
+              <desc>
+                <gr>Η κατασκευή των τειχών άρχισε γύρω στο 479 π.Χ. αμέσως μετά τους Περσικούς Πολέμους. Είχε μήκος 6,5 χιλιόμετρα, μέσο ύψος 8 μέτρα, πάχος 3 και διέθετε τουλάχιστον 13 πύλες. Οι δύο σημαντικότερες βρίσκονταν στον Κεραμεικό. Η βορειότερη από αυτές και η μεγαλύτερη της Αθήνας, ήταν το λεγόμενο Δίπυλον. Την ονομασία αυτήν την οφείλει στο σχήμα της, είχε δηλαδή δύο σειρές πύργων για καλύτερη άμυνα. Το παλαιότερο όνομα ήταν Θριάσιαι Πύλαι και από εκεί ξεκινούσε ο δρόμος που οδηγούσε στην Ακαδημία, τον Πειραιά, την Ελευσίνα και κατ’ επέκταση στην Πελοπόννησο.
+Η δεύτερη πύλη στο σημείο του Κεραμεικού ήταν επίσης σημαντική. Ήταν η Ιερά Πύλη από την οποία περνούσε η Ιερά Οδός που οδηγούσε στην Ελευσίνα. Από εκεί περνούσε η πομπή την ημέρα των Ελευσινίων για την πορεία των 22 χιλιομέτρων που χώριζαν τις δύο πόλεις. Από την ίδια πύλη περνούσε και ο ποταμός Ηριδανός, ο οποίος χυνόταν τελικά στον Κηφισό.
+Η πόλη ενισχύθηκε και με άλλα τείχη. Το 459 π.Χ. ο Κίμων ξεκίνησε την κατασκευή των Μακρών Τειχών. Κατασκεύασε το Βόρειο και το Φαληρικό τείχος. Ανάμεσα στα 446-443 π.Χ. ο Περικλής έχτισε το Νότιο Μακρό τείχος παράλληλα με το βόρειο, και το Φαληρικό έπεσε σε αχρηστία. Τα Μακρά Τείχη ένωναν την Αθήνα με τον Πειραιά. Είχαν μήκος 6 χιλιόμετρα το καθένα και απόσταση μεταξύ τους σχεδόν 200 μέτρα. Σήμερα τη γραμμή τους ακολουθούν με ακρίβεια η οδός Πειραιώς (βόρειο σκέλος) και η γραμμή του Ηλεκτρικού (νότιο σκέλος).
+Οι Αθηναίοι αναγκάστηκαν να γκρεμίσουν όλες τις οχυρώσεις τους μετά την ήττα τους στον Πελοποννησιακό πόλεμο. Σύντομα όμως, με την επάνοδο της δημοκρατίας το 394 π.Χ. ο Κόνωνας επισκεύασε τα τείχη και τα ενίσχυσε. Το 338 π.Χ. μπροστά στον κίνδυνο των Μακεδόνων, χτίστηκε ένα μικρότερο τείχος, το προτείχισμα, 10 μέτρα δυτικά του τείχους στον Κεραμεικό. Το 86 π.Χ., ο Ρωμαίος Σύλλας εισβάλλει στην πόλη από ρήγμα που κατάφερε στο τείχος στην περιοχή ανάμεσα στον Κεραμεικό και τον Αγοραίο Κολωνό. Τα τείχη έκτοτε εγκαταλείπονται σταδιακά μέχρις ότου οι Έρουλοι εισέβαλλαν στα 267 μ.Χ. βρίσκοντας τα τείχη παραμελημένα και ετοιμόρροπα και ισοπέδωσαν την πόλη. Οι Αθηναίοι δεν μπόρεσαν να χτίσουν και να συντηρήσουν ξανά τον Θεμιστόκλειο περίβολο. Έχτισαν ένα πολύ μικρό τείχος, με τα ερείπια της πόλης, γύρω από την Ακρόπολη, το λεγόμενο υστερορωμαϊκό τείχος.
+</gr>
+                <en>The city wall was constructed by Themistocles in 479 BCE immediately after the Persian Wars. It had a total length of 6.500 metres, height 8-10 m, width 3m and had at least 13 gates. The most important of them were in Kerameikos. The northern and biggest one was the Dipylon. Its name was derived from its shape. Its older name was “Thriasiai Pylai” and from there begun the road that led to the Plato’s Academy, Piraeus, Eleusis, and Peloponnesus.
+The second gate in Kerameikos was also important. It was the Sacred Gate from where the Sacred Way passed, leading to Eleusis. From there used to begin a 22 kilometres procession in the day of Eleusinia feast. From the same gate passes the river Eridanos.
+The city was strengthened with more walls. In 459 BCE Cimon begun the construction of the Long Walls. He built the Northern and the Phalericon Walls. Between 446 and 443 BCE Pericles built the Southern Long Wall parallel to the Northern and so the Phalericon was no used any more. The Long Walls connected Athens to Piraeus. They were 6 kilometres long each and the distance between the two was almost 200 metres. Today their lines are followed exactly by Peiraios street (Northen) and a part of the metro line 1 (Southern).
+The Athenians had to destroy all their fortifications after their defeat in the Peloponnesian war. But soon, when the democracy was reestablished, Conon repaired the walls in 394 BCE.  In 338 BCE when about to face the Macedonian danger, they built a smaller wall in front of the main one, as an extra defense in Kerameikos (the Proteichisma). In 86 BCE, Roman general Sylla invaded the city after breaching the wall in the area of Kerameikos. When the Heruli invaded in 267 AD and destroyed the city, they found the walls in desperate situation. The Athenians would never be able to rebuilt the Themistoclean wall. They built a very small wall made of the city’s ruins, around Acropolis, the Postherulian wall.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>krini</name>
+          <title>
+            <gr>Κρήνη</gr>
+            <en>Fountain house</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η κρήνη κατασκευάστηκε στο διάστημα 307 - 304 π.Χ. και βρισκόταν ενσωματωμένη στην κεντρική πύλη της Αθήνας, το Δίπυλον. Ξεδιψούσε τους ταξιδιώτες που έρχονταν ή έφευγαν από την πόλη.</gr>
+              <en>This fountain house was constructed between 307-304 BC and was incorporated into the main gate of Athens, the Dipylon. It offered water to travelers coming in and out of the city.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>iridanos</name>
+          <title>
+            <gr>Ηριδανός</gr>
+            <en>Eridanos</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Ηριδανός είναι μικρό ποτάμι της Αθήνας που πηγάζει από τον Λυκαβηττό και εκβάλλει στον ποταμό Ιλισό.</gr>
+              <en>Eridanos is a small stream of Athens that flows from Lykabettus and ends up in the river Ilisos.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ηριδανός</gr>
+                <en>Eridanos</en>
+              </title>
+              <desc>
+                <gr>Ο Ηριδανός είναι μικρό ποτάμι της Αθήνας που πηγάζει από τον Λυκαβηττό και εκβάλλει στον ποταμό Ιλισό. Από την αρχαιότητα χρησιμοποιήθηκε ως υπόνομος και ήταν γνωστός για τη μόλυνσή του. Για τον λόγο αυτό σύντομα καλύφθηκε και υπογειοποιήθηκε, αφήνοντας το μόνο ορατό μέρος του στην κοιλάδα του Κεραμεικού.
+Σήμερα μπορεί κανείς να δει το ποτάμι να κυλά στον Κεραμεικό και στον σταθμό του μετρό Μοναστηράκι.
+</gr>
+                <en>Eridanos is a small stream of Athens that flows from Lykabettus and ends up in the river Ilisos. Since antiquity it was used as a sewer and it was famous for being polluted. Because of this, it was soon covered and buried and the only visible part was in the valley of Kerameikos.
+Today one can see the river flowing in Kerameikos and in the Monastiraki metro station.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>iridanos_opt.jpg</file>
+              <caption>
+                <gr>Η σκεπασμένη κοίτη του Ηριδανού στο σταθμό του μετρό Μοναστηράκι.</gr>
+                <en>The covered riverbed of Eridanos in the Monastiraki metro station.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+      </points>
+    </scene>
+    <scene id="Akropolis">
+      <points>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>parthenon</name>
+          <title>
+            <gr>Παρθενώνας</gr>
+            <en>Parthenon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Παρθενώνας ήταν ναός αφιερωμένος στη θεά Αθηνά Παρθένο. Η κατασκευή του ολοκληρώθηκε το 432 π.Χ. και ήταν το λαμπρότερο κτήριο της Αθήνας. Είναι σύμβολο της Αθηναϊκής δημοκρατίας καθώς και αρχιτεκτονικό επίτευγμα.</gr>
+              <en>The Parthenon was a temple dedicated to Goddess Athena Parthenos (Virgin). It was completed in 432 BC and was the most magnificent building of Athens. It is a symbol of the Athenian Democracy and an architectural achievement.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Παρθενώνας </gr>
+                <en>Parthenon </en>
+              </title>
+              <desc>
+                <gr>Ο Παρθενώνας ήταν ναός αφιερωμένος στην Αθηνά Παρθένο. Η κατασκευή του άρχισε το 447 π.Χ. με διαταγή του Περικλή στο πλαίσιο ενός γενικότερου οικοδομικού προγράμματος στην Ακρόπολη. Αρχιτέκτονες υπήρξαν ο Ικτίνος και ο Καλλικράτης. Επιστάτης του όλου έργου και κυρίως του γλυπτικού διάκοσμου ήταν ο γλύπτης και φίλος του Περικλή, Φειδίας. Ο Παρθενώνας είναι ένας μοναδικός δωρικός ναός που ενσωματώνει με απόλυτη επιτυχία και τον ιωνικό ρυθμό.
+Είναι γνωστό. ότι στο δυτικό δωμάτιο, τον οπισθόδομο, φυλασσόταν ο θησαυρός και τα χρήματα της Αθηναϊκής Συμμαχίας, που την εποχή εκείνη βρισκόταν σε πλήρη ακμή. Επίσης το διάσημο χρυσελεφάντινο άγαλμα της Αθηνάς που βρισκόταν στον κυρίως ναό ήταν επενδεδυμένο με το χρυσάφι των συμμαχικών πόλεων. Αυτό αποδεικνύει ότι ο Παρθενώνας λειτουργούσε και ως θησαυροφυλάκιο της Αθηναϊκής Συμμαχίας, εμπεριέχοντας πλούτο, τον οποίο η Αθήνα είχε οικειοποιηθεί κατά μεγάλο μέρος από τους συμμάχους.
+</gr>
+                <en>The Parthenon was a temple dedicated to Goddess Athena Parthenos (Virgin). The construction begun in 447 BCE after the order of Pericles. The architects were Iktinus and Kallikrates. The chief supervisor of the project and especially of the sculptures and the decoration, was the sculptor and Pericles’ friend, Pheidias. The Parthenon is a unique Doric building that successfully incorporates the Ionic order. It is known that in the west room (opisthodomos) was kept all the wealth of the Delian League. Furthermore, the gold and ivory statue of Athena that stood inside the main temple, was covered with the gold of Athens’ allies. This proves that the Parthenon also functioned as the treasury of the Delian League, containing wealth which Athens had misappropriated from the allies.
+
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>parth1_opt.jpg</file>
+              <caption>
+                <gr>Άποψη του Παρθενώνα από τα βορειοδυτικά</gr>
+                <en>View of the Parthenon from the northwest</en>
+              </caption>
+            </image>
+            <image>
+              <file>parth2_opt.jpg</file>
+              <caption>
+                <gr>Μεγάλο μέρος των γλυπτών του Παρθενώνα πάρθηκε στις αρχές του 1800 από τον λόρδο Έλγιν και βρίσκεται στο Βρετανικό Μουσείο στο Λονδίνο. Στην εικόνα: τμήμα των γλυπτών του ανατολικού αετώματος.</gr>
+                <en>Many of the sculptures were taken by Lord Elgin in the early 1800s and are now in the British Museum. In the image: sculptures from the east pediment of the temple.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>tethrippon1</name>
+          <title>
+            <gr>Τέθριππο</gr>
+            <en>Τethrippon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Τα τέθριππα ήταν αγάλματα αρμάτων με τέσσερα άλογα που ήταν στημένα σε μεγάλους πεσσούς πάνω στην Ακρόπολη. Υπήρχαν δύο παρόμοια και ήταν δωρεές βασιλιάδων ύστερα από τη νίκη τους σε αρματοδρομίες.</gr>
+              <en>The tethrippa (four horse chariots) were bronze statues erected on giant pillars on the Acropolis. There were two of them standing and were initially dedicated by kings after their victory in chariot games.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Τέθριππο</gr>
+                <en>Tethrippon</en>
+              </title>
+              <desc>
+                <gr>Υπήρχαν δύο τέθριππα (άρμα με τέσσερα άλογα) στημένα πάνω σε γιγάντιους πεσσούς στην Ακρόπολη. Το ένα από αυτά ήταν ανάθημα του βασιλιά Ευμένη Β’ της Περγάμου για τη νίκη του στα Παναθήναια (178 π.Χ.) και βρισκόταν δυτικά ακριβώς από την Πινακοθήκη των Προπυλαίων, όπου και το μεγάλο βάθρο είναι ορατό σήμερα. Στα τέλη του 1ου αι. π.Χ. η αρχική επιγραφή αποξύστηκε και το μνημείο αφιερώθηκε εκ νέου στον Μάρκο Αγρίππα, τον στρατηγό και γαμπρό του Οκταβιανού Αυγούστου. 
+Άλλο ένα σχεδόν πανομοιότυπο στήθηκε στην βορειοανατολική πλευρά του Παρθενώνα. Ήταν αφιερωμένο είτε πάλι στον Ευμένη Β’, είτε στον Άτταλο Β’. Ένα ιδίου τύπου τέθριππο με πεσσό στήθηκε την ίδια εποχή μπροστά από τη στοά του Αττάλου στην Αγορά.
+</gr>
+                <en>There were two similar tethrippa (four horse chariots) on the Acropolis. They were set up on gigantic pillars. The first one was a dedication from the king of Pergamon, Eumenes II for his victory in the Panathinaic games (178 BCE) and it was located west of the Pinakotheke of Propylaea where the big pedestal is still visible today. In the end of the 1st century B.C. the initial inscription was erased and the monument was dedicated anew to Marcus Agrippa, general and son in law of Octavian Augustus. 
+The second one was erected near the north-eastern side of Parthenon. It was dedicated either to Eumenes II or Attalus II. The same type of tethrippon, with the pillar-pedestal, was set up at the same period in front of the Stoa of Attalus in the Agora.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>tethrippon_opt.jpg</file>
+              <caption>
+                <gr>Απεικόνιση τέθριππου σε αγώνες αρματοδρομίας. Αττική μελανόμορφη υδρία, 510 π.Χ.</gr>
+                <en>Depiction of a tethrippon during chariot races. Attic black-figure hydria, ca. 510 BC</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>tethrippon2</name>
+          <title>
+            <gr>Τέθριππο</gr>
+            <en>Tethrippon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Τα τέθριππα ήταν αγάλματα αρμάτων με τέσσερα άλογα που ήταν στημένα σε μεγάλους πεσσούς πάνω στην Ακρόπολη. Υπήρχαν δύο παρόμοια και ήταν δωρεές βασιλιάδων ύστερα από τη νίκη τους σε αρματοδρομίες.</gr>
+              <en>The tethrippa (four horse chariots) were bronze statues erected on giant pillars on the Acropolis. There were two of them standing and were initially dedicated by kings after their victory in chariot games.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Τέθριππο</gr>
+                <en>Tethrippon</en>
+              </title>
+              <desc>
+                <gr>Υπήρχαν δύο τέθριππα (άρμα με τέσσερα άλογα) στημένα πάνω σε γιγάντιους πεσσούς στην Ακρόπολη. Το ένα από αυτά ήταν ανάθημα του βασιλιά Ευμένη Β’ της Περγάμου για τη νίκη του στα Παναθήναια (178 π.Χ.) και βρισκόταν δυτικά ακριβώς από την Πινακοθήκη των Προπυλαίων, όπου και το μεγάλο βάθρο είναι ορατό σήμερα. Στα τέλη του 1ου αι. π.Χ. η αρχική επιγραφή αποξύστηκε και το μνημείο αφιερώθηκε εκ νέου στον Μάρκο Αγρίππα, τον στρατηγό και γαμπρό του Οκταβιανού Αυγούστου. 
+Άλλο ένα σχεδόν πανομοιότυπο στήθηκε στην βορειοανατολική πλευρά του Παρθενώνα. Ήταν αφιερωμένο είτε πάλι στον Ευμένη Β’, είτε στον Άτταλο Β’. Ένα ιδίου τύπου τέθριππο με πεσσό στήθηκε την ίδια εποχή μπροστά από τη στοά του Αττάλου στην Αγορά.
+</gr>
+                <en>There were two similar tethrippa (four horse chariots) on the Acropolis. They were set up on gigantic pillars. The first one was a dedication from the king of Pergamon, Eumenes II for his victory in the Panathinaic games (178 BCE) and it was located west of the Pinakotheke of Propylaea where the big pedestal is still visible today. In the end of the 1st century B.C. the initial inscription was erased and the monument was dedicated anew to Marcus Agrippa, general and son in law of Octavian Augustus. 
+The second one was erected near the north-eastern side of Parthenon. It was dedicated either to Eumenes II or Attalus II. The same type of tethrippon, with the pillar-pedestal, was set up at the same period in front of the Stoa of Attalus in the Agora.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>tethrippon_opt.jpg</file>
+              <caption>
+                <gr>Απεικόνιση τέθριππου σε αγώνες αρματοδρομίας. Αττική μελανόμορφη υδρία, 510 π.Χ.</gr>
+                <en>Depiction of a tethrippon during chariot races. Attic black-figure hydria, ca. 510 BC</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>vomos</name>
+          <title>
+            <gr>Βωμός Αθηνάς</gr>
+            <en>Altar of Athena</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Βωμός αυτός εξυπηρετούσε τις ανάγκες της λατρείας της Αθηνάς πάνω στην Ακρόπολη. Ήταν κοινός και για τον Παρθενώνα και για το Ερέχθειο.</gr>
+              <en>This Altar served the needs for the worshipping of the goddess Athena on the Acropolis. It served both the Parthenon and the Erechtheion.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>altar_opt.jpg</file>
+              <caption>
+                <gr>Ο βωμός ήταν βασικό στοιχείο σε κάθε ιερό. Εκεί γίνονταν οι θυσίες στους θεούς που λατρεύονταν. Στην εικόνα: νεαρός οπλίτης θυσιάζει σε βωμό. Εσωτερικό κυλικας από την Αγορά της Αθήνας.</gr>
+                <en>The altar was a very important structure of every sanctuary. It is the place where the sacrifices to the gods took place. In the image: young hoplite makes a sacrifice in front of an altar. Interior of a cylix from the Agora of Athens.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>romi</name>
+          <title>
+            <gr>Ναός Ρώμης και Αυγούστου</gr>
+            <en>Temple of Rome and Augustus</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο κυκλικός αυτός ναός χτίστηκε μετά το 19 π.Χ. για να τιμήσει την Ρώμη και τον αυτοκράτορα Αύγουστο. Η θέση του ήταν 20 μέτρα ανατολικά του Παρθενώνα τοποθετημένος αξονικά με αυτόν. Αποτελείτο από 9 ιωνικούς κίονες (αντίγραφα αυτών του Ερεχθείου) και δεν διέθετε σηκό. Στο εσωτερικό του βρισκόταν μάλλον άγαλμα του αυτοκράτορα.</gr>
+              <en>This circular temple was erected after 19 BC in order to honour Rome and the emperor Augustus. It was located 20 metres east of the Parthenon. It consisted of 9 ionic columns (copies of the ones found in the Erechtheion) and did not have a cella (Monopteros), probably housing a statue of Augustus.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>augustus_opt.jpg</file>
+              <caption>
+                <gr>Ο Οκταβιανός Αύγουστος (63π.Χ.-14μ.Χ.) ήταν ο πρώτος Ρωμαίος Αυτοκράτορας. Κατάφερε και βγήκε νικητής μετά από μια σειρά εμφυλίων πολέμων και εγκαθίδρυσε μια μακρά περίοδο ειρήνης στην αυτοκρατορία του (pax romana).</gr>
+                <en>Octavian Augustus (63 BC-14 AD) was the first Roman Emperor. He won continuous victories in a series of civil wars and inaugurated a long period of peace in the Empire known as pax romana.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>zeus</name>
+          <title>
+            <gr>Ναός Διός Πολιέως</gr>
+            <en>Temple of Zeus Polieus</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Στο ιερό του Πολιέου Διός πραγματοποιούνταν θυσίες βοδιών κατά τους εορτασμούς των Διιπολίων. Για τον λόγο αυτό, κατά τους αρχαϊκούς χρόνους εκτρέφονταν εκεί δίπλα βόδια όπως φαίνεται από μία επιγραφή που απαγορεύει τη ρίψη κοπριάς στα δυτικά του ναού. </gr>
+              <en>The sanctuary of Zeus Polieus (=protector of the city). In there, during the feast of Diipoleia many sacrifices of oxen were taking place. </en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>arrephorion</name>
+          <title>
+            <gr>Αρρηφόριο</gr>
+            <en>Arrephorion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Αρρηφόριο ήταν ο τόπος κατοικίας των δύο Αρρηφόρων, δύο κοριτσιών ηλικίας 7-11 ετών, που επιλέγονταν κάθε χρόνο για να υφάνουν τον Πέπλο της Αθηνάς με τον οποίο κάλυπταν το ξόανο της θεάς κατά τη γιορτή των Παναθηναίων. </gr>
+              <en>The Arrephorion was the residence of the two “Arrephorai“, girls of 7-11 years which were chosen each year to sew the peplos of Athena. During the Panathenaia feast, this peplos was used to dress the wooden statue of the goddess.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Αρρηφόριο </gr>
+                <en>Arrephorion </en>
+              </title>
+              <desc>
+                <gr>Το Αρρηφόριο ήταν ένα τετράγωνο κτίσμα στο βορειοδυτικό μέρος της Ακρόπολης. Ήταν ο τόπος κατοικίας των δύο Αρρηφόρων, δύο κοριτσιών ηλικίας 7-11 ετών, που επιλέγονταν κάθε χρόνο για να υφάνουν τον Πέπλο της Αθηνάς με τον οποίο κάλυπταν το ξόανο της θεάς κατά τη γιορτή των Παναθηναίων. Επίσης κατά τη διάρκεια των Αρρηφορίων κουβαλούσαν τα Ιερά Σκεύη (άρρητα-φέρειν). Ήταν κατασκευασμένο από πωρόλιθο και είχε τέσσερις πλευρές με μήκος 12,5 μέτρα η κάθε μία. Στην νότια πλευρά όπου και η κεντρική είσοδος, υπήρχε κιονοστοιχία με δύο ή τέσσερις δωρικούς κίονες. Στα δυτικά, υπήρχε μία τειχισμένη αυλή όπου οι Αρρηφόρες έπαιζαν και ονομαζόταν Σφαιρίστρα των Αρρηφόρων. Πολύ σημαντικό ρόλο στο κτήριο αλλά και στις γιορτές τις οποίες εξυπηρετούσε, ήταν η σκαλισμένη στην βόρεια πλαγιά της Ακρόπολης κλίμακα η οποία συνέδεε το Αρρηφόριο με την πόλη. Από αυτήν την κλίμακα γινόταν η «Κάθοδος των Αρρηφόρων» κατά τα Αρρηφόρια.</gr>
+                <en>The Arrephorion was a square building in the northwest side of the Acropolis. It was the residence of the two “Arrephorai“, girls of 7-11 years which were chosen each year to sew the peplos of Athena. During the Panathenaia feast, this peplos was used to dress the wooden statue of the goddess. The girls also carried the Sacred Relics during the feast of Arrephoria (άρρητα-φέρειν). It had four sides measuring 12,5m each. The south facade, where the entrance was, was decorated by two -or four- doric columns. In the west, there was a courtyard where the girls used to play which was named  “Σφαιρίστρα των Αρρηφόρων“. The small rock-carved staircase in the courtyard which connected the Acropolis with the city beyond, was very important during the Arrephoria. There was performed the “Descending of the Arrephoroi” ritual.</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>pep_opt.jpg</file>
+              <caption>
+                <gr>Η παράδοση του ιερού πέπλου στο τέλος της πομπής των Παναθηναίων. Απεικόνιση από την ανατολική ζωφόρο του Παρθενώνα.</gr>
+                <en>The delivery of the sacred Peplos at the end of the Panathenaic procession. Relief from the eastern frieze of the Parthenon.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>promaxos</name>
+          <title>
+            <gr>Αθηνά Πρόμαχος</gr>
+            <en>Athena Promachos</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Αθηνά Πρόμαχος (Πρόμαχος: που μάχεται στην πρώτη γραμμή) ήταν ένα υπερφυσικού μεγέθους χάλκινο άγαλμα, δημιούργημα του Φειδία, κατασκευασμένο το 470 π.Χ. με υλικό από τα Περσικά λάφυρα από τη Μάχη του Μαραθώνα.</gr>
+              <en>Athena Promachos (Promachos: front-line fighter) was a huge bronze statue of the goddess Athena, made in 470 BC by the famous sculptor Pheidias using Persian spoils from the Battle of Marathon.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Αθηνά Πρόμαχος</gr>
+                <en>Athena Promachos</en>
+              </title>
+              <desc>
+                <gr>Η Αθηνά Πρόμαχος ήταν ένα υπερφυσικού μεγέθους χάλκινο άγαλμα, δημιούργημα του Φειδία, κατασκευασμένο το 470 π.Χ. με υλικό από τα Περσικά λάφυρα από τη Μάχη του Μαραθώνα.
+Η θεά είχε ύψος 9 μέτρα, κρατούσε ασπίδα και δόρυ, το οποίο, όπως πληροφορεί ο αρχαίος περιηγητής Παυσανίας, ήταν ορατό από τον Πειραιά.
+Το άγαλμα μεταφέρθηκε μαζί με άλλα έργα τέχνης στην Κωνσταντινούπολη το 465 μ.Χ. όπου αργότερα καταστράφηκε.
+</gr>
+                <en>Athena Promachos was a huge bronze statue of the goddess Athena, made in 470 BC by the famous sculptor Pheidias using Persian spoils from the Battle of Marathon.
+The goddess was 9 metres tall and was holding a shield and a spear, which, as the ancient traveler Pausanias says, was visible from as far as Piraeus.
+The statue was transferred to Constantinople in 465 AD, along with many other works of art, where later on it was destroyed.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>ath_opt.jpg</file>
+              <caption>
+                <gr>Το μικρό αυτό αγαλματίδιο, γνωστό ως «Αθηνά Έλγιν» πιστεύεται ότι αντιγράφει το άγαλμα της Αθηνάς Προμάχου. Στο δεξί χέρι κρατάει κουκουβάγια, ενώ στο αριστερό ακουμπούσε σε δόρυ και ασπίδα. Μητροπολιτικό Μουσείο Νέας Υόρκης</gr>
+                <en>This small statuette, known as Athena Elgin, is believed to be a small copy of the statue of Athena Promachos. On the right hand she holds an owl and the left hand used to rest on a spear and a shield. Metropolitan Museum New York</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>chalkothiki</name>
+          <title>
+            <gr>Χαλκοθήκη</gr>
+            <en>Chalkotheke </en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Χαλκοθήκη αποτελούσε χώρο φύλαξης των πολυάριθμων χάλκινων αναθημάτων (αγάλματα, όπλα, σκεύη) που προσέφεραν οι πιστοί στην Αθηνά. Επιγραφή που βρέθηκε εκεί αναφέρει ότι όλα αυτά τα αντικείμενα ανήκουν στη θεά. </gr>
+              <en>The Chalkotheke (=the Bronze Gallery) was the place where the hundreds of the bronze offerings to goddess Athena were kept. These offerings consisted mostly of bronze statues, weapons and metal relics.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>artemis</name>
+          <title>
+            <gr>Στοά Βραυρωνίας Αρτέμιδος</gr>
+            <en>Stoa of Artemis Brauronia</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το ιερό της Βραυρωνίας Αρτέμιδος (προστάτιδα των λεχώνων). Λειτουργούσε ως παράρτημα πιθανότατα του μεγάλου ιερού στη Βραυρώνα Αττικής. Αποτελούταν από στοά, όπου φυλάσσονταν τα αναθήματα των πιστών και έναν ναό. Στην αυλή του υπήρχε χάλκινο άγαλμα του Δούρειου Ίππου. </gr>
+              <en>The Sanctuary of Artemis Brauronia. A sanctuary to the goddess, protector of the women who gave birth. It was composed from a stoa were the numerous offerings were kept, and a temple. In front, there was a bronze sculpture of the Trojan Horse. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>artemis_opt.jpg</file>
+              <caption>
+                <gr>Στο Ιερό της Άρτεμης Βραυρωνίας, όπως και στο αντίστοιχο της Βραυρώνας, οι πιστοί συνήθιζαν να αφιερώνουν μικρά αγάλματα παιδιών, καθώς η θεά προστάτευε τον τοκετό και τα παιδιά.</gr>
+                <en>In the sanctuary of Artemis Brauronia, like in the same sanctuary of Brauron, the worshippers used to dedicate small statuettes of children, since the goddess was protector of birth and children.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>artemistemple</name>
+          <title>
+            <gr>Ναός Αρτέμιδος Βραυρωνίας</gr>
+            <en>Temple of Artemis Brauronia</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το ιερό της Βραυρωνίας Αρτέμιδος (προστάτιδα των λεχώνων). Λειτουργούσε ως παράρτημα πιθανότατα του μεγάλου ιερού στη Βραυρώνα Αττικής. Αποτελούταν από στοά, όπου φυλάσσονταν τα αναθήματα των πιστών και έναν ναό. Στην αυλή του υπήρχε χάλκινο άγαλμα του Δούρειου Ίππου. </gr>
+              <en>The Sanctuary of Artemis Brauronia. A sanctuary to the goddess, protector of the women who gave birth. It was composed from a stoa were the numerous offerings were kept, and a temple. In front, there was a bronze sculpture of the Trojan Horse. </en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>pandion</name>
+          <title>
+            <gr>Ιερό Πανδίονος</gr>
+            <en>Pandion Sanctuary</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το ιερό του Πανδίονος. Αφιερωμένο στον μυθικό ήρωα και βασιλιά Πανδίονα, γιο του Εριχθόνιου ή του Κέκροπα. Σε αυτό πραγματοποιούσε τις διάφορες τελετές της η Πανδιονίδα φυλή (μία από τις 10 φυλές των Αθηνών). Στη θέση του βρίσκεται σήμερα το παλιό μουσείο της Ακρόπολης. </gr>
+              <en>The sanctuary of Pandion. Dedicated to the mythical hero and king Pandion, son of Kekrops or Erichthonius. The Pandionis tribe (one of the 10 tribes of Athens) were practicing their sacrifices in this spot. This is where the old museum of Acropolis is nowadays situated.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>erechtheion</name>
+          <title>
+            <gr>Ερέχθειο</gr>
+            <en>Erechtheion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Ερέχθειο αποτελεί τον ιερότερο τόπο λατρείας στην Αθήνα. Το κύριο χαρακτηριστικό του Ερεχθείου, είναι η νότια πρόσταση των Καρυάτιδων, οι κίονες δηλαδή με τη μορφή γυναικών. </gr>
+              <en>The Erechtheion was the most sacred place in Athens. The main characteristic of Erechtheion is the south wing with the woman-shaped columns, the Caryatides.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ερέχθειο </gr>
+                <en>Erechtheion </en>
+              </title>
+              <desc>
+                <gr>Το Ερέχθειο αποτελεί τον ιερότερο τόπο λατρείας στην Αθήνα. Εκεί λατρεύονταν εκτός από την Αθηνά, ο Ποσειδώνας, ο Ήφαιστος, ο Κέκροπας (ο μυθικός πρώτος βασιλιάς της Αθήνας) και οι τοπικοί ήρωες Ερεχθέας και Βούτης. Απομεινάρια της διαμάχης μεταξύ Αθηνάς και Ποσειδώνα για την κυριότητα της πόλης είναι η ελιά που χάρισε η θεά στην πόλη και βρίσκεται στα δυτικά του κτηρίου, και τα ίχνη της τρίαινας του Ποσειδώνα στον βράχο απ’ όπου ανέβλυσε αλμυρό νερό. Ακόμα, κάτω από την βόρεια πρόσταση του Ερεχθείου βρίσκεται η τρύπα όπου σύμφωνα με τον μύθο κατοικούσε το ιερό φίδι του Εριχθόνιου. Σε ένα από τα εσωτερικά δωμάτια φυλασσόταν το πανάρχαιο (ακόμα και για τότε) ξύλινο άγαλμα της Αθηνάς (ξόανο) για το οποίο λεγόταν ότι είχε πέσει στη γη (ως ένδειξη της παλαιότητάς του). Μπροστά του έκαιγε η περίφημη «άσβεστος λυχνία».
+Το σημείο που χτίστηκε το Ερέχθειο δεν είναι καθόλου τυχαίο καθώς εκεί βρισκόταν και το Μυκηναϊκό ανάκτορο με όλα τα ιερά του. Το κύριο χαρακτηριστικό του Ερεχθείου, είναι η νότια πρόσταση των Καρυάτιδων, οι κίονες δηλαδή με τη μορφή γυναικών. Στον χώρο που περιέκλειαν θεωρούσαν ότι υπήρχε ο τάφος του Κέκροπα. Λίγο πιο δυτικά του Ερεχθείου βρισκόταν, στον ίδιο περίβολο, το Πανδρόσειο, μικρή στοά αφιερωμένη στη νύμφη Πάνδροσο, κόρη του Κέκροπα.
+</gr>
+                <en>The Erechtheion was the most sacred place in Athens. In there were worshiped the gods Athena, Poseidon, Hephaestus, and the mythical heroes and kings: Kekrops, Boutis and Erechteus. Traces of the quarrel between Athena and Poseidon in order to become protectors of the city were here. Athena offered the olive tree and Poseidon used his trident to crack the rock from where salty water came out. The “marks” of his trident are still visible. Under the north wing of the building is the hole where the sacred snake of Erichthonius lived. The ancient (even for the time) wooden statue of Athena was kept in one of the rooms. According to the myth and to show its age, the Athenians used to say that it fell from the sky.
+The spot where Erechtheion was built was not chosen by chance. It was there that, nearly a thousand years before, the Mycenaean palace with all of its sanctuaries stood. The main characteristic of Erechtheion is the south wing with the woman-shaped columns, the Caryatides. In this place was believed to be the tomb of Kekrops. West of the building was a small stoa dedicated to the nymph Pandrosos, daughter of Kekrops, the Pandroseion.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>olive_opt.jpg</file>
+              <caption>
+                <gr>Στα δυτικά του Ερεχθείου υπήρχε η Ιερή Ελιά που σύμφωνα με τον μύθο είχε προσφέρει η θεά Αθηνά για να γίνει προστάτιδα της πόλης.</gr>
+                <en>West of the Erechtheion stood the Sacred Olive Tree, which according to the myth was offered by goddess Athena in order to become protector of the city.</en>
+              </caption>
+            </image>
+            <image>
+              <file>athpos_opt.jpg</file>
+              <caption>
+                <gr>Η διαμάχη της Αθηνάς και του Ποσειδώνα ήταν το θέμα του δυτικού αετώματος του Παρθενώνα. Τα ίχνη της διαμάχης (ελιά και σημάδια τρίαινας) ήταν ορατά στο Ερέχθειο και λατρεύονταν ως ιερά σημεία. Στην εικόνα: αντίγραφο του δυτικού αετώματος του Παρθενώνα από τον Παρθενώνα στο Nashville στις Η.Π.Α.</gr>
+                <en>The fight between Athena and Poseidon was the main theme of the western pediment of the Parthenon. The marks left by the fight (the olive tree and the trident marks on the rock) were visible and worshipped in the Erechtheion. In the image: copy of the Parthenon’s pediment on the Nashville Parthenon replica in the USA.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>pandroseion</name>
+          <title>
+            <gr>Πανδρόσειον</gr>
+            <en>Pandroseion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Πανδρόσειο ήταν ιερό αφιερωμένο στην Πάνδροσο, μια από τις κόρες του μυθικού ιδρυτή της πόλης των Αθηνών, Κέκροπα. Βρισκόταν δυτικά από το Ερέχθειο και αποτελούνταν από μία στοά και μια αυλή.</gr>
+              <en>The Pandroseion was a sanctuary dedicated to Pandrosos, one of the daughters of the mythical founder of Athens, Kekrops. It was located west of the Erechtheion and was constituted by a stoa and a court.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>kekropas_opt.jpg</file>
+              <caption>
+                <gr>Ο Κέκροπας, πατέρας της Πανδρόσου ήταν ο ιδρυτής και πρώτος βασιλιάς της Αθήνας. Ήταν πολύ σημαντικός μυθολογικός χαρακτήρας για τους Αθηναίους, και σύμφωνα με το μύθο είχε σώμα φιδιού.</gr>
+                <en>Kekrops, father of Pandrosos was the founder and first King of Athens. He was a very important mythological character for the Athenians and according to the myth, he had the body of a snake.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>propylaia</name>
+          <title>
+            <gr>Προπύλαια</gr>
+            <en>Propylaea</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Τα Προπύλαια ήταν η μνημειακή είσοδος στην Ακρόπολη της Αθήνας. Την κατασκευή τους ανέλαβε ο αρχιτέκτονας Μνησικλής το 437 π.Χ. </gr>
+              <en>The Propylaea was the monumental entrance to the Acropolis of Athens. The construction was assigned to the architect Mnesicles in 437 BCE. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Προπύλαια</gr>
+                <en>Propylaea</en>
+              </title>
+              <desc>
+                <gr>Τα Προπύλαια ήταν η μνημειακή είσοδος στην Ακρόπολη της Αθήνας. Την κατασκευή τους ανέλαβε ο αρχιτέκτονας Μνησικλής το 437 π.Χ. Το αρχικό σχέδιο δεν ολοκληρώθηκε λόγω του Πελοποννησιακού πολέμου. Το κεντρικό κτήριο των Προπυλαίων αποτελείται από δύο τμήματα εκ των οποίων το ανατολικό είναι πιο υπερυψωμένο. Αξιόλογο είναι το γεγονός ότι παρά την εξωτερική καθαρά δωρική εμφάνιση, οι έξι εσωτερικοί κίονες ήταν ιωνικοί.
+Μπροστά από τη νότια πτέρυγα βρίσκεται ο μικρός ιωνικός ναός της Αθηνάς Νίκης (427/6-424/3 π.Χ.). Στην βόρεια πτέρυγα κυριαρχεί το ορθογώνιο κτήριο της Πινακοθήκης όπου σύμφωνα με τον Παυσανία υπήρχαν πολλά αξιόλογα έργα ζωγραφικής (κυρίως του Πολύγνωτου) που δυστυχώς σήμερα έχουν χαθεί.
+</gr>
+                <en>The Propylaea was the monumental entrance to the Acropolis of Athens. The construction was assigned to the architect Mnesicles in 437 BCE. The original design was never completed due to the Peloponnesian War. The central building of the Propylaea is composed by two parts. The eastern one is a little higher. It is notable that besides the clear Doric impression, six Ionic columns exist in the interior.
+In front of the south wing is the small Ionic temple of Athena Nike (427/6-424/3 BCE). The north wing was occupied by a square building, the Pinakotheke, where according to Pausanias many paintings were on display (including works of the most famous Polygnotos) which today are, unfortunately, lost.
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>prop_opt.jpg</file>
+              <caption>
+                <gr>Κατά τον μεσαίωνα τα Προπύλαια μετατράπηκαν σε απόρθητο κάστρο με παλάτι και πύργους. Ο μεγαλύτερος πύργος χτίστηκε μάλλον τον 14ο αιώνα και υπήρχε μέχρι το 1874 οπότε και κατεδαφίστηκε.</gr>
+                <en>During the middle ages the Propylaea were converted into a powerful fortress with a palace and defensive towers. The biggest tower was constructed in the 14th century and was demolished in 1874.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>pinakothiki</name>
+          <title>
+            <gr>Πινακοθήκη</gr>
+            <en>Pinakotheke</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Πινακοθήκη ήταν η βόρεια πτέρυγα των Προπυλαίων. Ήταν ένα ορθογώνιο δωμάτιο που φιλοξενούσε πίνακες ζωγραφικής. Όπως μας πληροφορεί ο αρχαίος περιηγητής Παυσανίας, υπήρχαν έργα διάσημων ζωγράφων, όπως του Πολύγνωτου, κανένα από τα οποία δεν έχει σωθεί. Ο χώρος χρησιμοποιούνταν επίσης για εστίαση. </gr>
+              <en>The Pinakotheke was the northern wing of the Propylaea. It was a rectangular building housing paintings. As the ancient traveler Pausanias says, there were paintings by the most famous painters, such as Polygnotos, none of which survives today. The room was also used for feasts.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>pinak_opt.jpg</file>
+              <caption>
+                <gr>Τη μεσαιωνική περίοδο η Πινακοθήκη απέκτησε δεύτερο όροφο και μετατράπηκε σε ανάκτορο των Φράγκων ηγεμόνων της Αθήνας.</gr>
+                <en>During the medieval period, the Pinakotheke was converted into a palace for the Frankish governors of Athens by adding a floor on top of it.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>nike</name>
+          <title>
+            <gr>Ναός ΑΘηνάς Νίκης</gr>
+            <en>Temple of Athena Nike</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Ναός της Αθηνάς Νίκης (427/6-424/3 π.Χ.) είναι μικρός ιωνικός ναός στην Ακρόπολη των Αθηνών. Εκεί φυλασσόταν το ξόανο της θεάς Αθηνάς Νίκης, της «απτέρου», δηλαδή χωρίς φτερά, για να μη φύγει ποτέ από την πόλη της Αθήνας.</gr>
+              <en>The Temple of Athena Nike (427/6-424/3 BCE) is a small ionic temple on the Acropolis of Athens. It housed the ancient wooden statue of Athena Nike (Victory), which had no wings, so that victory would never leave Athens.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ναός της Αθηνάς Νίκης</gr>
+                <en>Temple of Athena Nike</en>
+              </title>
+              <desc>
+                <gr>Ο Ναός της Αθηνάς Νίκης (427/6-424/3 π.Χ.) είναι μικρός ιωνικός ναός στην Ακρόπολη των Αθηνών. Εκεί φυλασσόταν το ξόανο της θεάς Αθηνάς Νίκης, της «απτέρου», δηλαδή χωρίς φτερά, για να μη φύγει ποτέ από την πόλη της Αθήνας.
+Είναι χτισμένος πάνω σε προμαχώνα της μυκηναϊκής περιόδου και όταν χτιστηκε αντικατέστησε άλλον παλαιότερο ναό.
+Ήταν κατασκευασμένος από πεντελικό μάρμαρο και ήταν πλούσια διακοσμημένος με ανάγλυφη ζωφόρο και άλλα γλυπτά.
+Κατεδαφίστηκε το 1686 από τους Τούρκους για να χρησιμοποιηθούν τα υλικά του στην κατασκευή προμαχώνα. Από τη δεκαετία του 1830 αναστηλώθηκε αρκετές φορές.
+</gr>
+                <en>The Temple of Athena Nike (427/6-424/3 BCE) is a small ionic temple on the Acropolis of Athens. It housed the ancient wooden statue of Athena Nike (Victory), which had no wings, so that victory would never leave Athens.
+It is built on top of a Mycenaean era bastion, and at the time it replaced an earlier temple.
+It was made from pentelic marble and was richly decorated with marble reliefs and statues.
+It was demolished in 1686 by the Turks who used its materials to build fortifications. Since the 1830s it was restored in many phases. 
+</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>nike1_opt.jpg</file>
+              <caption>
+                <gr>Ο ναός της Αθηνάς Νίκης σε χαρακτικό του 19ου αιώνα.</gr>
+                <en>The temple of Athena Nike. 19th century engraving.</en>
+              </caption>
+            </image>
+            <image>
+              <file>nike2_opt.jpg</file>
+              <caption>
+                <gr>Η ανάγλυφη ζωφόρος του ναού της Αθηνάς Νίκης σε χαρακτικό.</gr>
+                <en>Engraving of the frieze of the temple of Athena Nike.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+      </points>
+    </scene>
+    <scene id="AgoraRoman">
+      <points>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Basilica</name>
+          <title>
+            <gr>Βασιλική</gr>
+            <en>Basilica</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η τρίκλιτη Βασιλική της Αγοράς χρονολογείται στην εποχή του Αδριανού. Ήταν χαρακτηριστικός τύπος Ρωμαϊκής Βασιλικής και χρησιμοποιούνταν για εμπορικούς λόγους ή συνεδριάσεις διαφόρων σωμάτων.</gr>
+              <en>The Basilica of the Agora was constructed during the reign of Hadrian. It was the characteristic type of a roman basilica and was used for commercial reasons or counsil meetings.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Attalos</name>
+          <title>
+            <gr>Στοά Αττάλου</gr>
+            <en>Stoa of Attalos</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Στοά του Αττάλου ήταν δωρεά του βασιλιά της Περγάμου, Αττάλου Β΄(159 π.Χ.- 138 π.Χ.) όπως μαρτυρά η σωζόμενη επιγραφή (ΒΑΣΙΛΕΥΣ ΑΤΤΑΛΟΣ ΒΑΣΙΛΕΩΣ ΑΤΤΑΛΟΥ ΚΑΙ ΒΑΣΙΛΙΣΣΗΣ ΑΠΟΛΛΩΝΙΔΟΣ). </gr>
+              <en>The Stoa of Attalos was a donation by the King of Pergamon, Attalos II (159 BCE – 138 BCE) as an inscription on the entablature proves. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Στοά Αττάλου</gr>
+                <en>Stoa of Attalos</en>
+              </title>
+              <desc>
+                <gr>Η Στοά του Αττάλου ήταν δωρεά του βασιλιά της Περγάμου, Αττάλου Β΄(159 π.Χ.- 138 π.Χ.) όπως μαρτυρά η σωζόμενη επιγραφή (ΒΑΣΙΛΕΥΣ ΑΤΤΑΛΟΣ ΒΑΣΙΛΕΩΣ ΑΤΤΑΛΟΥ ΚΑΙ ΒΑΣΙΛΙΣΣΗΣ ΑΠΟΛΛΩΝΙΔΟΣ). Ήταν διώροφη, δωρικού ρυθμού, με μήκος 120 μέτρα και με 45 κίονες στην δυτική πλευρά. Στην ανατολική υπήρχαν 21 δωμάτια που χρησίμευαν ως καταστήματα. Στο βόρειο και νότιο άκρο υπήρχαν κλιμακοστάσια που οδηγούσαν στον πάνω όροφο. Η στοά καταστράφηκε από τους Έρουλους το 267 μ.Χ. και ενσωματώθηκε στο υστερορωμαϊκό τείχος της Αθήνας, οπότε έκτοτε χρησίμευε ως οχύρωμα. Τα λοιπά δομικά υλικά της της χρησιμοποιήθηκαν για την ανέγερση των δύο φράγκικων πύργων στα Προπύλαια της Ακρόπολης. Η στοά αναστηλώθηκε πλήρως στο διάστημα 1953-1956 από την Αμερικανική Σχολή Κλασικών Αρχαιοτήτων για να στεγάσει το Μουσείο της Αρχαίας Αγοράς.</gr>
+                <en>The Stoa of Attalos was a donation by the King of Pergamon, Attalos II (159 BCE – 138 BCE) as an inscription on the entablature proves. It was two-storied, of Doric order, and was 120 metres long with 45 columns in the western side. In the Eastern one, it had 21 rooms that were used as shops. In noth and south ends  staircases led to the second floor. The Stoa was destroyed by the Heruli  in 267 AD and became a part of the postherulian wall of Athens. The remaining structural materials were used for the construction of the two medieval towers in the Propylaia of Acropolis. The Stoa was completely restored between 1953-1956 by the American School of Classical Studies in order to accomodate the Museum of Ancient Agora.</en>
+              </desc>
+            </description>
+          </descriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Bema</name>
+          <title>
+            <gr>Βήμα</gr>
+            <en>Bema</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Tο βήμα της Αγοράς κατασκευάστηκε γύρω στο 150-100 π.Χ. και χρησίμευε ως βάθρο για δημόσιες ομιλίες στον χώρο της Αγοράς.</gr>
+              <en>The Bema (speaker’s platform) was constructed around 150-100 BC and was used as a platform for public speeches in the Agora.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Middle Stoa</name>
+          <title>
+            <gr>Μεσαία Στοά</gr>
+            <en>Middle Stoa</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Μεσαία Στοά κατασκευάστηκε πιθανότατα από τον βασιλιά της Καππαδοκίας Αριάθη Ε΄ γύρω στο 160 π.Χ. Είχε μήκος 147 μέτρα και πλάτος 17.5 μ. Περιτριγυριζόταν από 160 δωρικούς αράβδωτους κίονες και χωριζόταν στο εσωτερικό σε δύο κλίτη με μία σειρά από 23 ιωνικούς κίονες. Καταστράφηκε ολοσχερώς από πυρκαγιά κατά την επιδρομή των Ερούλων το 267 μ.Χ.</gr>
+              <en>The Middle Stoa was probably constructed by the king of Cappadocia Ariathes V around 160 BC. It was 147 metres long and 17.5 m. wide. It had 160 Doric columns all around and was separated in the interior by 23 Ionic columns. It was completely destroyed by fire during the raid of Heruli in 267 AD.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>middlestoa_opt.jpg</file>
+              <caption>
+                <gr>Αναπαράσταση της πήλινης σίμης της Μεσαίας Στοάς. Υδατογραφία του Piet de Jong.</gr>
+                <en>Representation of a terracotta sima from the Middle Stoa. Watercolor by Piet de Jong.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Metroon</name>
+          <title>
+            <gr>Μητρώον</gr>
+            <en>Metroon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Tο Μητρώον κατασκευάστηκε περίπου το 130 π.Χ. Εκεί φυλάσσονταν τα επίσημα έγγραφα του κράτους. Αποτελείτο από πολλά δωμάτια και σε ένα από αυτά υπήρχε πιθανότατα ιερό της Μητέρας των Θεών, ως ανάμνηση μάλλον του αρχαϊκού μητρώου που καταστράφηκε από τους Πέρσες. Από αυτό το κτήριο προέρχεται και η σημερινή σημασία της λέξης «Μητρώο».</gr>
+              <en>The Metroon was constructed in circa130 BC. In the Metroon were kept the official documents of the city. It had many rooms and one of them served as the sanctuary of the Mother of the Gods, as a memory of the archaic temple (Metroon) that was destroyed by the Persians.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>metroon_opt.jpg</file>
+              <caption>
+                <gr>Αναθηματικο ανάγλυφο της Μητέρας των Θεών από την Αγορά, 4ος αιώνας π.Χ.</gr>
+                <en>Dedicatory relief of the Mother of the Gods from the Agora, 4th century B.C.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Monopteros</name>
+          <title>
+            <gr>Μονόπτερος</gr>
+            <en>Monopteros</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Μονόπτερος είναι ένα κυκλικής κάτοψης κτήριο που χτίστηκε στις αρχές του 2ου αιώνα μ.Χ. Η χρήση του είναι αβέβαιη. Ίσως να χρησίμευε ως μικρός ναός ή ως κρήνη.</gr>
+              <en>The Monopteros was a circular building that was built in the beginning of the 2nd century CE. Its use is uncertain. Possibly it was a small temple or a fountain.</en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>SEtemple</name>
+          <title>
+            <gr>Νοτιοανατολικός Ναός</gr>
+            <en>Southeast Temple</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Νοτιοανατολικός Ναός χτίστηκε στις αρχές του 1ου αι. μ.Χ. Για την κατασκευή του χρησιμοποιήθηκε υλικό από κλασικό κτήριο που μεταφέρθηκε από άλλη περιοχή της Αττικής. </gr>
+              <en>The southeast temple was built in the beginning of the 1st c. CE. For its construction material was used from a classic building which was transported from another region of Attica. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Νοτιοανατολικός Ναός</gr>
+                <en>Southeast Temple</en>
+              </title>
+              <desc>
+                <gr>Ο Νοτιοανατολικός Ναός χτίστηκε στις αρχές του 1ου αι. μ.Χ. Για την κατασκευή του χρησιμοποιήθηκε υλικό από κλασικό κτήριο που μεταφέρθηκε από άλλη περιοχή της Αττικής. Έχουν βρεθεί πολλά μέλη εντοιχισμένα στο διπλανό υστερορωμαϊκό τείχος. Πιθανότατα τα υλικά του μεταφέρθηκαν από τον Ναό της Σουνιάδος Αθηνάς. Στο εσωτερικό του βρέθηκαν θραύσματα ενός μεγάλου γυναικείου αγάλματος. Έτσι ο Ναός ίσως να ταυτίζεται με τον Ναό της Δήμητρας που αναφέρει ο Παυσανίας. </gr>
+                <en>The southeast temple was built in the beginning of the 1st c. CE. For its construction material was used from a classic building which was transported from another region of Attica. A lot of its parts were found in the nearby postheroulian wall. These materials were probably taken from the Temple of Athena Sounias. In the interior of the temple pieces of a big female statue were found. Thus, the Temple can be possibly identified with the Temple of Demeter reported by Pausanias.</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>setemple_opt.jpg</file>
+              <caption>
+                <gr>Κιονόκρανο από τον νοτιοανατολικό ναό.</gr>
+                <en>Column capital from the southeast temple</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>ares</name>
+          <title>
+            <gr>Ναός Άρη</gr>
+            <en>Temple of Ares</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο Ναός του Άρη ήταν ένας κλασικός ναός που οικοδομήθηκε τον 5ο αι. π.Χ. Προς το τέλος του 1ου αι. π.Χ., μεταφέρθηκε από κάποιο άλλο σημείο της Αττικής κομμάτι-κομμάτι και συναρμολογήθηκε ξανά μπροστά από το Ωδείο του Αγρίππα. </gr>
+              <en>The temple of Ares was a classical temple built in the 5th c. BC. In the end of the 1st c. BC, the temple was transported from some other point of Attica in pieces and was re-erected in front of Agrippa’s Odeion. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ναός Άρη</gr>
+                <en>Temple of Ares</en>
+              </title>
+              <desc>
+                <gr>Ο Ναός του Άρη ήταν ένας κλασικός ναός που οικοδομήθηκε τον 5ο αι. π.Χ. μαζί με τους άλλους τρεις σχεδόν πανομοιότυπούς του (Ναός του Ηφαίστου στην Αγορά, Ναός Ποσειδώνα στο Σούνιο και Ναός της Νέμεσης στην Ραμνούντα). Προς το τέλος του 1ου αι. π.Χ., μεταφέρθηκε από κάποιο άλλο σημείο της Αττικής κομμάτι-κομμάτι και συναρμολογήθηκε ξανά μπροστά από το Ωδείο του Αγρίππα. Κατά την εποχή της διακυβέρνησης του Αυγούστου ήταν σύνηθες φαινόμενο η μεταφορά κτηρίων της κλασικής περιόδου στην Αθήνα. Το σημείο απ’ όπου μεταφέρθηκε ο ναός δεν είναι βέβαιο. Σύμφωνα όμως με τις νεότερες μελέτες, μάλλον βρισκόταν στην αρχαία Παλλήνη (σημερινός Σταυρός) και ήταν αρχικά αφιερωμένος στην Αθηνά. Εκεί βρέθηκαν τα θεμέλια ενός ναού ιδίων διαστάσεων χωρίς όμως ίχνος της ανωδομής του.</gr>
+                <en>The temple of Ares was a classical temple built in the 5th c. BCE together with the other three almost identical temples (Temple of Hephaistus in the Agora, Temple Poseidon in Sounio and the Temple of Nemesis in Ramnous). In the end of the 1st c. BCE,  the temple was transported from some other point of Attica in pieces and was re-erected in front of  Agrippa’s Odeion. During the reign of Augustus, the transportation of classical buildings to Athens was a usual phenomenon. The place from where it was transported is not certain. However, the latest studies show that it may have been originally built in ancient Pallini and was initialy dedicated to godess Athena. There the foundations of a temple of the same dimensions were found but without any traces of the actual building at all.</en>
+              </desc>
+            </description>
+          </descriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>swtemple</name>
+          <title>
+            <gr>Νοτιοδυτικός Ναός</gr>
+            <en>Southwest Temple</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Ο νοτιοδυτικός Ναός κατασκευάστηκε τη ρωμαϊκή εποχή από μέλη κλασικού κτηρίου (πιθανότατα από κάποιο δωρικό κτήριο του Θορικού) και μάλλον ήταν αφιερωμένος στην αυτοκρατορική οικογένεια. </gr>
+              <en>The southwest Temple was constructed during the roman period from parts of another classical building (probably from a Doric building of Thorikos) and was possibly dedicated to the imperial family. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>swtemple_opt.jpg</file>
+              <caption>
+                <gr>Κιονόκρανο προερχόμενο μάλλον από τον νοτιοδυτικό ναό. Διακρίνονται τα χαραγμένα γράμματα που χρησίμευαν για την ανατοποθέτησή του μετά τη διάλυση και μεταφορά του αρχικού κτηρίου στην Αγορά.</gr>
+                <en>Column capital probably coming from the southwest temple. The carved letters were used to help reposition this part to the correct place, after the original monument was dismantled and transported to the Agora.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Nymphaion</name>
+          <title>
+            <gr>Νυμφαίον</gr>
+            <en>Nymphaion</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το Νυμφαίον ήταν μία περίτεχνη, μνημειακή κρήνη που κατασκευάστηκε γύρω στο 140 μ.Χ. Είχε ημικυκλικό σχήμα και στις κόγχες της βόρειας πλευράς του βρίσκονταν αγάλματα της αυτοκρατορικής οικογένειας. Στο μεγάλο βάθρο μπροστά, στεκόταν ο ανδριάντας του Αδριανού που βρίσκεται σήμερα στο ανατολικό μέρος της Αγοράς, κάτω από τον Ναό του Ηφαίστου. </gr>
+              <en>The Nymphaion was a monumental fountain constructed around 140 CE. It had a semicircular form and in the arches of the northern facade stood statues of the imperial family. In the big pedestal in front, stood the statue of Hadrian that can be found today in the Eastern part of the Agora, just under the Temple of Hephaistos. </en>
+            </shortDescription>
+          </shortDescriptions>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Pantainos</name>
+          <title>
+            <gr>Βιβλιοθήκη Πανταίνου</gr>
+            <en>Library of Pantainos</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Η Βιβλιοθήκη του Πανταίνου κατασκευάστηκε από τον Αθηναίο Τίτο Φλάβιο Πάνταινο ανάμεσα στο 98 και 102 μ.Χ. Ήταν ένα γωνιακό κτήριο το οποίο χρησίμευε ως βιβλιοθήκη όπως μαρτυρούν πολλές επιγραφές που βρέθηκαν στον χώρο. </gr>
+              <en>The Library of Pantainos was built by the Athenian Titus Flavius Pantainos between 98 and 102 AD. It was a building used as a library which is obvious from the two inscriptions found in the area.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ωδείο του Αγρίππα</gr>
+                <en>Library of Pantainos</en>
+              </title>
+              <desc>
+                <gr>Η Βιβλιοθήκη του Πανταίνου κατασκευάστηκε από τον Αθηναίο Τίτο Φλάβιο Πάνταινο ανάμεσα στο 98 και 102 μ.Χ. Ήταν ένα γωνιακό κτήριο το οποίο χρησίμευε ως βιβλιοθήκη όπως μαρτυρούν πολλές επιγραφές που βρέθηκαν στον χώρο. Σύμφωνα με την αναθηματική επιγραφή, ο Πάνταινος μαζί με τον γιο και την κόρη του δώρισαν τα βιβλία, τον εξοπλισμό και αφιέρωσαν το κτήριο στον αυτοκράτορα Τραϊανό. Το πιθανότερο πάντως είναι ότι το κτήριο προϋπήρχε και ότι ο Πάνταινος προσέθεσε τις στοές γύρω από αυτό καθώς και το εσωτερικό περιστύλιο. Μία άλλη επιγραφή αναγράφει τα εξής: Κανένα βιβλίο δεν θα βγαίνει από τη βιβλιοθήκη γιατί το ορκιστήκαμε. Η βιβλιοθήκη θα είναι ανοιχτή από την πρώτη μέχρι την έκτη ώρα.</gr>
+                <en>The Library of Pantainos was built by the Athenian Titus Flavius Pantainos between 98 and 102 CE. It was a building used as a library which is obvious from the two inscriptions found in the area. According to one of them, Pantainos with his son and daughter gave the books, the equipment and dedicated the building to the emperor Trajan. It is very likely that the building preexisted and that Pantainos added the stoas around it and the internal colonnade. Another inscription reads: “No book shall come out of the library because we gave an oath. The library will be open from the first to the sixth hour“.</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>pantainos_opt.jpg</file>
+              <caption>
+                <gr>Η επιγραφή με το ωράριο λειτουργίας της βιβλιοθήκης</gr>
+                <en>The inscription with the library’s opening hours.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>Tethrippon</name>
+          <title>
+            <gr>Τέθριππο</gr>
+            <en>Tethrippon</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>Το τέθριππο ήταν άγαλμα άρματος με τέσσερα άλογα που ήταν στημένο σε μεγάλο πεσσό. Υπήρχαν δύο παρόμοια πάνω στην Ακρόπολη και ήταν δωρεές ελληνιστικών ηγεμόνων ύστερα από τη νίκη τους σε αρματοδρομίες. Το τέθριππο της Αγοράς κατά τους ρωμαϊκούς χρόνους αφιερώθηκε στον αυτοκράτορα Τιβέριο.</gr>
+              <en>The tethrippon (four horse chariots) was a bronze statue erected on a giant pillar. Two similar ones stood on the Acropolis and were all dedicated by Hellenistic rulers after their victory in chariot games. The tethrippon of the Agora was rededicated to the emperor Tiberius during the roman period.</en>
+            </shortDescription>
+          </shortDescriptions>
+          <images>
+            <image>
+              <file>tethrippon_opt.jpg</file>
+              <caption>
+                <gr>Απεικόνιση τέθριππου σε αγώνες αρματοδρομίας. Αττική μελανόμορφη υδρία, 510 π.Χ.</gr>
+                <en>Depiction of a tethrippon during chariot races. Attic black-figure hydria, ca. 510 BC</en>
+              </caption>
+            </image>
+            <image>
+              <file>Tiberius_opt.jpg</file>
+              <caption>
+                <gr>Ο αυτοκράτορας Τιβέριος βασίλεψε το διάστημα 14-37 μ.Χ και ήταν ο δεύτερος αυτοκράτορας της Ρωμαϊκής Αυτοκρατορίας μετά τον Αύγουστο, του οποίου ήταν θετός γιος και κληρονόμος.</gr>
+                <en>The emperor Tiberius reigned between 14-37 AD and was the second emperor of the Roman Empire after Augustus, of whom he was a stepson.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+        <point status="1">
+          <showInfo>1</showInfo>
+          <name>agrippa</name>
+          <title>
+            <gr>Ωδείο του Αγρίππα</gr>
+            <en>Odeion of Agrippa</en>
+          </title>
+          <shortDescriptions>
+            <shortDescription>
+              <gr>ο Ωδείο του Αγρίππα χτίστηκε από τον Ρωμαίο Μάρκο Βιψάνιο Αγρίππα κατά την επίσκεψή του στην Αθήνα το 16-14 π.Χ. Προοριζόταν για μουσικούς αγώνες και χωρούσε περίπου 1.000 άτομα.  </gr>
+              <en>The Odeion of Agrippa was erected by the Roman general Marcus Vipsanius Agrippa during his visit in Athens in 16-14 BCE. It was intended for musical shows and could accomodate 1.000 spectators. </en>
+            </shortDescription>
+          </shortDescriptions>
+          <descriptions>
+            <description>
+              <title>
+                <gr>Ωδείο του Αγρίππα</gr>
+                <en>Odeion of Agrippa</en>
+              </title>
+              <desc>
+                <gr>ο Ωδείο του Αγρίππα χτίστηκε από τον Ρωμαίο Μάρκο Βιψάνιο Αγρίππα κατά την επίσκεψή του στην Αθήνα το 16-14 π.Χ. Προοριζόταν για μουσικούς αγώνες και χωρούσε περίπου 1.000 άτομα.  Το νότιο άκρο του εφαπτόταν στη Μεσαία Στοά απ’ όπου ήταν και η μία είσοδος. Η κεντρική του αίθουσα είχε μήκος 25 μέτρα και δεν στηριζόταν σε εσωτερικούς κίονες. Αυτό οδήγησε στην κατάρρευση της στέγης 160 χρόνια αργότερα (150-175 μ.X.). Αμέσως ακολούθησαν εκτεταμένες επισκευές. Η νέα βόρεια πρόσοψη διακοσμήθηκε με τα αγάλματα Γιγάντων και Τριτώνων που είναι ακόμα ορατά στον χώρο. Η κεντρική αίθουσα έγινε μικρότερη με την προσθήκη ενός τοίχου με αποτέλεσμα η χωρητικότητα να περιοριστεί στα 500 άτομα. Έτσι ο χώρος χρησιμοποιούνταν μόνο για διαλέξεις φιλοσόφων, ενώ ταυτόχρονα ένα καινούργιο ωδείο χτιζόταν στους νότιους πρόποδες της Ακρόπολης, το Ηρώδειο.</gr>
+                <en>The Odeion of Agrippa was erected by the Roman general Marcus Vipsanius Agrippa during his visit in Athens in 16-14 BCE. It was intended for musical shows and could accomodate 1.000 spectators. The South side was joined with the Middle Stoa, thus creating the one of two entrances. The main room was 25 metres long and did not had any interior columns. This led to a roof collapse 160 years later (150-175 BCE). Immediately extensive repairs followed. The new north facade was decorated with the statues of Giants and Tritons which are still visible in the area. The central room became smaller and the capacity was limited to 500 spectators. As a result the Odeion was only used for philosophic lectures, as at the same time a new Odeion was built in the southern slope of the Acropolis, the Herodeion.</en>
+              </desc>
+            </description>
+          </descriptions>
+          <images>
+            <image>
+              <file>agrippa_opt.jpg</file>
+              <caption>
+                <gr>Τα σωζόμενα αγάλματα Γιγάντων και Τριτόνων από τη δεύτερη οικοδομική φάση του Ωδείου.</gr>
+                <en>The surviving statues of Giants and Tritons from the second phase of the Odeion.</en>
+              </caption>
+            </image>
+          </images>
+        </point>
+      </points>
+    </scene>
+</scenes>
