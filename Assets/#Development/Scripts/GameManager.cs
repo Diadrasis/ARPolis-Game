@@ -169,7 +169,7 @@ public class GameManager : Singleton<GameManager>
 			{
 				if (poiQuestions.Count > 0)
 				{
-					Debug.LogWarning("Next Question");
+					if (Application.isEditor) Debug.LogWarning("Next Question");
 					poiQuestions.Remove(poiSearchingNow);
 
 					totalPoisUnlocked++;
@@ -184,7 +184,8 @@ public class GameManager : Singleton<GameManager>
 
 					if (poiQuestions.Count <= 0)
 					{
-						Debug.LogWarning("YOU WIN !!!!!!!!!!!!!!!!!!!");
+						if (Application.isEditor) Debug.LogWarning("YOU WIN !!!!!!!!!!!!!!!!!!!");
+						Handheld.Vibrate();
 						aPoiFound = false;
 						isGameCompleted = true;
 						gameTotalScore += Mathf.RoundToInt(gameTotalTime / 10f);
@@ -217,7 +218,8 @@ public class GameManager : Singleton<GameManager>
 					ShowIntroMessage("game_over", "game_over_title");
                 }
 
-				Debug.LogWarning("NO NO NO - Try another poi");
+				if (Application.isEditor) Debug.LogWarning("NO NO NO - Try another poi");
+				Handheld.Vibrate();
 			}
 		}
 	}

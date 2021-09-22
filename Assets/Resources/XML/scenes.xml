@@ -71,10 +71,10 @@ Can you a find a building that is considered the oldest meteorological station i
 				<name>pantheon</name>
         <quest>
           <gr>
-            <![CDATA[Πάνθεον question]]>
+            <![CDATA[Οι Αρχαίοι Έλληνες πίστευαν σε πολλούς θεούς. Βρείτε ένα κτίριο αφιερωμένο σε όλους τους.]]>
           </gr>
           <en>
-            <![CDATA[Pantheon question]]>
+            <![CDATA[Ancient Greeks believed in many Gods. Find the building dedicated to all of them.]]>
           </en>
         </quest>
 				<title>
@@ -93,10 +93,10 @@ Can you a find a building that is considered the oldest meteorological station i
 				<name>bibliothiki_andrianou</name>
         <quest>
           <gr>
-            <![CDATA[Βιβλιοθήκη Αδριανού question]]>
+            <![CDATA[Ο Αυτοκράτορας Ανδριανός έκανε δώρο στην Αθήνα ένα κτίριο σύμβολο μάθησης. Μπορείτε να βρείτε πιο είναι αυτό;]]>
           </gr>
           <en>
-            <![CDATA[Library of Hadrian question]]>
+            <![CDATA[Emperor Andrian gifted to Athens a building which can be considered a symbol of education. Can you find which one it is?]]>
           </en>
         </quest>
 				<title>
@@ -145,10 +145,10 @@ Can you a find a building that is considered the oldest meteorological station i
 				<name>agora_roman</name>
         <quest>
           <gr>
-            <![CDATA[Ρωμαϊκή Αγορά question]]>
+            <![CDATA[Οι Αρχαίοι Έλληνες ήταν ενεργοί πολίτες. Συγκεντρώνονταν συχνά για να συζητήσουν για τον δήμο και την πολιτική της πόλης. Ποιο πιστεύετε ήταν το μέρος όπου βρισκόταν για να μιλήσουν για αυτά τα θέματα;]]>
           </gr>
           <en>
-            <![CDATA[Roman Agora question]]>
+            <![CDATA[The ancient Greeks were active citizens. They often gathered to discuss about the municipality and the city politics. What do you think was the place they gathered to talk about these issues?]]>
           </en>
         </quest>
 				<title>
@@ -236,10 +236,10 @@ Can you a find a building that is considered the oldest meteorological station i
 				<name>vespasianes</name>
         <quest>
           <gr>
-            <![CDATA[Βεσπασιανές question]]>
+            <![CDATA[Τα αποχωρητήρια εκείνης της εποχής ήταν επί πληρωμή και βρισκόταν σε ένα τετράγωνο κτίριο. Μπορείτε να το βρείτε;]]>
           </gr>
           <en>
-            <![CDATA[Vespasianes question]]>
+            <![CDATA[The toilets of that time were paid and were located in a square building. Can you find it?]]>
           </en>
         </quest>
 				<title>
@@ -258,10 +258,10 @@ Can you a find a building that is considered the oldest meteorological station i
 				<name>gate_archigetidos</name>
         <quest>
           <gr>
-            <![CDATA[Πύλη Αθηνάς Αρχηγέτιδος question]]>
+            <![CDATA[Τα Πρόπυλα ήταν μεγαλοπρεπείς είσοδοι σε σημαντικά μνημεία ή σημεία της πόλης. Βρείτε το Πρόπυλο αφιερωμένο στην προστάτιδα της πόλης της Αθήνας.]]>
           </gr>
           <en>
-            <![CDATA[Gate of Athena Archigetis question]]>
+            <![CDATA[The Propylaea were majestic entrances to important monuments or parts of the city. Find the Propylon dedicated to the patron saint of the city of Athens.]]>
           </en>
         </quest>
 				<title>
@@ -404,6 +404,14 @@ Could you find which building is this?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>hamam</name>
+        <quest>
+          <gr>
+            <![CDATA[Επί την εποχή της Οθωμανικής κυριαρχίας υπήρχε ένα μέρος εξαγνισμού αλλά και κοινωνικής συναναστροφής. Μπορείτε να βρείτε ποιο είναι αυτό;]]>
+          </gr>
+          <en>
+            <![CDATA[During the Ottoman rule, there was a place of purification and socialization at the same time. Can you find what this is?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Χαμάμ - Λουτρό του Σταροπάζαρου</gr>
 					<en>Hammam</en>
@@ -457,6 +465,14 @@ Could you find which building is this?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>tzami</name>
+        <quest>
+          <gr>
+            <![CDATA[Μία παλιά χριστιανική Βασιλική μετατράπηκε σε χώρο λατρείας των Οθωμανών από τον Μωάμεθ. Μπορείτε να βρείτε ποιο κτίριο είναι αυτό;]]>
+          </gr>
+          <en>
+            <![CDATA[An old Christian Basilica was converted into a place of worship by Mohammed the Conqueror. Can you find which building this is?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Φετιχιέ Τζαμί</gr>
 					<en>Tzami</en>
@@ -487,6 +503,14 @@ Could you find which building is this?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>mendreses</name>
+        <quest>
+          <gr>
+            <![CDATA[Κατά την βασιλεία του Όθωνα το μουσουλμανικό ιεροδιδασκαλίο μετατράπηκε σε φυλακή. Μπορείτε να βείτε ποιο κτίριο ήταν αυτό;]]>
+          </gr>
+          <en>
+            <![CDATA[During the reign of Otto, the Muslim teaching facility was turned into a prison. Can you see which building this was?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Μεδρεσές (Ιεροδιδασκαλείο)</gr>
 					<en>Mentreses</en>
@@ -517,6 +541,14 @@ Could you find which building is this?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>tekesPre</name>
+        <quest>
+          <gr>
+            <![CDATA[Οι χώροι λατρείας των Οθωμανών ήταν συγκεντρωμένοι σε ένα μέρος. Μπορείτε να το βρείτε;]]>
+          </gr>
+          <en>
+            <![CDATA[The places of worship of the Ottomans were concentrated in one place. Can you find it?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Τεκές</gr>
 					<en>Tekes</en>
@@ -544,6 +576,14 @@ Could you find which building is this?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>Bath_of_Olympieion</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε ένα μέρος όπου οι άνθρωποι έκαναν μπάνιο.]]>
+          </gr>
+          <en>
+            <![CDATA[Find a place where people bathed.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Βαλανείο Ολυμπιείου</gr>
 					<en>Bath of Olympieion</en>
@@ -645,6 +685,14 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>propylon_olympieion</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε την είσοδο στο ιερό του πατέρα των Θεών.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the entrance to the sanctuary of the Father of Gods.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Πρόπυλο</gr>
 					<en>Propylon</en>
@@ -665,7 +713,7 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 				</title>
 				<shortDescriptions>
 					<shortDescription>
-						<gr><![CDATA[Νότια κλιτύς Ακρόπολης]]></gr>
+						<gr><![CDATA[Πολλά σημαντικά ιερά και θέατρα χτίστηκαν στη νότια πλευρά της Ακρόπολης, προσφέροντας της μεγάλη θρησκευτική, πολιτιστική και πνευματική σημασία. Επισκεφτείτε την περιοχή σε αυτήν την εφαρμογή για να μάθετε περισσότερα σχετικά με τη νότια πλαγιά και τα κτίριά του.]]></gr>
 						<en><![CDATA[Acropolis' south slope. Many important sanctuaries and theatrical buildings were built on the south side of the Acropolis, giving it great religious, cultural and spiritual significance. Visit the site in this app to learn more about the south slope and its buildings.]]></en>
 					</shortDescription>
 				</shortDescriptions>
@@ -679,7 +727,7 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 				</title>
 				<shortDescriptions>
 					<shortDescription>
-						<gr><![CDATA[Ακρόπολη]]></gr>
+						<gr><![CDATA[Η Ακρόπολη, η αρχαία ακρόπολη της Αθήνας, περιέχει μερικά από τα πιο διάσημα κτίρια του αρχαίου ελληνικού κόσμου και μπορείτε να την δείτε στην παλιά της δόξα και σε αυτήν την εφαρμογή!]]></gr>
 						<en><![CDATA[The Acropolis, the ancient citadel of Athens, contains some of the most famous buildings of the ancient Greek world and can be viewed in its old glory in this app as well!]]></en>
 					</shortDescription>
 				</shortDescriptions>
@@ -687,6 +735,14 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>olympieion</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε το ιερό του Θεού των θεών.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the sanctuary of the God of Gods.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ναός του Ολυμπίου Διός</gr>
 					<en>Temple of Olympian Zeus</en>
@@ -746,6 +802,14 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>pericles</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε το κτίριο με το όνομα του ανθρώπου στον οποίο ωφείλεται ο χρυσός αιώνας της αρχαίας Αθήνας.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the building that has the name of the person to whom Athens owes its Golden Age.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ωδείο Περικλή</gr>
 					<en>Odeion of Pericles</en>
@@ -787,6 +851,14 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>Theatre_of_Dionyssos</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε το κτίριο όπου τελούνταν  η μεγαλύτερη θεατρική γιορτή της πόλης των Αθηναίων.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the building where took place the largest theatrical festival of Athens.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Θέατρο Διονύσου</gr>
 					<en>Theater of Dionysos</en>
@@ -828,6 +900,14 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>temple_dionysos</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε ένα Ναό που οι Αρχαίοι Έλληνες είχα αφιερώσει στη λατρεία του Θεού του κρασιού.]]>
+          </gr>
+          <en>
+            <![CDATA[Find a Temple which Ancient Greeks had dedicated to the worship of the God of wine.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ιερό του Διονύσου Ελευθερέως</gr>
 					<en>Sanctuary of Dionysos Eleuthereos</en>
@@ -860,6 +940,14 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>nikias</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε ένα κτίριο του οποίου το όνομα θυμίζει την λέξη Νίκη.]]>
+          </gr>
+          <en>
+            <![CDATA[Find a building whose name reminds us of the gree word for victory "Niki".]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Χορηγικό μνημείο Νικία</gr>
 					<en>Nikias choragic monument</en>
@@ -901,6 +989,14 @@ Many years later, during the roman era, at 131-132 AD, the Atheneans erected a m
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>stoa_evmenous</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε το μέρος όπου θα καθόταν οι επισκέπτες του θεάτρου ώστε να προφυλαχθούν από την βροχή.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the place where the visitors of the theatre would go to sit when it rained.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Στοά Ευμένους</gr>
 					<en>Stoa of Eumenes</en>
@@ -1435,6 +1531,14 @@ One of the monuments was build to honor a deceased wife. Which one?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>aiakeion</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε έναν κτίριο με υπαίθριο χώρο.]]>
+          </gr>
+          <en>
+            <![CDATA[Find a building with outdoor space.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Αιάκειον</gr>
 					<en>Aiakeion</en>
@@ -1532,6 +1636,14 @@ One of the monuments was build to honor a deceased wife. Which one?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>Archaic_fountain_house</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε το μέρος ύδρευσης της αγοράς.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the water supply part of the market.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Νοτιοανατολική κρήνη</gr>
 					<en>Southeast fountain house</en>
@@ -1571,6 +1683,14 @@ One of the monuments was build to honor a deceased wife. Which one?]]>
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>The_Mint</name>
+        <quest>
+          <gr>
+            <![CDATA[Το μέρος που ψάχνεις έχει σχέση με χρήματα.]]>
+          </gr>
+          <en>
+            <![CDATA[The place you are looking for has to do with money.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Νομισματοκοπείο</gr>
 					<en>The Mint</en>
@@ -1658,6 +1778,14 @@ Here was a building that was considered the centre of the city of Athens, hence 
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>Eschara</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρες το μικρότερο ιερό της Αγοράς.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the smallest sanctuary of the Agora.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Εσχάρα</gr>
 					<en>Eschara</en>
@@ -1672,6 +1800,14 @@ Here was a building that was considered the centre of the city of Athens, hence 
 			<point status="1">
 				<showInfo>0</showInfo>
 				<name>acropolis</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρες το διασημότερο μνημείο της Αρχαίας Ελληνικής Ιστορίας.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the most famous monument of Ancient Greek History.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ακρόπολη</gr>
 					<en>Acropolis</en>
@@ -1690,6 +1826,14 @@ Here was a building that was considered the centre of the city of Athens, hence 
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>Pompeion</name>
+        <quest>
+          <gr>
+            <![CDATA[Σε ένα από τα κτίρια του Κεραμεικού γινόταν η προετοιμασία της μεγάλης γιορτής των Παναθηναίων. Το κτίριο αυτό είχε μία χαρακτηριστική περίστυλη αυλή. Μπορείτε να το βρείτε;]]>
+          </gr>
+          <en>
+            <![CDATA[In one of the buildings in Kerameikos, the preparation of the Panathenaic Games took place. This building had a characteristic peristyle courtyard. Can you find it?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Πομπείον</gr>
 					<en>Pompeion</en>
@@ -1731,6 +1875,14 @@ Here was a building that was considered the centre of the city of Athens, hence 
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>loutro</name>
+        <quest>
+          <gr>
+            <![CDATA[Υπάρχει ένα μέρος στον Κεραμεικό που ήταν δημόσιο τόσο για τους Αθηναίου όσο και για ταξιδιώτες. Το στοιχείο για να το βρείε είναι η λέξη κάθαρση.]]>
+          </gr>
+          <en>
+            <![CDATA[There is a place in Kerameikos that was public for both Athenians and travellers. The clue to find it is the word cleansing.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Λουτρό</gr>
 					<en>Bath</en>
@@ -1745,6 +1897,14 @@ Here was a building that was considered the centre of the city of Athens, hence 
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>dipylon</name>
+        <quest>
+          <gr>
+            <![CDATA[Η Αρχαία Αθήνα είναι έως και σήμερα μία από της πιο διάσημες ιστορικές πόλεις στον κόσμο. Μπορείτε να βρείτε την αρχαία είσοδο σε αυτή την ιστορική πόλη;]]>
+          </gr>
+          <en>
+            <![CDATA[Ancient Athens is until today on of the most famous historical cities in the world. Can you find the ancient entrance of the historic city?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Δίπυλον</gr>
 					<en>Dipylon</en>
@@ -1792,6 +1952,14 @@ Here was a building that was considered the centre of the city of Athens, hence 
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>ierapyli</name>
+        <quest>
+          <gr>
+            <![CDATA[Από την δεύτερη είσοδο της Αρχαίας Αθήνας ξεκινούσε η πομπή της Ιεράς γιορτής των Ελευσίνιων μυστηρίων. Μπορείτε να βρείτε την πύλη αυτή;]]>
+          </gr>
+          <en>
+            <![CDATA[From the second entrance of the Ancient city of Athens started the procession of the sacred Eleusinian Mysteries. Can you find this entrance?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ιερά Πύλη</gr>
 					<en>Sacred Gate</en>
@@ -1831,6 +1999,14 @@ Here was a building that was considered the centre of the city of Athens, hence 
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>teixos</name>
+        <quest>
+          <gr>
+            <![CDATA[Βρείτε το βασικό αρχιτεκτονικό κατασκεύασμα που προστάτευε την Αρχαία Αθήνα από τους εχθρούς της.]]>
+          </gr>
+          <en>
+            <![CDATA[Find the basic architectural structure that protected Ancient Athens from its enemies.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Τείχη</gr>
 					<en>City Wall</en>
@@ -1943,6 +2119,14 @@ According to Pausanias' here was a fountain which served to quench the thirst of
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>parthenon</name>
+        <quest>
+          <gr>
+            <![CDATA[Ένα μνημείο της Αρχαίας Αθήνας άντεξε μέσα στους αιώνες και έχει γίνει σήμερα σύμβολο παγκοσμίως. Μπορείτε να βρείτε ποιο;]]>
+          </gr>
+          <en>
+            <![CDATA[A monument of Ancient Athens has endured through the centuries and has today become a symbol worldwide. Can you find which one?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Παρθενώνας</gr>
 					<en>Parthenon</en>
@@ -1989,6 +2173,14 @@ According to Pausanias' here was a fountain which served to quench the thirst of
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>tethrippon1</name>
+        <quest>
+          <gr>
+            <![CDATA[Έπειτα από νίκη τους σε αρματοδρομίες πολλές φορές οι βασιλιάδες έκαναν δωρεά στην πόλη αγάλματα που αποθανάτιζαν την νίκη τους. Μπορείτε να ανακαλύψετε ένα από αυτά;]]>
+          </gr>
+          <en>
+            <![CDATA[After their victory in chariot races many times kings donated to the city statues that immortalized their victory. Can you find one of these?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Τέθριππο</gr>
 					<en>Τethrippon</en>
@@ -2067,6 +2259,14 @@ According to Pausanias' here was a fountain which served to quench the thirst of
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>vomos</name>
+        <quest>
+          <gr>
+            <![CDATA[Κάθε ιερό είχε ένα βασικό σημείο όπου γινόταν οι θυσίες στους θεούς που λατρεύονταν. Μπορείτε να βρείτε πoιο μέρος ήταν αυτό στην Ακρόπολη;]]>
+          </gr>
+          <en>
+            <![CDATA[Each sanctuary had a key point where sacrifices were made to the gods that were worshiped. Can you find this place in the Acropolis?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Βωμός Αθηνάς</gr>
 					<en>Altar of Athena</en>
@@ -2090,6 +2290,14 @@ According to Pausanias' here was a fountain which served to quench the thirst of
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>romi</name>
+        <quest>
+          <gr>
+            <![CDATA[Με την άνοδο της Ρωμαϊκής Αυτοκρατορίας χτίστηκαν πολλά μνημεία φόροι τιμής στους αυτοκράτορες. Μπορείτε να βρείτε ένα από αυτά στο χώρο;]]>
+          </gr>
+          <en>
+            <![CDATA[With the rise of the Roman Empire, many monuments were built in honor of the emperors. Can you find one of these on the site?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ναός Ρώμης και Αυγούστου</gr>
 					<en>Temple of Rome and Augustus</en>
@@ -2113,6 +2321,14 @@ According to Pausanias' here was a fountain which served to quench the thirst of
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>zeus</name>
+        <quest>
+          <gr>
+            <![CDATA[Μία από της πιο σύνηθες θυσίες στην Αρχαία Αθήνα ήταν αυτή των βοδιών. Οι θυσίες γινόταν σε ένα από τα ιερά του Δία. Μπορείτε να βρείτε σε ποιο;]]>
+          </gr>
+          <en>
+            <![CDATA[One of the most common sacrifices in Ancient Athens was that of oxens. Sacrifices were made in one of the sanctuaries of Zeus. Can you find in which one?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ναός Διός Πολιέως</gr>
 					<en>Temple of Zeus Polieus</en>
@@ -2127,6 +2343,14 @@ According to Pausanias' here was a fountain which served to quench the thirst of
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>arrephorion</name>
+        <quest>
+          <gr>
+            <![CDATA[Κάθε χρόνο επιλέγονταν δύο Αρρηφόρες, κορίτσια ηλίκίας 7-11 ετών, για να υφάνουν το πέπλο της Θεάς Αθηνάς με το οποίο κάλυπταν το ξόανο της θεάς κατά τη γιορτή των Παναθηναίων. Βρείτε το μέρος όπου κατηκούσαν αυτές οι κοπέλες κατά τη διάρκεια αυτού του χρόνου.]]>
+          </gr>
+          <en>
+            <![CDATA[Every year, two Arrifores, girls aged 7-11, were chosen to weave the veil of the Goddess Athena with which they covered the stele of the goddess during the Panathenaic Games. Find the place where these girls lived during this year.]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Αρρηφόριο</gr>
 					<en>Arrephorion</en>
@@ -2222,6 +2446,14 @@ The historian Pausanias mentions that one of the monuments here was visible to t
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>chalkothiki</name>
+        <quest>
+          <gr>
+            <![CDATA[Οι Αθηναίοι προσέφεραν συχνά στην πόλη δώρα φτιαγμένα από χαλκό. Βρείτε το κτίριο όπου φυλάσσοταν όλες αυτές οι προσφορές.]]>
+          </gr>
+          <en>
+            <![CDATA[The Athenians regularly offered to the city gifts made out of bronze. Can you find the building that housed all of these offerings?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Χαλκοθήκη</gr>
 					<en>Chalkotheke </en>
@@ -2259,6 +2491,14 @@ The historian Pausanias mentions that one of the monuments here was visible to t
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>artemistemple</name>
+        <quest>
+          <gr>
+            <![CDATA[Μία από της πιο γνωστές θεές του δωδεκάθεου είχε ως σύμβολό της ένα ελάφι με χρυσά κέρατα και ήταν προστάτιδα των ζώων. Μπορείτε να βρείτε το ιερό της;]]>
+          </gr>
+          <en>
+            <![CDATA[One of the most famous goddesses of the Twelve Gods had as her symbol a deer with golden horns and was the protector of animals. Can you find her sanctuary?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ναός Αρτέμιδος Βραυρωνίας</gr>
 					<en>Temple of Artemis Brauronia</en>
@@ -2273,6 +2513,14 @@ The historian Pausanias mentions that one of the monuments here was visible to t
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>pandion</name>
+        <quest>
+          <gr>
+            <![CDATA[Μία από της δέκα φυλές της Αθήνας, οι Πανδιονίδα, είχε το ιερό της εκεί όπου σήμερα στεγάζεται το παλαιό μουσείο της Ακρόπολης. Μπορείτε να βρείτε το κτίριο;]]>
+          </gr>
+          <en>
+            <![CDATA[One of the ten tribes of Athens, the Pandionida, had its sanctuary where today the old museum of the Acropolis is housed. Can you find the building?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ιερό Πανδίονος</gr>
 					<en>Pandion Sanctuary</en>
@@ -2287,6 +2535,14 @@ The historian Pausanias mentions that one of the monuments here was visible to t
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>erechtheion</name>
+        <quest>
+          <gr>
+            <![CDATA[Ο πιο ιερός τόπος λατρείας της Αρχαίας Αθήνας στηρίζεται έως και σήμερα πάνω στα κεφάλια αρχαίων ελληνίδων κορών. Μπορείτε να βρείτε πιο είναι αυτό το κτίριο;]]>
+          </gr>
+          <en>
+            <![CDATA[The most sacred place of worship in Ancient Athens still rests on the heads of ancient Greek daughters. Can you find more is this building?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ερέχθειο</gr>
 					<en>Erechtheion</en>
@@ -2333,6 +2589,14 @@ The historian Pausanias mentions that one of the monuments here was visible to t
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>pandroseion</name>
+        <quest>
+          <gr>
+            <![CDATA[Μία από της κόρες του μυθικού ιδρυτή της πόλης των Αθηνών, Κέκροπα ονομαζόταν Πάνδροσο. Μπορείτε να ανακαλύψετε το ιερό που ήταν αφιερωμένο σε αυτή;]]>
+          </gr>
+          <en>
+            <![CDATA[One of the daughters of the mythical founder of the city of Athens, Kekropas was named Pandroso. Can you discover the sanctuary that was dedicated to her?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Πανδρόσειον</gr>
 					<en>Pandroseion</en>
@@ -2395,6 +2659,14 @@ The historian Pausanias mentions that one of the monuments here was visible to t
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>pinakothiki</name>
+        <quest>
+          <gr>
+            <![CDATA[Η Αρχαία Αθήνα υπήρξε κέντρο κουλτούρας και τεχνών. Μπορείτε να βρείτε το κτίριο που στέγαζε διάσημα έργα καλλιτεχνών;]]>
+          </gr>
+          <en>
+            <![CDATA[Ancient Athens was a center of culture and the arts. Can you find the building that housed famous works of art?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Πινακοθήκη</gr>
 					<en>Pinakotheke</en>
@@ -2418,6 +2690,14 @@ The historian Pausanias mentions that one of the monuments here was visible to t
 			<point status="1">
 				<showInfo>1</showInfo>
 				<name>nike</name>
+        <quest>
+          <gr>
+            <![CDATA[Συνήθως στην αρχαιότητα η θεά Νική απεικονίζοταν με φτερά. Σε ένα ιερό της Ακρόπολης όμως φυλλάσοταν το ξόανο της θεάς Αθηνάς Νίκης, της «απτέρου», δηλαδή χωρίς φτερά, για να μη φύγει ποτέ από την πόλη της Αθήνας. Μπορείτε να βρείτε το κτίριο;]]>
+          </gr>
+          <en>
+            <![CDATA[Usually in antiquity the goddess Niki was depicted with wings. In a sanctuary of the Acropolis, however, was kept the stele of the goddess Athena Nike, the "apteros" (with no wings), so that she never left the city of Athens. Can you find the building?]]>
+          </en>
+        </quest>
 				<title>
 					<gr>Ναός ΑΘηνάς Νίκης</gr>
 					<en>Temple of Athena Nike</en>

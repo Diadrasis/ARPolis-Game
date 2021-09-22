@@ -611,14 +611,14 @@ public class MenuUI : MonoBehaviour
 
 	void ShowPoiInfo()
     {
-		Debug.LogWarning("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+		if(Application.isEditor) Debug.LogWarning("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
         if (Diadrasis.Instance.isGameMode)
         {
             if (GameManager.Instance.isGameStarted)
             {
 				if (GameManager.Instance.isGameCompleted)
                 {
-					Debug.Log("###############@@@@@@@@@@@ @@@@@@@@@@@@@@ @@@@@@@@@@@@@@");
+					if (Application.isEditor) Debug.Log("###############@@@@@@@@@@@ @@@@@@@@@@@@@@ @@@@@@@@@@@@@@");
 					infoUI.SetShortDesc();
 					animControl.ShortDescShow();
                 }
